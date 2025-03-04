@@ -1,0 +1,62 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:1902495","GO:1902495",1,"GO:1902495",22.3263433308581,1,"transmembrane transporter complex","transmembrane transporter complex",0.786377049180328,0.570142857142857,0
+"GO:1990351","GO:1990351",2,"GO:1990351",20.9447937383742,0,"transporter complex","transporter complex",0.826786885245902,0.711333333333333,0
+"GO:0044224","GO:0044224",3,"GO:0044224",20.6907603053865,7,"juxtaparanode region of axon","juxtaparanode region of axon",0.777672131147541,0.770068965517241,0
+"GO:0030017","GO:0030017",3,"GO:0044224",11.6273733265221,11,"sarcomere","juxtaparanode region of axon",0.714868852459016,0.623137931034483,0.242
+"GO:0061617","GO:0061617",1,"GO:1902495",9.74067375571829,15,"MICOS complex","transmembrane transporter complex",0.824393442622951,0.772142857142857,0.36
+"GO:0033017","GO:0033017",3,"GO:0044224",9.70978354269989,10,"sarcoplasmic reticulum membrane","juxtaparanode region of axon",0.772114754098361,0.641068965517241,0.124
+"GO:0097418","GO:0097418",3,"GO:0044224",9.45667709935309,0,"neurofibrillary tangle","juxtaparanode region of axon",0.792,0.762758620689655,0.257
+"GO:0098894","GO:0098894",4,"GO:0098894",9.45667709935309,5,"extrinsic component of presynaptic endocytic zone membrane","extrinsic component of presynaptic endocytic zone membrane",0.829475409836066,0.664214285714286,0
+"GO:1990425","GO:1990425",3,"GO:0044224",9.3502217684388,0,"ryanodine receptor complex","juxtaparanode region of axon",0.765918032786885,0.703,0.104
+"GO:0070381","GO:0070381",3,"GO:0044224",8.77093536075082,0,"endosome to plasma membrane transport vesicle","juxtaparanode region of axon",0.806081967213115,0.732793103448276,0.179
+"GO:0016529","GO:0016529",3,"GO:0044224",8.36773601601631,31,"sarcoplasmic reticulum","juxtaparanode region of axon",0.724327868852459,0.57248275862069,0.18
+"GO:0033270","GO:0033270",3,"GO:0044224",8.29282029671442,6,"paranode region of axon","juxtaparanode region of axon",0.777672131147541,0.770068965517241,0.758
+"GO:0098688","GO:0098688",4,"GO:0098894",8.19040920994832,0,"parallel fiber to Purkinje cell synapse","extrinsic component of presynaptic endocytic zone membrane",0.83155737704918,0.731285714285714,0.232
+"GO:0005833","GO:0005833",3,"GO:0044224",8.11425441853088,28,"hemoglobin complex","juxtaparanode region of axon",0.713377049180328,0.664413793103448,0.26
+"GO:0005891","GO:0005891",1,"GO:1902495",8.11425441853088,52,"voltage-gated calcium channel complex","transmembrane transporter complex",0.80255737704918,0.550857142857143,0.652
+"GO:0070937","GO:0070937",3,"GO:0044224",7.98410347238415,5,"CRD-mediated mRNA stability complex","juxtaparanode region of axon",0.690032786885246,0.628862068965517,0.271
+"GO:0044304","GO:0044304",3,"GO:0044224",7.87421266408851,1,"main axon","juxtaparanode region of axon",0.771868852459016,0.762827586206897,0.876
+"GO:0106002","GO:0106002",3,"GO:0044224",7.7825306787421,0,"mCRD-mediated mRNA stability complex","juxtaparanode region of axon",0.713377049180328,0.664413793103448,0.26
+"GO:0005861","GO:0005861",3,"GO:0044224",7.65624945425829,48,"troponin complex","juxtaparanode region of axon",0.754,0.68148275862069,0.181
+"GO:0005865","GO:0005865",3,"GO:0044224",7.49053536661406,8,"striated muscle thin filament","juxtaparanode region of axon",0.776032786885246,0.687758620689655,0.178
+"GO:0033018","GO:0033018",3,"GO:0044224",7.42803191790356,5,"sarcoplasmic reticulum lumen","juxtaparanode region of axon",0.780573770491803,0.652689655172414,0.14
+"GO:0014802","GO:0014802",3,"GO:0044224",7.42803191790356,0,"terminal cisterna","juxtaparanode region of axon",0.752393442622951,0.616827586206897,0.164
+"GO:0060076","GO:0060076",4,"GO:0098894",7.2743368910204,6,"excitatory synapse","extrinsic component of presynaptic endocytic zone membrane",0.802868852459016,0.690571428571429,0.288
+"GO:0033655","GO:0033655",5,"GO:0033655",7.17887694440758,0,"host cell cytoplasm part","host cell cytoplasm part",0.821885245901639,0.418875,0
+"GO:0000137","GO:0000137",3,"GO:0044224",6.67852584896944,2,"Golgi cis cisterna","juxtaparanode region of axon",0.790196721311475,0.69448275862069,0.169
+"GO:0030430","GO:0030430",5,"GO:0033655",6.50589512202327,0,"host cell cytoplasm","host cell cytoplasm part",0.809540983606557,0.391,0.879
+"GO:0043656","GO:0043656",5,"GO:0033655",6.50589512202327,0,"host intracellular region","host cell cytoplasm part",0.783065573770492,0.38125,0.69
+"GO:0033646","GO:0033646",5,"GO:0033655",6.50589512202327,0,"host intracellular part","host cell cytoplasm part",0.793131147540984,0.371625,0.799
+"GO:0098888","GO:0098888",4,"GO:0098894",6.40056115737416,0,"extrinsic component of presynaptic membrane","extrinsic component of presynaptic endocytic zone membrane",0.819393442622951,0.656357142857143,0.843
+"GO:0020003","GO:0020003",5,"GO:0033655",6.31054906367485,0,"symbiont-containing vacuole","host cell cytoplasm part",0.831852459016393,0.56075,0.697
+"GO:0098835","GO:0098835",4,"GO:0098894",6.25343359425379,0,"presynaptic endocytic zone membrane","extrinsic component of presynaptic endocytic zone membrane",0.801245901639344,0.642928571428571,0.804
+"GO:0016528","GO:0016528",3,"GO:0044224",6.14891372103014,0,"sarcoplasm","juxtaparanode region of axon",0.699836065573771,0.603172413793103,0.283
+"GO:0098833","GO:0098833",4,"GO:0098894",6.07210105223903,0,"presynaptic endocytic zone","extrinsic component of presynaptic endocytic zone membrane",0.755590163934426,0.646071428571429,0.512
+"GO:0099243","GO:0099243",4,"GO:0098894",5.72098428799233,0,"extrinsic component of synaptic membrane","extrinsic component of presynaptic endocytic zone membrane",0.810950819672131,0.657285714285714,0.722
+"GO:0098797","GO:0098797",1,"GO:1902495",5.69971514803938,1,"plasma membrane protein complex","transmembrane transporter complex",0.755131147540984,0.582285714285714,0.482
+"GO:0005583","GO:0005583",4,"GO:0098894",5.28451613392584,0,"fibrillar collagen trimer","extrinsic component of presynaptic endocytic zone membrane",0.800868852459016,0.7065,0.108
+"GO:0098643","GO:0098643",4,"GO:0098894",5.28451613392584,0,"banded collagen fibril","extrinsic component of presynaptic endocytic zone membrane",0.810508196721311,0.671357142857143,0.119
+"GO:0030132","GO:0030132",1,"GO:1902495",5.25830944558625,7,"clathrin coat of coated pit","transmembrane transporter complex",0.783098360655738,0.694571428571429,0.309
+"GO:0097512","GO:0097512",3,"GO:0044224",5.17268044298789,0,"cardiac myofibril","juxtaparanode region of axon",0.772967213114754,0.676310344827586,0.176
+"GO:0005581","GO:0005581",2,"GO:1990351",4.96182707767299,62,"collagen trimer","transporter complex",0.833852459016393,0.711333333333333,0.543
+"GO:0005778","GO:0005778",3,"GO:0044224",4.90383513069531,41,"peroxisomal membrane","juxtaparanode region of axon",0.782098360655738,0.687620689655172,0.159
+"GO:0031903","GO:0031903",3,"GO:0044224",4.90383513069531,0,"microbody membrane","juxtaparanode region of axon",0.749196721311475,0.640275862068965,0.174
+"GO:0034704","GO:0034704",1,"GO:1902495",4.82297382652966,5,"calcium channel complex","transmembrane transporter complex",0.824344262295082,0.617857142857143,0.763
+"GO:0033643","GO:0033643",5,"GO:0033655",4.77791048110536,0,"host cell part","host cell cytoplasm part",0.758,0.388875,0.625
+"GO:0005788","GO:0005788",3,"GO:0044224",4.61852791929416,44,"endoplasmic reticulum lumen","juxtaparanode region of axon",0.762622950819672,0.633586206896552,0.155
+"GO:0098644","GO:0098644",4,"GO:0098894",4.55714206657819,0,"complex of collagen trimers","extrinsic component of presynaptic endocytic zone membrane",0.779081967213115,0.621714285714286,0.155
+"GO:0062023","GO:0062023",4,"GO:0098894",4.55474368956109,101,"collagen-containing extracellular matrix","extrinsic component of presynaptic endocytic zone membrane",0.786918032786885,0.616,0.159
+"GO:0030312","GO:0030312",4,"GO:0098894",4.53046331351401,0,"external encapsulating structure","extrinsic component of presynaptic endocytic zone membrane",0.713508196721311,0.573571428571429,0.256
+"GO:0031012","GO:0031012",4,"GO:0098894",4.08617533902799,160,"extracellular matrix","extrinsic component of presynaptic endocytic zone membrane",0.75627868852459,0.594714285714286,0.198
+"GO:1990604","GO:1990604",3,"GO:0044224",3.9003745985858,2,"IRE1-TRAF2-ASK1 complex","juxtaparanode region of axon",0.748901639344262,0.65948275862069,0.141
+"GO:0034515","GO:0034515",3,"GO:0044224",3.67994743610424,1,"proteasome storage granule","juxtaparanode region of axon",0.726606557377049,0.611,0.22
+"GO:0005790","GO:0005790",3,"GO:0044224",3.67436988919829,4,"smooth endoplasmic reticulum","juxtaparanode region of axon",0.729508196721312,0.595034482758621,0.194
+"GO:0014701","GO:0014701",3,"GO:0044224",3.54748451337429,0,"junctional sarcoplasmic reticulum membrane","juxtaparanode region of axon",0.776081967213115,0.649724137931034,0.131
+"GO:0018995","GO:0018995",5,"GO:0033655",3.45667709935309,0,"host cellular component","host cell cytoplasm part",0.707016393442623,0.517625,0.441
+"GO:0043657","GO:0043657",5,"GO:0033655",3.45667709935309,0,"host cell","host cell cytoplasm part",0.749377049180328,0.4475,0.518
+"GO:0005955","GO:0005955",2,"GO:1990351",3.30177513936734,6,"calcineurin complex","transporter complex",0.892901639344262,0.784666666666667,0.323
+"GO:0005942","GO:0005942",1,"GO:1902495",3.23482834973673,25,"phosphatidylinositol 3-kinase complex","transmembrane transporter complex",0.79744262295082,0.690142857142857,0.443
+"GO:0030314","GO:0030314",3,"GO:0044224",3.1787124077578,10,"junctional membrane complex","juxtaparanode region of axon",0.712754098360656,0.650344827586207,0.247
+"GO:0071944","GO:0071944",4,"GO:0098894",3.06616110876026,7,"cell periphery","extrinsic component of presynaptic endocytic zone membrane",0.69455737704918,0.586571428571429,0.305
+"GO:0042583","GO:0042583",3,"GO:0044224",3.01155801298558,2,"chromaffin granule","juxtaparanode region of axon",0.783147540983607,0.708206896551724,0.203
+"GO:0036379","GO:0036379",3,"GO:0044224",3.01155801298558,0,"myofilament","juxtaparanode region of axon",0.714868852459016,0.623137931034483,0.242

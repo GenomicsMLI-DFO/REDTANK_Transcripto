@@ -1,0 +1,87 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0090403","GO:0090403",1,"GO:0090403",23.8364242147479,0,"oxidative stress-induced premature senescence","oxidative stress-induced premature senescence",0.850662790697674,0.503875,0
+"GO:0090400","GO:0090400",1,"GO:0090403",22.7809068868981,0,"stress-induced premature senescence","oxidative stress-induced premature senescence",0.826651162790698,0.5815,0.725
+"GO:0003408","GO:0003408",2,"GO:0003408",22.2088101189476,1,"optic cup formation involved in camera-type eye development","optic cup formation involved in camera-type eye development",0.783255813953488,0.520615384615385,0
+"GO:0090399","GO:0090399",3,"GO:0090399",21.6736969172502,1,"replicative senescence","replicative senescence",0.852755813953488,0.783833333333333,0
+"GO:0002072","GO:0002072",2,"GO:0003408",20.4306588685639,7,"optic cup morphogenesis involved in camera-type eye development","optic cup formation involved in camera-type eye development",0.799802325581395,0.543461538461538,0.949
+"GO:0060900","GO:0060900",2,"GO:0003408",19.0327188598919,1,"embryonic camera-type eye formation","optic cup formation involved in camera-type eye development",0.788267441860465,0.4945,0.83
+"GO:0060317","GO:0060317",2,"GO:0003408",17.9447636895367,0,"cardiac epithelial to mesenchymal transition","optic cup formation involved in camera-type eye development",0.800046511627907,0.612653846153846,0.299
+"GO:0043616","GO:0043616",3,"GO:0090399",16.8031832816092,0,"keratinocyte proliferation","replicative senescence",0.8875,0.668666666666667,0.183
+"GO:0048596","GO:0048596",2,"GO:0003408",16.7528781632978,11,"embryonic camera-type eye morphogenesis","optic cup formation involved in camera-type eye development",0.809418604651163,0.508923076923077,0.765
+"GO:0031076","GO:0031076",2,"GO:0003408",16.5555976051722,12,"embryonic camera-type eye development","optic cup formation involved in camera-type eye development",0.789558139534884,0.484153846153846,0.585
+"GO:0048048","GO:0048048",2,"GO:0003408",15.9601681927433,15,"embryonic eye morphogenesis","optic cup formation involved in camera-type eye development",0.794720930232558,0.485807692307692,0.694
+"GO:0090398","GO:0090398",1,"GO:0090403",14.9156054607955,6,"cellular senescence","oxidative stress-induced premature senescence",0.810337209302326,0.5705,0.685
+"GO:0046849","GO:0046849",4,"GO:0046849",14.0423702455681,5,"bone remodeling","bone remodeling",0.875476744186046,0.606,0
+"GO:0014066","GO:0014066",5,"GO:0014066",13.1101310832007,2,"regulation of phosphatidylinositol 3-kinase signaling","regulation of phosphatidylinositol 3-kinase signaling",0.816,0.494789473684211,0
+"GO:0014068","GO:0014068",5,"GO:0014066",13.0948667666407,25,"positive regulation of phosphatidylinositol 3-kinase signaling","regulation of phosphatidylinositol 3-kinase signaling",0.838941860465116,0.538526315789474,0.792
+"GO:0050673","GO:0050673",3,"GO:0090399",13.0027556365144,4,"epithelial cell proliferation","replicative senescence",0.861837209302326,0.6255,0.231
+"GO:0046330","GO:0046330",5,"GO:0014066",12.3448378277215,23,"positive regulation of JNK cascade","regulation of phosphatidylinositol 3-kinase signaling",0.835488372093023,0.491421052631579,0.398
+"GO:0014065","GO:0014065",5,"GO:0014066",12.2757569085782,20,"phosphatidylinositol 3-kinase signaling","regulation of phosphatidylinositol 3-kinase signaling",0.814732558139535,0.562421052631579,0.724
+"GO:0048762","GO:0048762",2,"GO:0003408",11.588368776792,0,"mesenchymal cell differentiation","optic cup formation involved in camera-type eye development",0.765127906976744,0.593576923076923,0.293
+"GO:0034599","GO:0034599",1,"GO:0090403",11.5067490376344,23,"cellular response to oxidative stress","oxidative stress-induced premature senescence",0.848918604651163,0.502875,0.742
+"GO:0030216","GO:0030216",6,"GO:0030216",11.3813904899911,7,"keratinocyte differentiation","keratinocyte differentiation",0.798127906976744,0.620666666666667,0
+"GO:0048015","GO:0048015",5,"GO:0014066",11.3813904899911,24,"phosphatidylinositol-mediated signaling","regulation of phosphatidylinositol 3-kinase signaling",0.798918604651163,0.526315789473684,0.672
+"GO:0048017","GO:0048017",5,"GO:0014066",11.3101258102094,4,"inositol lipid-mediated signaling","regulation of phosphatidylinositol 3-kinase signaling",0.779139534883721,0.483473684210526,0.644
+"GO:0048593","GO:0048593",2,"GO:0003408",11.3037856321784,18,"camera-type eye morphogenesis","optic cup formation involved in camera-type eye development",0.799325581395349,0.505807692307692,0.602
+"GO:0016331","GO:0016331",6,"GO:0030216",11.1618135562713,2,"morphogenesis of embryonic epithelium","keratinocyte differentiation",0.809162790697674,0.612,0.322
+"GO:0060485","GO:0060485",2,"GO:0003408",10.9125790061653,0,"mesenchyme development","optic cup formation involved in camera-type eye development",0.763395348837209,0.509423076923077,0.385
+"GO:0048771","GO:0048771",4,"GO:0046849",10.5457526705022,2,"tissue remodeling","bone remodeling",0.838488372093023,0.606,0.788
+"GO:0001837","GO:0001837",2,"GO:0003408",10.5054309957065,9,"epithelial to mesenchymal transition","optic cup formation involved in camera-type eye development",0.781186046511628,0.619653846153846,0.254
+"GO:0048592","GO:0048592",2,"GO:0003408",10.240994802319,9,"eye morphogenesis","optic cup formation involved in camera-type eye development",0.785976744186047,0.480115384615385,0.579
+"GO:0032874","GO:0032874",5,"GO:0014066",10.240994802319,1,"positive regulation of stress-activated MAPK cascade","regulation of phosphatidylinositol 3-kinase signaling",0.830395348837209,0.475315789473684,0.422
+"GO:0003007","GO:0003007",2,"GO:0003408",10.1387296723621,77,"heart morphogenesis","optic cup formation involved in camera-type eye development",0.791395348837209,0.538576923076923,0.376
+"GO:0070304","GO:0070304",5,"GO:0014066",10.1042132772732,0,"positive regulation of stress-activated protein kinase signaling cascade","regulation of phosphatidylinositol 3-kinase signaling",0.817779069767442,0.464315789473684,0.51
+"GO:0046328","GO:0046328",5,"GO:0014066",9.64814281277782,8,"regulation of JNK cascade","regulation of phosphatidylinositol 3-kinase signaling",0.812918604651163,0.451473684210526,0.494
+"GO:0062197","GO:0062197",1,"GO:0090403",9.58975188140652,0,"cellular response to chemical stress","oxidative stress-induced premature senescence",0.833662790697674,0.50225,0.628
+"GO:0009913","GO:0009913",6,"GO:0030216",9.50807109187269,5,"epidermal cell differentiation","keratinocyte differentiation",0.835604651162791,0.553222222222222,0.755
+"GO:0060070","GO:0060070",7,"GO:0060070",9.43411940067342,94,"canonical Wnt signaling pathway","canonical Wnt signaling pathway",0.833325581395349,0.511142857142857,0
+"GO:0007254","GO:0007254",5,"GO:0014066",8.98362062607417,12,"JNK cascade","regulation of phosphatidylinositol 3-kinase signaling",0.798279069767442,0.489105263157895,0.376
+"GO:0090596","GO:0090596",2,"GO:0003408",8.34365714421611,0,"sensory organ morphogenesis","optic cup formation involved in camera-type eye development",0.767604651162791,0.472076923076923,0.52
+"GO:0045165","GO:0045165",3,"GO:0090399",7.87781689990613,44,"cell fate commitment","replicative senescence",0.824790697674419,0.762166666666667,0.469
+"GO:0006979","GO:0006979",1,"GO:0090403",7.77230671513616,36,"response to oxidative stress","oxidative stress-induced premature senescence",0.864686046511628,0.672875,0.398
+"GO:0043588","GO:0043588",2,"GO:0003408",7.7052709216151,8,"skin development","optic cup formation involved in camera-type eye development",0.768604651162791,0.509153846153846,0.34
+"GO:0032872","GO:0032872",5,"GO:0014066",7.55167618365912,2,"regulation of stress-activated MAPK cascade","regulation of phosphatidylinositol 3-kinase signaling",0.805395348837209,0.428684210526316,0.532
+"GO:0070302","GO:0070302",5,"GO:0014066",7.43210410943809,0,"regulation of stress-activated protein kinase signaling cascade","regulation of phosphatidylinositol 3-kinase signaling",0.791453488372093,0.417631578947368,0.634
+"GO:0008544","GO:0008544",6,"GO:0030216",7.40732622408548,21,"epidermis development","keratinocyte differentiation",0.826279069767442,0.543444444444444,0.455
+"GO:0043010","GO:0043010",2,"GO:0003408",7.06863141578252,79,"camera-type eye development","optic cup formation involved in camera-type eye development",0.792616279069768,0.504461538461539,0.476
+"GO:0051403","GO:0051403",5,"GO:0014066",6.85037865155919,1,"stress-activated MAPK cascade","regulation of phosphatidylinositol 3-kinase signaling",0.7865,0.455105263157895,0.416
+"GO:0048562","GO:0048562",2,"GO:0003408",6.60966813063681,1,"embryonic organ morphogenesis","optic cup formation involved in camera-type eye development",0.779651162790698,0.492038461538462,0.607
+"GO:0031098","GO:0031098",5,"GO:0014066",6.60966813063681,0,"stress-activated protein kinase signaling cascade","regulation of phosphatidylinositol 3-kinase signaling",0.76796511627907,0.435789473684211,0.498
+"GO:0016055","GO:0016055",7,"GO:0060070",6.45406962762781,153,"Wnt signaling pathway","canonical Wnt signaling pathway",0.821186046511628,0.495571428571429,0.908
+"GO:0198738","GO:0198738",7,"GO:0060070",6.43065886856391,1,"cell-cell signaling by wnt","canonical Wnt signaling pathway",0.843244186046512,0.577857142857143,0.594
+"GO:0060548","GO:0060548",7,"GO:0060070",6.33011457090076,18,"negative regulation of cell death","canonical Wnt signaling pathway",0.85946511627907,0.722285714285714,0.247
+"GO:0043410","GO:0043410",5,"GO:0014066",6.17072900534793,25,"positive regulation of MAPK cascade","regulation of phosphatidylinositol 3-kinase signaling",0.827453488372093,0.502368421052632,0.551
+"GO:0001654","GO:0001654",2,"GO:0003408",6.17072900534793,84,"eye development","optic cup formation involved in camera-type eye development",0.780058139534884,0.476692307692308,0.481
+"GO:0150063","GO:0150063",2,"GO:0003408",6.16305262838688,0,"visual system development","optic cup formation involved in camera-type eye development",0.784837209302326,0.530038461538461,0.402
+"GO:0080134","GO:0080134",5,"GO:0014066",6.1268178955661,0,"regulation of response to stress","regulation of phosphatidylinositol 3-kinase signaling",0.833988372093023,0.670421052631579,0.302
+"GO:1905114","GO:1905114",7,"GO:0060070",6.08193688256206,0,"cell surface receptor signaling pathway involved in cell-cell signaling","canonical Wnt signaling pathway",0.795406976744186,0.505428571428571,0.8
+"GO:0030855","GO:0030855",6,"GO:0030216",5.77036889545817,8,"epithelial cell differentiation","keratinocyte differentiation",0.811244186046512,0.554222222222222,0.639
+"GO:0048880","GO:0048880",2,"GO:0003408",5.74361780217863,0,"sensory system development","optic cup formation involved in camera-type eye development",0.763279069767442,0.496576923076923,0.4
+"GO:0007507","GO:0007507",2,"GO:0003408",5.14351893322837,293,"heart development","optic cup formation involved in camera-type eye development",0.781209302325581,0.523153846153846,0.323
+"GO:0042221","GO:0042221",1,"GO:0090403",5.07618455367296,0,"response to chemical","oxidative stress-induced premature senescence",0.848360465116279,0.662625,0.311
+"GO:0048598","GO:0048598",2,"GO:0003408",5.0720821278904,17,"embryonic morphogenesis","optic cup formation involved in camera-type eye development",0.770406976744186,0.553076923076923,0.507
+"GO:0048568","GO:0048568",2,"GO:0003408",4.69708073580469,21,"embryonic organ development","optic cup formation involved in camera-type eye development",0.762639534883721,0.464961538461538,0.483
+"GO:0010941","GO:0010941",7,"GO:0060070",4.53102941368148,3,"regulation of cell death","canonical Wnt signaling pathway",0.828406976744186,0.674714285714286,0.336
+"GO:0007423","GO:0007423",2,"GO:0003408",4.45354795251175,6,"sensory organ development","optic cup formation involved in camera-type eye development",0.753720930232558,0.453769230769231,0.421
+"GO:0032695","GO:0032695",8,"GO:0032695",4.38970026088501,1,"negative regulation of interleukin-12 production","negative regulation of interleukin-12 production",0.890953488372093,0.549666666666667,0
+"GO:0008283","GO:0008283",3,"GO:0090399",4.27252793844797,44,"cell population proliferation","replicative senescence",0.826,0.618166666666667,0.306
+"GO:0048729","GO:0048729",6,"GO:0030216",4.27252793844797,0,"tissue morphogenesis","keratinocyte differentiation",0.801941860465116,0.511777777777778,0.296
+"GO:0032608","GO:0032608",8,"GO:0032695",4.10388213392365,0,"interferon-beta production","negative regulation of interleukin-12 production",0.87746511627907,0.562777777777778,0.311
+"GO:0032648","GO:0032648",8,"GO:0032695",4.10388213392365,0,"regulation of interferon-beta production","negative regulation of interleukin-12 production",0.880848837209302,0.502333333333333,0.483
+"GO:0000165","GO:0000165",5,"GO:0014066",4.06970242614504,26,"MAPK cascade","regulation of phosphatidylinositol 3-kinase signaling",0.77446511627907,0.462315789473684,0.536
+"GO:0010628","GO:0010628",8,"GO:0032695",4.06631741694363,69,"positive regulation of gene expression","negative regulation of interleukin-12 production",0.902697674418605,0.630666666666667,0.409
+"GO:0032691","GO:0032691",8,"GO:0032695",3.90907459363657,1,"negative regulation of interleukin-1 beta production","negative regulation of interleukin-12 production",0.907290697674419,0.626777777777778,0.634
+"GO:0002009","GO:0002009",6,"GO:0030216",3.87190804029561,13,"morphogenesis of an epithelium","keratinocyte differentiation",0.833279069767442,0.528444444444444,0.32
+"GO:0009887","GO:0009887",2,"GO:0003408",3.82276933357523,61,"animal organ morphogenesis","optic cup formation involved in camera-type eye development",0.740209302325581,0.435692307692308,0.497
+"GO:0009888","GO:0009888",6,"GO:0030216",3.67369691725021,5,"tissue development","keratinocyte differentiation",0.788302325581395,0.497666666666667,0.388
+"GO:0070887","GO:0070887",1,"GO:0090403",3.58253923313124,0,"cellular response to chemical stimulus","oxidative stress-induced premature senescence",0.820709302325581,0.567,0.48
+"GO:0009790","GO:0009790",2,"GO:0003408",3.49115790164378,13,"embryo development","optic cup formation involved in camera-type eye development",0.763360465116279,0.546115384615385,0.396
+"GO:0080135","GO:0080135",5,"GO:0014066",3.49115790164378,0,"regulation of cellular response to stress","regulation of phosphatidylinositol 3-kinase signaling",0.786081395348837,0.529842105263158,0.393
+"GO:0043408","GO:0043408",5,"GO:0014066",3.31304599329762,29,"regulation of MAPK cascade","regulation of phosphatidylinositol 3-kinase signaling",0.802093023255814,0.455842105263158,0.705
+"GO:0007267","GO:0007267",7,"GO:0060070",3.2895451930638,16,"cell-cell signaling","canonical Wnt signaling pathway",0.812290697674419,0.571,0.537
+"GO:0032615","GO:0032615",8,"GO:0032695",3.28648077396994,0,"interleukin-12 production","negative regulation of interleukin-12 production",0.860825581395349,0.547444444444444,0.507
+"GO:0032655","GO:0032655",8,"GO:0032695",3.28648077396994,1,"regulation of interleukin-12 production","negative regulation of interleukin-12 production",0.86803488372093,0.483444444444444,0.768
+"GO:0006556","GO:0006556",3,"GO:0090399",3.16342653670262,12,"S-adenosylmethionine biosynthetic process","replicative senescence",0.923186046511628,0.882333333333333,0.108
+"GO:0048646","GO:0048646",6,"GO:0030216",3.13933835428644,1,"anatomical structure formation involved in morphogenesis","keratinocyte differentiation",0.789581395348837,0.628111111111111,0.239
+"GO:0032606","GO:0032606",8,"GO:0032695",3.01992366165145,1,"type I interferon production","negative regulation of interleukin-12 production",0.858,0.520444444444444,0.373
+"GO:0032479","GO:0032479",8,"GO:0032695",3.01992366165145,0,"regulation of type I interferon production","negative regulation of interleukin-12 production",0.866139534883721,0.465333333333333,0.568

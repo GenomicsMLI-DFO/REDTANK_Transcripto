@@ -1,0 +1,123 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0060051","GO:0060051",1,"GO:0060051",13.3463379828639,0,"negative regulation of protein glycosylation","negative regulation of protein glycosylation",0.896688524590164,0.494692307692308,0
+"GO:0060124","GO:0060124",2,"GO:0060124",12.5660630388504,1,"positive regulation of growth hormone secretion","positive regulation of growth hormone secretion",0.812606557377049,0.445238095238095,0
+"GO:0051901","GO:0051901",3,"GO:0051901",11.4306588685639,0,"positive regulation of mitochondrial depolarization","positive regulation of mitochondrial depolarization",0.858959016393443,0.5488,0
+"GO:0051900","GO:0051900",3,"GO:0051901",10.7017256408504,0,"regulation of mitochondrial depolarization","positive regulation of mitochondrial depolarization",0.858336065573771,0.5221,0.855
+"GO:0010561","GO:0010561",1,"GO:0060051",10.6969267579687,0,"negative regulation of glycoprotein biosynthetic process","negative regulation of protein glycosylation",0.888319672131147,0.473384615384615,0.822
+"GO:0060049","GO:0060049",1,"GO:0060051",10.6969267579687,4,"regulation of protein glycosylation","negative regulation of protein glycosylation",0.8825,0.468230769230769,0.812
+"GO:0060123","GO:0060123",2,"GO:0060124",10.6089715876136,0,"regulation of growth hormone secretion","positive regulation of growth hormone secretion",0.799606557377049,0.425857142857143,0.804
+"GO:0046060","GO:0046060",4,"GO:0046060",10.3659335389273,0,"dATP metabolic process","dATP metabolic process",0.906434426229508,0.5735,0
+"GO:0006044","GO:0006044",4,"GO:0046060",10.1418633293169,12,"N-acetylglucosamine metabolic process","dATP metabolic process",0.928827868852459,0.744928571428571,0.116
+"GO:0006517","GO:0006517",1,"GO:0060051",10.0649035432633,7,"protein deglycosylation","negative regulation of protein glycosylation",0.889598360655738,0.578153846153846,0.405
+"GO:0030252","GO:0030252",2,"GO:0060124",9.66393707996105,1,"growth hormone secretion","positive regulation of growth hormone secretion",0.812983606557377,0.499047619047619,0.583
+"GO:0010616","GO:0010616",5,"GO:0010616",9.22460438613079,0,"negative regulation of cardiac muscle adaptation","negative regulation of cardiac muscle adaptation",0.904237704918033,0.4751,0
+"GO:0009215","GO:0009215",4,"GO:0046060",9.10880902896236,0,"purine deoxyribonucleoside triphosphate metabolic process","dATP metabolic process",0.902016393442623,0.5735,0.706
+"GO:0051882","GO:0051882",3,"GO:0051901",9.10880902896236,0,"mitochondrial depolarization","positive regulation of mitochondrial depolarization",0.906934426229508,0.5291,0.562
+"GO:1903019","GO:1903019",1,"GO:0060051",9.10880902896236,0,"negative regulation of glycoprotein metabolic process","negative regulation of protein glycosylation",0.866770491803279,0.500692307692308,0.62
+"GO:0010612","GO:0010612",5,"GO:0010616",9.10880902896236,0,"regulation of cardiac muscle adaptation","negative regulation of cardiac muscle adaptation",0.891893442622951,0.4437,0.81
+"GO:0009200","GO:0009200",4,"GO:0046060",9.06687313612618,0,"deoxyribonucleoside triphosphate metabolic process","dATP metabolic process",0.893286885245902,0.544785714285714,0.629
+"GO:0010524","GO:0010524",6,"GO:0010524",9.04262714855212,0,"positive regulation of calcium ion transport into cytosol","positive regulation of calcium ion transport into cytosol",0.826680327868852,0.4698,0
+"GO:0014745","GO:0014745",5,"GO:0010616",9.04262714855212,0,"negative regulation of muscle adaptation","negative regulation of cardiac muscle adaptation",0.890885245901639,0.4641,0.839
+"GO:0010522","GO:0010522",6,"GO:0010524",8.97472691291419,1,"regulation of calcium ion transport into cytosol","positive regulation of calcium ion transport into cytosol",0.821106557377049,0.4348,0.877
+"GO:1901071","GO:1901071",4,"GO:0046060",8.85761351381784,0,"glucosamine-containing compound metabolic process","dATP metabolic process",0.91777868852459,0.710571428571429,0.146
+"GO:0043243","GO:0043243",7,"GO:0043243",8.56702706695299,0,"positive regulation of protein-containing complex disassembly","positive regulation of protein-containing complex disassembly",0.880819672131148,0.649142857142857,0
+"GO:0060402","GO:0060402",6,"GO:0010524",8.53197455982579,0,"calcium ion transport into cytosol","positive regulation of calcium ion transport into cytosol",0.85677868852459,0.4062,0.711
+"GO:0010559","GO:0010559",1,"GO:0060051",8.43195333891691,0,"regulation of glycoprotein biosynthetic process","negative regulation of protein glycosylation",0.871803278688525,0.444692307692308,0.67
+"GO:0006040","GO:0006040",4,"GO:0046060",8.39494331629738,0,"amino sugar metabolic process","dATP metabolic process",0.903893442622951,0.681,0.191
+"GO:0014887","GO:0014887",5,"GO:0010616",7.97057095314303,0,"cardiac muscle adaptation","negative regulation of cardiac muscle adaptation",0.919901639344262,0.5568,0.533
+"GO:1904181","GO:1904181",3,"GO:0051901",7.8942073160943,0,"positive regulation of membrane depolarization","positive regulation of mitochondrial depolarization",0.827090163934426,0.543,0.808
+"GO:0046326","GO:0046326",8,"GO:0046326",7.83506491948518,2,"positive regulation of glucose import","positive regulation of glucose import",0.836311475409836,0.590608695652174,0
+"GO:0009151","GO:0009151",4,"GO:0046060",7.83506491948518,1,"purine deoxyribonucleotide metabolic process","dATP metabolic process",0.899901639344262,0.571285714285714,0.843
+"GO:1903018","GO:1903018",1,"GO:0060051",7.5990632989533,0,"regulation of glycoprotein metabolic process","negative regulation of protein glycosylation",0.845106557377049,0.467923076923077,0.506
+"GO:0032024","GO:0032024",2,"GO:0060124",7.57678690424215,5,"positive regulation of insulin secretion","positive regulation of growth hormone secretion",0.827688524590164,0.472047619047619,0.738
+"GO:0010828","GO:0010828",8,"GO:0046326",7.52709912005304,1,"positive regulation of glucose transmembrane transport","positive regulation of glucose import",0.828549180327869,0.578086956521739,0.89
+"GO:0051881","GO:0051881",3,"GO:0051901",7.52709912005304,3,"regulation of mitochondrial membrane potential","positive regulation of mitochondrial depolarization",0.890426229508197,0.5395,0.415
+"GO:0046324","GO:0046324",8,"GO:0046326",7.33011457090076,1,"regulation of glucose import","positive regulation of glucose import",0.828090163934426,0.579086956521739,0.79
+"GO:0009394","GO:0009394",4,"GO:0046060",7.30794159194957,0,"2'-deoxyribonucleotide metabolic process","dATP metabolic process",0.887524590163934,0.523857142857143,0.721
+"GO:0019692","GO:0019692",4,"GO:0046060",7.25802814161774,0,"deoxyribose phosphate metabolic process","dATP metabolic process",0.878713114754098,0.584357142857143,0.477
+"GO:0090277","GO:0090277",2,"GO:0060124",7.2418986413172,0,"positive regulation of peptide hormone secretion","positive regulation of growth hormone secretion",0.809827868852459,0.436428571428571,0.93
+"GO:0002793","GO:0002793",2,"GO:0060124",7.20232799141964,0,"positive regulation of peptide secretion","positive regulation of growth hormone secretion",0.816,0.540047619047619,0.649
+"GO:0009262","GO:0009262",4,"GO:0046060",7.16785151126865,0,"deoxyribonucleotide metabolic process","dATP metabolic process",0.878483606557377,0.505071428571429,0.662
+"GO:0003254","GO:0003254",3,"GO:0051901",7.13745421041189,6,"regulation of membrane depolarization","positive regulation of mitochondrial depolarization",0.830155737704918,0.5231,0.722
+"GO:0010827","GO:0010827",8,"GO:0046326",7.02820275872691,0,"regulation of glucose transmembrane transport","positive regulation of glucose import",0.818688524590164,0.563869565217391,0.727
+"GO:0046323","GO:0046323",8,"GO:0046326",6.92128259368722,10,"glucose import","positive regulation of glucose import",0.861762295081967,0.602608695652174,0.535
+"GO:0070265","GO:0070265",7,"GO:0043243",6.79528201185092,2,"necrotic cell death","positive regulation of protein-containing complex disassembly",0.893237704918033,0.800428571428571,0.14
+"GO:1904427","GO:1904427",8,"GO:0046326",6.75041756475018,0,"positive regulation of calcium ion transmembrane transport","positive regulation of glucose import",0.850868852459016,0.676652173913044,0.382
+"GO:0031343","GO:0031343",7,"GO:0043243",6.68593137366722,0,"positive regulation of cell killing","positive regulation of protein-containing complex disassembly",0.841434426229508,0.669428571428571,0.403
+"GO:0046887","GO:0046887",2,"GO:0060124",6.59609205943754,2,"positive regulation of hormone secretion","positive regulation of growth hormone secretion",0.816090163934426,0.512142857142857,0.752
+"GO:1904659","GO:1904659",8,"GO:0046326",6.5542795632443,4,"glucose transmembrane transport","positive regulation of glucose import",0.85522131147541,0.585739130434783,0.494
+"GO:0008645","GO:0008645",8,"GO:0046326",6.47987689123409,1,"hexose transmembrane transport","positive regulation of glucose import",0.849672131147541,0.580869565217391,0.471
+"GO:0007204","GO:0007204",6,"GO:0010524",6.42188494425641,29,"positive regulation of cytosolic calcium ion concentration","positive regulation of calcium ion transport into cytosol",0.926450819672131,0.5734,0.463
+"GO:0015749","GO:0015749",8,"GO:0046326",6.37266692158623,7,"monosaccharide transmembrane transport","positive regulation of glucose import",0.842196721311475,0.574826086956522,0.464
+"GO:0014888","GO:0014888",5,"GO:0010616",6.33854773843762,0,"striated muscle adaptation","negative regulation of cardiac muscle adaptation",0.908631147540984,0.5351,0.48
+"GO:0051899","GO:0051899",3,"GO:0051901",6.33854773843762,0,"membrane depolarization","positive regulation of mitochondrial depolarization",0.887745901639344,0.5068,0.415
+"GO:0031341","GO:0031341",7,"GO:0043243",6.33145705877627,0,"regulation of cell killing","positive regulation of protein-containing complex disassembly",0.829040983606557,0.642571428571429,0.318
+"GO:0034219","GO:0034219",8,"GO:0046326",6.33145705877627,2,"carbohydrate transmembrane transport","positive regulation of glucose import",0.83233606557377,0.566260869565217,0.471
+"GO:0042391","GO:0042391",3,"GO:0051901",6.11302961108047,68,"regulation of membrane potential","positive regulation of mitochondrial depolarization",0.868155737704918,0.5122,0.354
+"GO:0043502","GO:0043502",5,"GO:0010616",5.98255225042614,0,"regulation of muscle adaptation","negative regulation of cardiac muscle adaptation",0.875688524590164,0.4343,0.688
+"GO:0008643","GO:0008643",8,"GO:0046326",5.91768841194382,27,"carbohydrate transport","positive regulation of glucose import",0.854811475409836,0.62695652173913,0.303
+"GO:0051928","GO:0051928",8,"GO:0046326",5.84885320397082,1,"positive regulation of calcium ion transport","positive regulation of glucose import",0.836434426229508,0.674608695652174,0.325
+"GO:0042886","GO:0042886",8,"GO:0046326",5.84248893756439,0,"amide transport","positive regulation of glucose import",0.86083606557377,0.747913043478261,0.119
+"GO:0050796","GO:0050796",2,"GO:0060124",5.82989334758895,9,"regulation of insulin secretion","positive regulation of growth hormone secretion",0.813401639344262,0.445380952380952,0.614
+"GO:0090276","GO:0090276",2,"GO:0060124",5.58396548886927,0,"regulation of peptide hormone secretion","positive regulation of growth hormone secretion",0.794385245901639,0.408571428571429,0.774
+"GO:0002791","GO:0002791",2,"GO:0060124",5.55626523709755,0,"regulation of peptide secretion","positive regulation of growth hormone secretion",0.811540983606557,0.532857142857143,0.526
+"GO:0090087","GO:0090087",2,"GO:0060124",5.50790561483434,0,"regulation of peptide transport","positive regulation of growth hormone secretion",0.816934426229508,0.620523809523809,0.429
+"GO:0030073","GO:0030073",2,"GO:0060124",5.50790561483434,10,"insulin secretion","positive regulation of growth hormone secretion",0.81866393442623,0.499523809523809,0.468
+"GO:0097553","GO:0097553",6,"GO:0010524",5.24357222520677,0,"calcium ion transmembrane import into cytosol","positive regulation of calcium ion transport into cytosol",0.87077868852459,0.4786,0.6
+"GO:0030072","GO:0030072",2,"GO:0060124",5.23496283754904,0,"peptide hormone secretion","positive regulation of growth hormone secretion",0.806180327868852,0.470571428571429,0.583
+"GO:0046883","GO:0046883",2,"GO:0060124",5.2267704478873,7,"regulation of hormone secretion","positive regulation of growth hormone secretion",0.801655737704918,0.495142857142857,0.633
+"GO:0043500","GO:0043500",5,"GO:0010616",5.2189641187781,0,"muscle adaptation","negative regulation of cardiac muscle adaptation",0.893991803278689,0.5193,0.447
+"GO:0010817","GO:0010817",3,"GO:0051901",5.12560138361689,0,"regulation of hormone levels","positive regulation of mitochondrial depolarization",0.86922131147541,0.6374,0.226
+"GO:0002790","GO:0002790",8,"GO:0046326",5.10168094075781,0,"peptide secretion","positive regulation of glucose import",0.830565573770492,0.690695652173913,0.198
+"GO:0001906","GO:0001906",7,"GO:0043243",5.10168094075781,0,"cell killing","positive regulation of protein-containing complex disassembly",0.855508196721312,0.688142857142857,0.182
+"GO:0050714","GO:0050714",2,"GO:0060124",5.10168094075781,1,"positive regulation of protein secretion","positive regulation of growth hormone secretion",0.82122131147541,0.527857142857143,0.567
+"GO:1904064","GO:1904064",8,"GO:0046326",5.059898522651,0,"positive regulation of cation transmembrane transport","positive regulation of glucose import",0.82633606557377,0.629739130434783,0.506
+"GO:0015833","GO:0015833",8,"GO:0046326",5.00668593014286,5,"peptide transport","positive regulation of glucose import",0.83927868852459,0.670739130434783,0.216
+"GO:0006612","GO:0006612",9,"GO:0006612",4.9203692505916,36,"protein targeting to membrane","protein targeting to membrane",0.86416393442623,0.5684,0
+"GO:0046879","GO:0046879",2,"GO:0060124",4.91353245217267,0,"hormone secretion","positive regulation of growth hormone secretion",0.818270491803279,0.552380952380952,0.47
+"GO:0034767","GO:0034767",8,"GO:0046326",4.89507590534764,1,"positive regulation of monoatomic ion transmembrane transport","positive regulation of glucose import",0.802754098360656,0.593434782608696,0.651
+"GO:0009914","GO:0009914",3,"GO:0051901",4.87781689990613,0,"hormone transport","positive regulation of mitochondrial depolarization",0.823901639344262,0.7434,0.155
+"GO:0043413","GO:0043413",4,"GO:0046060",4.66696353459124,0,"macromolecule glycosylation","dATP metabolic process",0.91,0.787642857142857,0.112
+"GO:0006486","GO:0006486",1,"GO:0060051",4.66696353459124,156,"protein glycosylation","negative regulation of protein glycosylation",0.896401639344262,0.531615384615385,0.636
+"GO:0070085","GO:0070085",4,"GO:0046060",4.4852719231208,1,"glycosylation","dATP metabolic process",0.894360655737705,0.777571428571429,0.117
+"GO:0044057","GO:0044057",5,"GO:0010616",4.41141951057824,0,"regulation of system process","negative regulation of cardiac muscle adaptation",0.866016393442623,0.5502,0.447
+"GO:0043270","GO:0043270",8,"GO:0046326",4.34973696093999,0,"positive regulation of monoatomic ion transport","positive regulation of glucose import",0.796270491803279,0.611521739130435,0.474
+"GO:0045862","GO:0045862",1,"GO:0060051",4.31073449213374,1,"positive regulation of proteolysis","negative regulation of protein glycosylation",0.88222131147541,0.615461538461539,0.352
+"GO:0043244","GO:0043244",7,"GO:0043243",4.26316778127015,0,"regulation of protein-containing complex disassembly","positive regulation of protein-containing complex disassembly",0.873295081967213,0.624714285714286,0.812
+"GO:0034764","GO:0034764",8,"GO:0046326",4.20455229580501,0,"positive regulation of transmembrane transport","positive regulation of glucose import",0.787360655737705,0.644130434782609,0.544
+"GO:0009101","GO:0009101",1,"GO:0060051",4.20455229580501,1,"glycoprotein biosynthetic process","negative regulation of protein glycosylation",0.891008196721311,0.507923076923077,0.511
+"GO:0051241","GO:0051241",5,"GO:0010616",4.15954174037473,0,"negative regulation of multicellular organismal process","negative regulation of cardiac muscle adaptation",0.860450819672131,0.6434,0.488
+"GO:0050708","GO:0050708",2,"GO:0060124",4.11120356291625,7,"regulation of protein secretion","positive regulation of growth hormone secretion",0.807696721311475,0.509714285714286,0.469
+"GO:0030001","GO:0030001",8,"GO:0046326",4.02587943536157,25,"metal ion transport","positive regulation of glucose import",0.869819672131148,0.694173913043478,0.139
+"GO:1903532","GO:1903532",2,"GO:0060124",3.96179702883553,0,"positive regulation of secretion by cell","positive regulation of growth hormone secretion",0.795122950819672,0.576238095238095,0.54
+"GO:0051054","GO:0051054",1,"GO:0060051",3.90208547463307,0,"positive regulation of DNA metabolic process","negative regulation of protein glycosylation",0.880655737704918,0.687538461538462,0.256
+"GO:2000729","GO:2000729",10,"GO:2000729",3.89554566686656,0,"positive regulation of mesenchymal cell proliferation involved in ureter development","positive regulation of mesenchymal cell proliferation involved in ureter development",0.881344262295082,0.712090909090909,0
+"GO:0072199","GO:0072199",10,"GO:2000729",3.89554566686656,0,"regulation of mesenchymal cell proliferation involved in ureter development","positive regulation of mesenchymal cell proliferation involved in ureter development",0.883295081967213,0.678363636363636,0.784
+"GO:0072198","GO:0072198",10,"GO:2000729",3.89554566686656,0,"mesenchymal cell proliferation involved in ureter development","positive regulation of mesenchymal cell proliferation involved in ureter development",0.905827868852459,0.636818181818182,0.647
+"GO:0003163","GO:0003163",10,"GO:2000729",3.89554566686656,0,"sinoatrial node development","positive regulation of mesenchymal cell proliferation involved in ureter development",0.932877049180328,0.598272727272727,0.197
+"GO:0060927","GO:0060927",10,"GO:2000729",3.89554566686656,0,"cardiac pacemaker cell fate commitment","positive regulation of mesenchymal cell proliferation involved in ureter development",0.920622950819672,0.561363636363636,0.167
+"GO:0060930","GO:0060930",10,"GO:2000729",3.89554566686656,0,"sinoatrial node cell fate commitment","positive regulation of mesenchymal cell proliferation involved in ureter development",0.924868852459016,0.549636363636364,0.153
+"GO:0060931","GO:0060931",10,"GO:2000729",3.89554566686656,1,"sinoatrial node cell development","positive regulation of mesenchymal cell proliferation involved in ureter development",0.924803278688525,0.548454545454546,0.155
+"GO:0060921","GO:0060921",10,"GO:2000729",3.89554566686656,0,"sinoatrial node cell differentiation","positive regulation of mesenchymal cell proliferation involved in ureter development",0.917975409836066,0.504090909090909,0.173
+"GO:0006812","GO:0006812",8,"GO:0046326",3.88213827368877,59,"monoatomic cation transport","positive regulation of glucose import",0.848975409836066,0.643565217391304,0.184
+"GO:0009100","GO:0009100",1,"GO:0060051",3.74028903598981,2,"glycoprotein metabolic process","negative regulation of protein glycosylation",0.865680327868853,0.529,0.364
+"GO:0051047","GO:0051047",2,"GO:0060124",3.71875898014923,0,"positive regulation of secretion","positive regulation of growth hormone secretion",0.815729508196721,0.645476190476191,0.404
+"GO:0090257","GO:0090257",5,"GO:0010616",3.71875898014923,1,"regulation of muscle system process","negative regulation of cardiac muscle adaptation",0.883745901639344,0.502,0.517
+"GO:0023061","GO:0023061",2,"GO:0060124",3.64373369387276,0,"signal release","positive regulation of growth hormone secretion",0.835426229508197,0.611809523809524,0.378
+"GO:0009144","GO:0009144",4,"GO:0046060",3.54139492915331,0,"purine nucleoside triphosphate metabolic process","dATP metabolic process",0.893286885245902,0.544785714285714,0.629
+"GO:2000113","GO:2000113",1,"GO:0060051",3.52698943587974,0,"negative regulation of cellular macromolecule biosynthetic process","negative regulation of protein glycosylation",0.893540983606557,0.614230769230769,0.615
+"GO:0090150","GO:0090150",9,"GO:0006612",3.46408262405086,1,"establishment of protein localization to membrane","protein targeting to membrane",0.883688524590164,0.5754,0.692
+"GO:1903169","GO:1903169",8,"GO:0046326",3.43812214312709,0,"regulation of calcium ion transmembrane transport","positive regulation of glucose import",0.852336065573771,0.695391304347826,0.283
+"GO:0009141","GO:0009141",4,"GO:0046060",3.42784789123008,0,"nucleoside triphosphate metabolic process","dATP metabolic process",0.887254098360656,0.522857142857143,0.622
+"GO:0035592","GO:0035592",9,"GO:0006612",3.3472513259595,0,"establishment of protein localization to extracellular region","protein targeting to membrane",0.890377049180328,0.6154,0.353
+"GO:0009306","GO:0009306",2,"GO:0060124",3.3472513259595,24,"protein secretion","positive regulation of growth hormone secretion",0.826680327868852,0.580857142857143,0.339
+"GO:0071692","GO:0071692",9,"GO:0006612",3.31811148666982,0,"protein localization to extracellular region","protein targeting to membrane",0.911196721311475,0.6818,0.251
+"GO:0006811","GO:0006811",8,"GO:0046326",3.24452567121409,617,"monoatomic ion transport","positive regulation of glucose import",0.820844262295082,0.585739130434783,0.25
+"GO:0006605","GO:0006605",9,"GO:0006612",3.22251139662494,8,"protein targeting","protein targeting to membrane",0.853114754098361,0.6006,0.862
+"GO:0072189","GO:0072189",10,"GO:2000729",3.20472741455009,0,"ureter development","positive regulation of mesenchymal cell proliferation involved in ureter development",0.924795081967213,0.629818181818182,0.532
+"GO:0060823","GO:0060823",11,"GO:0060823",3.20472741455009,1,"canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation","canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation",0.902754098360656,0.567666666666667,0
+"GO:0060926","GO:0060926",10,"GO:2000729",3.20472741455009,0,"cardiac pacemaker cell development","positive regulation of mesenchymal cell proliferation involved in ureter development",0.920573770491803,0.559636363636364,0.17
+"GO:0060829","GO:0060829",11,"GO:0060823",3.20472741455009,4,"negative regulation of canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation","canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation",0.902368852459016,0.511333333333333,0.611
+"GO:0060920","GO:0060920",10,"GO:2000729",3.20472741455009,0,"cardiac pacemaker cell differentiation","positive regulation of mesenchymal cell proliferation involved in ureter development",0.911475409836066,0.508181818181818,0.189
+"GO:0060827","GO:0060827",11,"GO:0060823",3.20472741455009,2,"regulation of canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation","canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation",0.901024590163934,0.486333333333333,0.686
+"GO:0032984","GO:0032984",7,"GO:0043243",3.11907869056662,0,"protein-containing complex disassembly","positive regulation of protein-containing complex disassembly",0.925967213114754,0.702714285714286,0.601

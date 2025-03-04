@@ -1,0 +1,99 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0005261","GO:0005261",1,"GO:0005261",24.6463145312965,43,"monoatomic cation channel activity","monoatomic cation channel activity",0.849551020408163,0.5548,0
+"GO:0016616","GO:0016616",2,"GO:0016616",24.6463145312965,56,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",0.860102040816327,0.462333333333333,0
+"GO:0051287","GO:0051287",3,"GO:0051287",23.5641277751091,34,"NAD binding","NAD binding",0.892122448979592,0.802666666666667,0
+"GO:0016614","GO:0016614",2,"GO:0016616",23.5641277751091,6,"oxidoreductase activity, acting on CH-OH group of donors","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",0.831602040816326,0.419777777777778,0.812
+"GO:0046873","GO:0046873",1,"GO:0005261",22.6920720218572,12,"metal ion transmembrane transporter activity","monoatomic cation channel activity",0.841867346938776,0.56032,0.617
+"GO:0106006","GO:0106006",4,"GO:0106006",21.5793677416659,0,"cytoskeletal protein-membrane anchor activity","cytoskeletal protein-membrane anchor activity",0.915020408163265,0.737,0
+"GO:1901702","GO:1901702",1,"GO:0005261",21.2281711365362,0,"salt transmembrane transporter activity","monoatomic cation channel activity",0.842265306122449,0.56632,0.404
+"GO:0070577","GO:0070577",3,"GO:0051287",21.1482593697412,18,"lysine-acetylated histone binding","NAD binding",0.857836734693878,0.6981,0.147
+"GO:0140033","GO:0140033",3,"GO:0051287",21.1482593697412,0,"acetylation-dependent protein binding","NAD binding",0.830959183673469,0.643266666666667,0.173
+"GO:0005216","GO:0005216",1,"GO:0005261",18.7432245443045,225,"monoatomic ion channel activity","monoatomic cation channel activity",0.839816326530612,0.55904,0.784
+"GO:0015267","GO:0015267",1,"GO:0005261",18.5080118331302,33,"channel activity","monoatomic cation channel activity",0.842908163265306,0.63304,0.53
+"GO:0022803","GO:0022803",1,"GO:0005261",18.5080118331302,0,"passive transmembrane transporter activity","monoatomic cation channel activity",0.814663265306122,0.58644,0.454
+"GO:0022890","GO:0022890",1,"GO:0005261",16.4592278879393,1,"inorganic cation transmembrane transporter activity","monoatomic cation channel activity",0.822071428571429,0.50816,0.731
+"GO:0015318","GO:0015318",1,"GO:0005261",14.2088659813408,0,"inorganic molecular entity transmembrane transporter activity","monoatomic cation channel activity",0.809285714285714,0.56536,0.473
+"GO:0072349","GO:0072349",1,"GO:0005261",14.0323553166688,0,"modified amino acid transmembrane transporter activity","monoatomic cation channel activity",0.844857142857143,0.59784,0.296
+"GO:0008324","GO:0008324",1,"GO:0005261",13.8651577707731,14,"monoatomic cation transmembrane transporter activity","monoatomic cation channel activity",0.804479591836735,0.4824,0.547
+"GO:0008093","GO:0008093",4,"GO:0106006",13.3326954083245,10,"cytoskeletal anchor activity","cytoskeletal protein-membrane anchor activity",0.887040816326531,0.721375,0.717
+"GO:0043914","GO:0043914",2,"GO:0016616",12.8224057903522,2,"NADPH:sulfur oxidoreductase activity","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",0.843377551020408,0.548,0.491
+"GO:0005179","GO:0005179",5,"GO:0005179",12.7687209313894,139,"hormone activity","hormone activity",0.863663265306122,0.6345,0
+"GO:0015226","GO:0015226",1,"GO:0005261",12.5494045182884,1,"carnitine transmembrane transporter activity","monoatomic cation channel activity",0.864673469387755,0.612,0.293
+"GO:0005034","GO:0005034",4,"GO:0106006",12.3664738347024,0,"osmosensor activity","cytoskeletal protein-membrane anchor activity",0.89219387755102,0.82525,0.101
+"GO:0051082","GO:0051082",3,"GO:0051287",12.0947906045666,99,"unfolded protein binding","NAD binding",0.803204081632653,0.6038,0.218
+"GO:0022857","GO:0022857",1,"GO:0005261",11.2298911169304,248,"transmembrane transporter activity","monoatomic cation channel activity",0.771122448979592,0.51888,0.385
+"GO:0015075","GO:0015075",1,"GO:0005261",10.6907336710849,7,"monoatomic ion transmembrane transporter activity","monoatomic cation channel activity",0.790091836734694,0.49012,0.473
+"GO:0015651","GO:0015651",1,"GO:0005261",9.67627775467393,3,"quaternary ammonium group transmembrane transporter activity","monoatomic cation channel activity",0.847836734693878,0.56888,0.343
+"GO:0140299","GO:0140299",4,"GO:0106006",9.33731560596124,0,"small molecule sensor activity","cytoskeletal protein-membrane anchor activity",0.806438775510204,0.734375,0.182
+"GO:0016491","GO:0016491",2,"GO:0016616",9.33731560596124,641,"oxidoreductase activity","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",0.792602040816327,0.421111111111111,0.657
+"GO:0035613","GO:0035613",3,"GO:0051287",9.28055920599586,1,"RNA stem-loop binding","NAD binding",0.898826530612245,0.815533333333333,0.327
+"GO:0031403","GO:0031403",3,"GO:0051287",8.91455201356417,0,"lithium ion binding","NAD binding",0.903897959183673,0.819266666666667,0.124
+"GO:0005215","GO:0005215",1,"GO:0005261",8.91455201356417,16,"transporter activity","monoatomic cation channel activity",0.752551020408163,0.61956,0.295
+"GO:0052833","GO:0052833",6,"GO:0052833",8.91455201356417,4,"inositol monophosphate 4-phosphatase activity","inositol monophosphate 4-phosphatase activity",0.89184693877551,0.534272727272727,0
+"GO:0052832","GO:0052832",6,"GO:0052833",8.91455201356417,3,"inositol monophosphate 3-phosphatase activity","inositol monophosphate 4-phosphatase activity",0.89184693877551,0.534272727272727,0.687
+"GO:0008934","GO:0008934",6,"GO:0052833",8.91455201356417,5,"inositol monophosphate 1-phosphatase activity","inositol monophosphate 4-phosphatase activity",0.89184693877551,0.534272727272727,0.687
+"GO:0052834","GO:0052834",6,"GO:0052833",8.91455201356417,3,"inositol monophosphate phosphatase activity","inositol monophosphate 4-phosphatase activity",0.878938775510204,0.464363636363636,0.842
+"GO:0008138","GO:0008138",6,"GO:0052833",8.88935257998279,63,"protein tyrosine/serine/threonine phosphatase activity","inositol monophosphate 4-phosphatase activity",0.859357142857143,0.459818181818182,0.393
+"GO:0004722","GO:0004722",6,"GO:0052833",8.54940451828844,79,"protein serine/threonine phosphatase activity","inositol monophosphate 4-phosphatase activity",0.855163265306122,0.422454545454545,0.393
+"GO:0031013","GO:0031013",3,"GO:0051287",7.99266750574713,7,"troponin I binding","NAD binding",0.835265306122449,0.657333333333333,0.173
+"GO:0051427","GO:0051427",3,"GO:0051287",7.64252154227935,7,"hormone receptor binding","NAD binding",0.829785714285714,0.651866666666667,0.173
+"GO:0005523","GO:0005523",3,"GO:0051287",7.49701644882875,17,"tropomyosin binding","NAD binding",0.835265306122449,0.657333333333333,0.173
+"GO:0140030","GO:0140030",3,"GO:0051287",7.38307309652191,0,"modification-dependent protein binding","NAD binding",0.791959183673469,0.567066666666667,0.218
+"GO:0032089","GO:0032089",3,"GO:0051287",6.89112160272163,0,"NACHT domain binding","NAD binding",0.839704081632653,0.671833333333333,0.173
+"GO:0015101","GO:0015101",1,"GO:0005261",6.49141257131075,2,"organic cation transmembrane transporter activity","monoatomic cation channel activity",0.834132653061225,0.53444,0.404
+"GO:0030172","GO:0030172",3,"GO:0051287",6.40472172348438,7,"troponin C binding","NAD binding",0.835265306122449,0.657333333333333,0.173
+"GO:0032050","GO:0032050",3,"GO:0051287",6.32755576867208,7,"clathrin heavy chain binding","NAD binding",0.842979591836735,0.682533333333333,0.173
+"GO:0005344","GO:0005344",4,"GO:0106006",6.15272516211814,35,"oxygen carrier activity","cytoskeletal protein-membrane anchor activity",0.864959183673469,0.824875,0.129
+"GO:0019825","GO:0019825",3,"GO:0051287",6.15272516211814,42,"oxygen binding","NAD binding",0.847948979591837,0.738866666666667,0.402
+"GO:0005201","GO:0005201",4,"GO:0106006",6.11884003432701,91,"extracellular matrix structural constituent","cytoskeletal protein-membrane anchor activity",0.861704081632653,0.785,0.129
+"GO:0061459","GO:0061459",1,"GO:0005261",5.74322454430455,1,"L-arginine transmembrane transporter activity","monoatomic cation channel activity",0.890673469387755,0.68608,0.322
+"GO:0015189","GO:0015189",1,"GO:0005261",5.74322454430455,4,"L-lysine transmembrane transporter activity","monoatomic cation channel activity",0.880591836734694,0.65572,0.358
+"GO:0015020","GO:0015020",7,"GO:0015020",5.74322454430455,62,"glucuronosyltransferase activity","glucuronosyltransferase activity",0.901091836734694,0.5295,0
+"GO:0019966","GO:0019966",3,"GO:0051287",5.66963795987912,0,"interleukin-1 binding","NAD binding",0.859663265306122,0.7161,0.157
+"GO:0005545","GO:0005545",3,"GO:0051287",5.56895805466411,13,"1-phosphatidylinositol binding","NAD binding",0.9005,0.829333333333333,0.144
+"GO:0050750","GO:0050750",3,"GO:0051287",5.56895805466411,6,"low-density lipoprotein particle receptor binding","NAD binding",0.855,0.698,0.144
+"GO:0070325","GO:0070325",3,"GO:0051287",5.42446578168014,2,"lipoprotein particle receptor binding","NAD binding",0.826744897959184,0.641933333333333,0.173
+"GO:0043495","GO:0043495",4,"GO:0106006",5.41664044416818,8,"protein-membrane adaptor activity","cytoskeletal protein-membrane anchor activity",0.887040816326531,0.721375,0.717
+"GO:0035064","GO:0035064",3,"GO:0051287",5.40948862571048,39,"methylated histone binding","NAD binding",0.857836734693878,0.6981,0.147
+"GO:0140034","GO:0140034",3,"GO:0051287",5.40948862571048,0,"methylation-dependent protein binding","NAD binding",0.830959183673469,0.643266666666667,0.173
+"GO:0048763","GO:0048763",1,"GO:0005261",5.3683498397012,4,"calcium-induced calcium release activity","monoatomic cation channel activity",0.89215306122449,0.67532,0.611
+"GO:1901235","GO:1901235",1,"GO:0005261",5.29769070203184,0,"(R)-carnitine transmembrane transporter activity","monoatomic cation channel activity",0.873142857142857,0.6376,0.267
+"GO:0035642","GO:0035642",8,"GO:0035642",5.16122434690555,1,"histone H3R17 methyltransferase activity","histone H3R17 methyltransferase activity",0.921887755102041,0.568,0
+"GO:0005245","GO:0005245",1,"GO:0005261",4.88757632195698,57,"voltage-gated calcium channel activity","monoatomic cation channel activity",0.885765306122449,0.657,0.661
+"GO:0043169","GO:0043169",3,"GO:0051287",4.81891746250635,25,"cation binding","NAD binding",0.840102040816327,0.713233333333333,0.218
+"GO:0046935","GO:0046935",5,"GO:0005179",4.7766482997915,24,"1-phosphatidylinositol-3-kinase regulator activity","hormone activity",0.920377551020408,0.7305,0.117
+"GO:0033549","GO:0033549",6,"GO:0052833",4.73928406182975,6,"MAP kinase phosphatase activity","inositol monophosphate 4-phosphatase activity",0.859357142857143,0.459818181818182,0.393
+"GO:0046872","GO:0046872",3,"GO:0051287",4.69331109397272,3067,"metal ion binding","NAD binding",0.869132653061224,0.759266666666667,0.173
+"GO:0047988","GO:0047988",2,"GO:0016616",4.63122586050227,1,"hydroxyacid-oxoacid transhydrogenase activity","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",0.865755102040816,0.523888888888889,0.639
+"GO:0004022","GO:0004022",2,"GO:0016616",4.54297040828303,3,"alcohol dehydrogenase (NAD+) activity","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",0.895908163265306,0.558333333333333,0.709
+"GO:0016641","GO:0016641",2,"GO:0016616",4.53269882478558,14,"oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",0.870387755102041,0.574333333333333,0.387
+"GO:0005528","GO:0005528",3,"GO:0051287",4.37870829111946,0,"FK506 binding","NAD binding",0.881285714285714,0.782333333333333,0.356
+"GO:0005527","GO:0005527",3,"GO:0051287",4.37870829111946,0,"macrolide binding","NAD binding",0.867857142857143,0.756733333333333,0.444
+"GO:0008499","GO:0008499",7,"GO:0015020",4.37870829111946,7,"UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase activity","glucuronosyltransferase activity",0.921795918367347,0.5805,0.528
+"GO:0015018","GO:0015018",7,"GO:0015020",4.37870829111946,6,"galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase activity","glucuronosyltransferase activity",0.91184693877551,0.573,0.861
+"GO:0005219","GO:0005219",1,"GO:0005261",4.30101690753435,9,"ryanodine-sensitive calcium-release channel activity","monoatomic cation channel activity",0.89215306122449,0.67532,0.611
+"GO:0106137","GO:0106137",3,"GO:0051287",4.2638866888027,0,"IkappaB kinase complex binding","NAD binding",0.849826530612245,0.745,0.218
+"GO:0005133","GO:0005133",3,"GO:0051287",4.2638866888027,2,"type II interferon receptor binding","NAD binding",0.858040816326531,0.707933333333333,0.144
+"GO:0097621","GO:0097621",2,"GO:0016616",4.2638866888027,0,"monoamine oxidase activity","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",0.89169387755102,0.629111111111111,0.319
+"GO:0030545","GO:0030545",5,"GO:0005179",4.13486524779694,2,"signaling receptor regulator activity","hormone activity",0.846969387755102,0.594666666666667,0.474
+"GO:0022843","GO:0022843",1,"GO:0005261",3.9943410896367,0,"voltage-gated monoatomic cation channel activity","monoatomic cation channel activity",0.869551020408163,0.61396,0.792
+"GO:0015293","GO:0015293",1,"GO:0005261",3.90711952499976,104,"symporter activity","monoatomic cation channel activity",0.885979591836735,0.75904,0.179
+"GO:0048018","GO:0048018",5,"GO:0005179",3.89619200451309,21,"receptor ligand activity","hormone activity",0.848091836734694,0.614333333333333,0.88
+"GO:0008469","GO:0008469",8,"GO:0035642",3.82780082223888,2,"histone arginine N-methyltransferase activity","histone H3R17 methyltransferase activity",0.918071428571429,0.559,0.904
+"GO:0015227","GO:0015227",1,"GO:0005261",3.82502993417832,2,"acyl carnitine transmembrane transporter activity","monoatomic cation channel activity",0.863163265306122,0.61476,0.3
+"GO:0048531","GO:0048531",7,"GO:0015020",3.82502993417832,0,"beta-1,3-galactosyltransferase activity","glucuronosyltransferase activity",0.907244897959184,0.5955,0.493
+"GO:0033192","GO:0033192",6,"GO:0052833",3.77410111077762,8,"calmodulin-dependent protein phosphatase activity","inositol monophosphate 4-phosphatase activity",0.883102040816326,0.518727272727273,0.277
+"GO:0004723","GO:0004723",6,"GO:0052833",3.77410111077762,0,"calcium-dependent protein serine/threonine phosphatase activity","inositol monophosphate 4-phosphatase activity",0.870214285714286,0.469727272727273,0.326
+"GO:0035014","GO:0035014",5,"GO:0005179",3.69620640124213,4,"phosphatidylinositol 3-kinase regulator activity","hormone activity",0.905642857142857,0.706666666666667,0.146
+"GO:0030546","GO:0030546",5,"GO:0005179",3.64798169066396,2,"signaling receptor activator activity","hormone activity",0.87830612244898,0.585333333333333,0.576
+"GO:0019904","GO:0019904",3,"GO:0051287",3.51161595739904,13,"protein domain specific binding","NAD binding",0.799928571428571,0.5931,0.218
+"GO:0018455","GO:0018455",2,"GO:0016616",3.4707658013331,0,"alcohol dehydrogenase [NAD(P)+] activity","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",0.880469387755102,0.506888888888889,0.825
+"GO:0005199","GO:0005199",4,"GO:0106006",3.35155604507585,0,"structural constituent of cell wall","cytoskeletal protein-membrane anchor activity",0.861704081632653,0.785,0.129
+"GO:0004482","GO:0004482",8,"GO:0035642",3.35155604507585,3,"mRNA (guanine-N7-)-methyltransferase activity","histone H3R17 methyltransferase activity",0.925316326530612,0.729666666666667,0.392
+"GO:0036221","GO:0036221",9,"GO:0036221",3.35155604507585,0,"UTP diphosphatase activity","UTP diphosphatase activity",0.919214285714286,0.659,0
+"GO:0038100","GO:0038100",3,"GO:0051287",3.35155604507585,0,"nodal binding","NAD binding",0.803204081632653,0.6038,0.218
+"GO:0016791","GO:0016791",6,"GO:0052833",3.283650282973,179,"phosphatase activity","inositol monophosphate 4-phosphatase activity",0.852397959183673,0.393181818181818,0.643
+"GO:0048156","GO:0048156",3,"GO:0051287",3.2260981279133,1,"tau protein binding","NAD binding",0.835265306122449,0.657333333333333,0.173
+"GO:0050811","GO:0050811",3,"GO:0051287",3.08451771998578,6,"GABA receptor binding","NAD binding",0.829785714285714,0.651866666666667,0.173
+"GO:0004721","GO:0004721",6,"GO:0052833",3.03102627423477,142,"phosphoprotein phosphatase activity","inositol monophosphate 4-phosphatase activity",0.836448979591837,0.371818181818182,0.482
+"GO:0036218","GO:0036218",9,"GO:0036221",3.01775184870059,1,"dTTP diphosphatase activity","UTP diphosphatase activity",0.919214285714286,0.659,0.682

@@ -1,0 +1,17 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0016231","GO:0016231",1,"GO:0016231",14.1012090212008,2,"beta-N-acetylglucosaminidase activity","beta-N-acetylglucosaminidase activity",0.684625,0.4785,0
+"GO:0102571","GO:0102571",1,"GO:0016231",14.1012090212008,0,"[protein]-3-O-(N-acetyl-D-glucosaminyl)-L-serine/L-threonine O-N-acetyl-alpha-D-glucosaminase activity","beta-N-acetylglucosaminidase activity",0.6445625,0.435,0.476
+"GO:0102167","GO:0102167",1,"GO:0016231",14.1012090212008,0,"[protein]-3-O-(N-acetyl-D-glucosaminyl)-L-serine O-N-acetyl-alpha-D-glucosaminase activity","beta-N-acetylglucosaminidase activity",0.6445625,0.435,0.476
+"GO:0102166","GO:0102166",1,"GO:0016231",14.1012090212008,0,"[protein]-3-O-(N-acetyl-D-glucosaminyl)-L-threonine O-N-acetyl-alpha-D-glucosaminase activity","beta-N-acetylglucosaminidase activity",0.6445625,0.435,0.476
+"GO:0004553","GO:0004553",1,"GO:0016231",11.2531666005398,55,"hydrolase activity, hydrolyzing O-glycosyl compounds","beta-N-acetylglucosaminidase activity",0.570375,0.318625,0.63
+"GO:0004563","GO:0004563",1,"GO:0016231",11.0254883072627,6,"beta-N-acetylhexosaminidase activity","beta-N-acetylglucosaminidase activity",0.6479375,0.420125,0.839
+"GO:0016798","GO:0016798",1,"GO:0016231",10.064406373293,80,"hydrolase activity, acting on glycosyl bonds","beta-N-acetylglucosaminidase activity",0.5905,0.40875,0.554
+"GO:0015929","GO:0015929",1,"GO:0016231",9.67330578915131,5,"hexosaminidase activity","beta-N-acetylglucosaminidase activity",0.6115625,0.369,0.721
+"GO:0004402","GO:0004402",2,"GO:0004402",7.17355084271811,27,"histone acetyltransferase activity","histone acetyltransferase activity",0.6548125,0.4495,0
+"GO:0061733","GO:0061733",2,"GO:0004402",7.1681558108314,3,"peptide-lysine-N-acetyltransferase activity","histone acetyltransferase activity",0.6293125,0.422,0.893
+"GO:0034212","GO:0034212",2,"GO:0004402",7.03345723693395,0,"peptide N-acetyltransferase activity","histone acetyltransferase activity",0.649,0.39725,0.729
+"GO:0008080","GO:0008080",2,"GO:0004402",6.20157956631835,37,"N-acetyltransferase activity","histone acetyltransferase activity",0.636875,0.383875,0.674
+"GO:0016410","GO:0016410",2,"GO:0004402",5.68003917181028,11,"N-acyltransferase activity","histone acetyltransferase activity",0.63075,0.408,0.559
+"GO:0016407","GO:0016407",2,"GO:0004402",4.90679851993137,11,"acetyltransferase activity","histone acetyltransferase activity",0.63075,0.408,0.559
+"GO:0016747","GO:0016747",2,"GO:0004402",3.48557622268355,37,"acyltransferase activity, transferring groups other than amino-acyl groups","histone acetyltransferase activity",0.613875,0.409,0.515
+"GO:0016746","GO:0016746",2,"GO:0004402",3.2296082899186,148,"acyltransferase activity","histone acetyltransferase activity",0.6193125,0.474375,0.475

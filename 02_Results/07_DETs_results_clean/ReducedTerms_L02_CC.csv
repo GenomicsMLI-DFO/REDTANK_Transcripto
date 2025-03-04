@@ -1,0 +1,61 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0044304","GO:0044304",1,"GO:0044304",17.2384480114358,1,"main axon","main axon",0.773033333333333,0.761576923076923,0
+"GO:0097418","GO:0097418",1,"GO:0044304",17.2384480114358,0,"neurofibrillary tangle","main axon",0.7765,0.727923076923077,0.263
+"GO:0098894","GO:0098894",2,"GO:0098894",17.2384480114358,5,"extrinsic component of presynaptic endocytic zone membrane","extrinsic component of presynaptic endocytic zone membrane",0.789866666666667,0.4687,0
+"GO:0033270","GO:0033270",1,"GO:0044304",16.8996294548824,6,"paranode region of axon","main axon",0.777266666666667,0.765615384615385,0.876
+"GO:0070937","GO:0070937",1,"GO:0044304",16.8996294548824,5,"CRD-mediated mRNA stability complex","main axon",0.702716666666667,0.632807692307692,0.277
+"GO:0070381","GO:0070381",1,"GO:0044304",16.8630153437616,0,"endosome to plasma membrane transport vesicle","main axon",0.816483333333333,0.749923076923077,0.183
+"GO:0106002","GO:0106002",1,"GO:0044304",16.8027194418744,0,"mCRD-mediated mRNA stability complex","main axon",0.725116666666667,0.669423076923077,0.265
+"GO:0098688","GO:0098688",3,"GO:0098688",16.2450785903348,0,"parallel fiber to Purkinje cell synapse","parallel fiber to Purkinje cell synapse",0.7847,0.546555555555556,0
+"GO:0098888","GO:0098888",2,"GO:0098894",13.9188127712548,0,"extrinsic component of presynaptic membrane","extrinsic component of presynaptic endocytic zone membrane",0.7756,0.4335,0.843
+"GO:0098835","GO:0098835",2,"GO:0098894",12.8174426986951,0,"presynaptic endocytic zone membrane","extrinsic component of presynaptic endocytic zone membrane",0.754666666666667,0.4514,0.804
+"GO:0000137","GO:0000137",1,"GO:0044304",12.7569619513137,2,"Golgi cis cisterna","main axon",0.792283333333333,0.685538461538462,0.172
+"GO:0098833","GO:0098833",3,"GO:0098688",12.6900151616831,0,"presynaptic endocytic zone","parallel fiber to Purkinje cell synapse",0.708366666666667,0.534444444444444,0.49
+"GO:0099243","GO:0099243",2,"GO:0098894",12.3268372592703,0,"extrinsic component of synaptic membrane","extrinsic component of presynaptic endocytic zone membrane",0.76265,0.4204,0.722
+"GO:0060076","GO:0060076",3,"GO:0098688",11.6243363860391,6,"excitatory synapse","parallel fiber to Purkinje cell synapse",0.745716666666667,0.470222222222222,0.825
+"GO:0005778","GO:0005778",1,"GO:0044304",10.7569619513137,41,"peroxisomal membrane","main axon",0.78635,0.679038461538461,0.161
+"GO:0031903","GO:0031903",1,"GO:0044304",10.7569619513137,0,"microbody membrane","main axon",0.759483333333333,0.641230769230769,0.177
+"GO:0020003","GO:0020003",4,"GO:0020003",10.3439581962058,0,"symbiont-containing vacuole","symbiont-containing vacuole",0.828616666666667,0.56075,0
+"GO:0014069","GO:0014069",3,"GO:0098688",9.6377755435945,72,"postsynaptic density","parallel fiber to Purkinje cell synapse",0.786016666666667,0.554888888888889,0.302
+"GO:0033655","GO:0033655",4,"GO:0020003",9.6377755435945,0,"host cell cytoplasm part","symbiont-containing vacuole",0.81605,0.418875,0.697
+"GO:0099572","GO:0099572",3,"GO:0098688",9.56663025314341,11,"postsynaptic specialization","parallel fiber to Purkinje cell synapse",0.73125,0.517333333333333,0.415
+"GO:0032279","GO:0032279",3,"GO:0098688",9.31575325248469,2,"asymmetric synapse","parallel fiber to Purkinje cell synapse",0.778666666666667,0.506333333333333,0.422
+"GO:0030430","GO:0030430",4,"GO:0020003",9.17338536567976,0,"host cell cytoplasm","symbiont-containing vacuole",0.802883333333333,0.391,0.609
+"GO:0043656","GO:0043656",4,"GO:0020003",9.17338536567976,0,"host intracellular region","symbiont-containing vacuole",0.775083333333333,0.38125,0.489
+"GO:0033646","GO:0033646",4,"GO:0020003",9.17338536567976,0,"host intracellular part","symbiont-containing vacuole",0.78605,0.371625,0.57
+"GO:0098984","GO:0098984",3,"GO:0098688",8.81247927916354,0,"neuron to neuron synapse","parallel fiber to Purkinje cell synapse",0.742533333333333,0.449,0.527
+"GO:0030132","GO:0030132",1,"GO:0044304",8.18070922359203,7,"clathrin coat of coated pit","main axon",0.790366666666667,0.776115384615385,0.147
+"GO:1990604","GO:1990604",1,"GO:0044304",8.1627272974977,2,"IRE1-TRAF2-ASK1 complex","main axon",0.789383333333333,0.707615384615385,0.143
+"GO:0016234","GO:0016234",1,"GO:0044304",8.1627272974977,2,"inclusion body","main axon",0.72565,0.668576923076923,0.311
+"GO:0005777","GO:0005777",1,"GO:0044304",7.95532960508054,96,"peroxisome","main axon",0.7416,0.607153846153846,0.209
+"GO:0042579","GO:0042579",1,"GO:0044304",7.95532960508054,0,"microbody","main axon",0.710816666666667,0.560846153846154,0.225
+"GO:0033643","GO:0033643",4,"GO:0020003",7.62507435475008,0,"host cell part","symbiont-containing vacuole",0.748933333333333,0.388875,0.453
+"GO:0045211","GO:0045211",2,"GO:0098894",6.93989263489969,138,"postsynaptic membrane","extrinsic component of presynaptic endocytic zone membrane",0.738166666666667,0.4837,0.497
+"GO:0034515","GO:0034515",1,"GO:0044304",6.33099321904142,1,"proteasome storage granule","main axon",0.736466666666667,0.616807692307692,0.225
+"GO:0042734","GO:0042734",2,"GO:0098894",5.94601818753375,29,"presynaptic membrane","extrinsic component of presynaptic endocytic zone membrane",0.731916666666667,0.4163,0.693
+"GO:0098794","GO:0098794",3,"GO:0098688",5.80966830182971,23,"postsynapse","parallel fiber to Purkinje cell synapse",0.68825,0.426555555555556,0.573
+"GO:0030118","GO:0030118",1,"GO:0044304",5.60569427598306,0,"clathrin coat","main axon",0.76625,0.7065,0.203
+"GO:0018995","GO:0018995",4,"GO:0020003",5.58459856477727,0,"host cellular component","symbiont-containing vacuole",0.693866666666667,0.517625,0.322
+"GO:0098685","GO:0098685",3,"GO:0098688",5.58459856477727,0,"Schaffer collateral - CA1 synapse","parallel fiber to Purkinje cell synapse",0.750683333333333,0.503333333333333,0.527
+"GO:0043657","GO:0043657",4,"GO:0020003",5.58459856477727,0,"host cell","symbiont-containing vacuole",0.738983333333333,0.4475,0.374
+"GO:0005680","GO:0005680",1,"GO:0044304",5.31762925748344,26,"anaphase-promoting complex","main axon",0.808183333333333,0.751,0.15
+"GO:0000932","GO:0000932",1,"GO:0044304",5.00801797201585,60,"P-body","main axon",0.77615,0.674115384615385,0.199
+"GO:1990111","GO:1990111",5,"GO:1990111",4.91781324381265,4,"spermatoproteasome complex","spermatoproteasome complex",0.867066666666667,0.507714285714286,0
+"GO:0008540","GO:0008540",5,"GO:1990111",4.8222286828263,11,"proteasome regulatory particle, base subcomplex","spermatoproteasome complex",0.759166666666667,0.465285714285714,0.577
+"GO:0019897","GO:0019897",2,"GO:0098894",4.76694617222031,2,"extrinsic component of plasma membrane","extrinsic component of presynaptic endocytic zone membrane",0.765683333333333,0.5487,0.517
+"GO:0009986","GO:0009986",1,"GO:0044304",4.37832709783705,137,"cell surface","main axon",0.723133333333333,0.730307692307692,0.387
+"GO:0010494","GO:0010494",1,"GO:0044304",4.37832709783705,30,"cytoplasmic stress granule","main axon",0.77615,0.674115384615385,0.199
+"GO:0043596","GO:0043596",1,"GO:0044304",4.25296855019374,10,"nuclear replication fork","main axon",0.801683333333333,0.722961538461538,0.181
+"GO:0005905","GO:0005905",2,"GO:0098894",4.15944958773646,27,"clathrin-coated pit","extrinsic component of presynaptic endocytic zone membrane",0.7623,0.5695,0.369
+"GO:0005838","GO:0005838",5,"GO:1990111",4.06694678963061,3,"proteasome regulatory particle","spermatoproteasome complex",0.74645,0.446714285714286,0.614
+"GO:0097060","GO:0097060",2,"GO:0098894",4.05799194697769,4,"synaptic membrane","extrinsic component of presynaptic endocytic zone membrane",0.732483333333333,0.4015,0.608
+"GO:0030427","GO:0030427",1,"GO:0044304",4.00213412951269,10,"site of polarized growth","main axon",0.723133333333333,0.730307692307692,0.387
+"GO:0005657","GO:0005657",1,"GO:0044304",3.98160360111423,9,"replication fork","main axon",0.7269,0.651384615384615,0.276
+"GO:0031985","GO:0031985",1,"GO:0044304",3.96272388103661,7,"Golgi cisterna","main axon",0.78035,0.667,0.175
+"GO:0000152","GO:0000152",1,"GO:0044304",3.88729571980871,0,"nuclear ubiquitin ligase complex","main axon",0.787383333333333,0.726538461538462,0.16
+"GO:0016600","GO:0016600",2,"GO:0098894",3.86385618522836,0,"flotillin complex","extrinsic component of presynaptic endocytic zone membrane",0.822366666666667,0.6797,0.26
+"GO:0000502","GO:0000502",5,"GO:1990111",3.46375729316168,61,"proteasome complex","spermatoproteasome complex",0.848133333333333,0.446142857142857,0.874
+"GO:0070971","GO:0070971",1,"GO:0044304",3.21180681132222,18,"endoplasmic reticulum exit site","main axon",0.712066666666667,0.595576923076923,0.248
+"GO:0030688","GO:0030688",5,"GO:1990111",3.08902618071766,10,"preribosome, small subunit precursor","spermatoproteasome complex",0.895166666666667,0.800571428571429,0.176
+"GO:0140535","GO:0140535",5,"GO:1990111",3.08795517035513,0,"intracellular protein-containing complex","spermatoproteasome complex",0.81575,0.574,0.541
+"GO:0022624","GO:0022624",5,"GO:1990111",3.08795517035513,2,"proteasome accessory complex","spermatoproteasome complex",0.73185,0.443857142857143,0.664

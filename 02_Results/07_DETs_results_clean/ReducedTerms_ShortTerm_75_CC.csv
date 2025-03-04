@@ -1,0 +1,11 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0042612","GO:0042612",1,"GO:0042612",8.15465386258859,3,"MHC class I protein complex","MHC class I protein complex",0.7263,0.6196,0
+"GO:0042611","GO:0042611",1,"GO:0042612",8.01635116442231,0,"MHC protein complex","MHC class I protein complex",0.709,0.604,0.877
+"GO:0009897","GO:0009897",1,"GO:0042612",7.05774384958054,198,"external side of plasma membrane","MHC class I protein complex",0.7295,0.5946,0.415
+"GO:0098552","GO:0098552",1,"GO:0042612",6.9438004972737,0,"side of membrane","MHC class I protein complex",0.7105,0.6314,0.361
+"GO:0005859","GO:0005859",2,"GO:0005859",5.70749583124637,0,"muscle myosin complex","muscle myosin complex",0.7001,0.547,0
+"GO:0016460","GO:0016460",2,"GO:0005859",4.93280511297224,29,"myosin II complex","muscle myosin complex",0.6701,0.5428,0.73
+"GO:1990733","GO:1990733",2,"GO:0005859",4.30078189826683,0,"titin-telethonin complex","muscle myosin complex",0.709,0.6626,0.578
+"GO:0016459","GO:0016459",2,"GO:0005859",4.068739233882,60,"myosin complex","muscle myosin complex",0.6538,0.5326,0.683
+"GO:0009986","GO:0009986",1,"GO:0042612",3.33074512164427,137,"cell surface","MHC class I protein complex",0.7347,0.6992,0.249
+"GO:0000794","GO:0000794",2,"GO:0005859",3.07547261654097,4,"condensed nuclear chromosome","muscle myosin complex",0.836,0.7818,0.274

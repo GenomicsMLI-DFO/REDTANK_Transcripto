@@ -1,0 +1,223 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0003008","GO:0003008",1,"GO:0003008",22.6477287018695,0,"system process","system process",0.841779279279279,0.5495,0
+"GO:0006937","GO:0006937",2,"GO:0006937",22.6477287018695,16,"regulation of muscle contraction","regulation of muscle contraction",0.899923423423423,0.53225,0
+"GO:0034762","GO:0034762",3,"GO:0034762",22.6477287018695,0,"regulation of transmembrane transport","regulation of transmembrane transport",0.844824324324324,0.512875,0
+"GO:0034220","GO:0034220",4,"GO:0034220",22.4388449294176,103,"monoatomic ion transmembrane transport","monoatomic ion transmembrane transport",0.836436936936937,0.562107142857143,0
+"GO:0055085","GO:0055085",4,"GO:0034220",21.9239351138085,611,"transmembrane transport","monoatomic ion transmembrane transport",0.812810810810811,0.591928571428571,0.788
+"GO:0034765","GO:0034765",3,"GO:0034762",21.6563288736315,164,"regulation of monoatomic ion transmembrane transport","regulation of transmembrane transport",0.863837837837838,0.502625,0.791
+"GO:0006182","GO:0006182",5,"GO:0006182",20.9037317277202,29,"cGMP biosynthetic process","cGMP biosynthetic process",0.929882882882883,0.4334,0
+"GO:0007168","GO:0007168",7,"GO:0007168",20.1422240526586,16,"receptor guanylyl cyclase signaling pathway","receptor guanylyl cyclase signaling pathway",0.904752252252252,0.62175,0
+"GO:0009060","GO:0009060",6,"GO:0009060",20.1422240526586,11,"aerobic respiration","aerobic respiration",0.915554054054054,0.5258,0
+"GO:0006811","GO:0006811",4,"GO:0034220",19.5771476275838,617,"monoatomic ion transport","monoatomic ion transmembrane transport",0.871981981981982,0.568714285714286,0.691
+"GO:0046068","GO:0046068",5,"GO:0006182",19.4724122770638,0,"cGMP metabolic process","cGMP biosynthetic process",0.915454954954955,0.4444,0.66
+"GO:0009190","GO:0009190",5,"GO:0006182",18.5102008379532,27,"cyclic nucleotide biosynthetic process","cGMP biosynthetic process",0.914378378378378,0.3792,0.673
+"GO:0043269","GO:0043269",3,"GO:0034762",17.7616720541764,7,"regulation of monoatomic ion transport","regulation of transmembrane transport",0.878698198198198,0.52925,0.595
+"GO:0006163","GO:0006163",5,"GO:0006182",16.9451244128784,5,"purine nucleotide metabolic process","cGMP biosynthetic process",0.898855855855856,0.374133333333333,0.558
+"GO:0072521","GO:0072521",5,"GO:0006182",16.3552988779675,0,"purine-containing compound metabolic process","cGMP biosynthetic process",0.889783783783784,0.511733333333333,0.421
+"GO:0009117","GO:0009117",5,"GO:0006182",16.2371995658895,14,"nucleotide metabolic process","cGMP biosynthetic process",0.893054054054054,0.3844,0.472
+"GO:0006753","GO:0006753",5,"GO:0006182",16.0294452985785,2,"nucleoside phosphate metabolic process","cGMP biosynthetic process",0.888990990990991,0.377,0.492
+"GO:0044057","GO:0044057",2,"GO:0006937",15.6019712113089,0,"regulation of system process","regulation of muscle contraction",0.863810810810811,0.622083333333333,0.677
+"GO:0045333","GO:0045333",6,"GO:0009060",15.6006287234334,8,"cellular respiration","aerobic respiration",0.901972972972973,0.4846,0.844
+"GO:0090257","GO:0090257",2,"GO:0006937",14.7812676102398,1,"regulation of muscle system process","regulation of muscle contraction",0.884527027027027,0.568666666666667,0.82
+"GO:0006941","GO:0006941",2,"GO:0006937",14.6440944172144,1,"striated muscle contraction","regulation of muscle contraction",0.903387387387387,0.515916666666667,0.496
+"GO:0015980","GO:0015980",6,"GO:0009060",14.5673877902947,0,"energy derivation by oxidation of organic compounds","aerobic respiration",0.883554054054054,0.4784,0.732
+"GO:0055086","GO:0055086",5,"GO:0006182",14.3156261732035,0,"nucleobase-containing small molecule metabolic process","cGMP biosynthetic process",0.878603603603604,0.437333333333333,0.427
+"GO:0042407","GO:0042407",8,"GO:0042407",13.1122608292812,14,"cristae formation","cristae formation",0.928549549549549,0.691,0
+"GO:0052652","GO:0052652",5,"GO:0006182",12.9143897959023,0,"cyclic purine nucleotide metabolic process","cGMP biosynthetic process",0.920463963963964,0.390533333333333,0.811
+"GO:0009187","GO:0009187",5,"GO:0006182",12.7368484704513,0,"cyclic nucleotide metabolic process","cGMP biosynthetic process",0.898027027027027,0.413533333333333,0.47
+"GO:0003007","GO:0003007",9,"GO:0003007",12.1634133517286,77,"heart morphogenesis","heart morphogenesis",0.879873873873874,0.538705882352941,0
+"GO:0006091","GO:0006091",6,"GO:0009060",12.0031163598561,1,"generation of precursor metabolites and energy","aerobic respiration",0.857702702702703,0.5086,0.65
+"GO:0055001","GO:0055001",10,"GO:0055001",11.7495110141203,42,"muscle cell development","muscle cell development",0.882189189189189,0.447888888888889,0
+"GO:0019752","GO:0019752",11,"GO:0019752",11.468808152795,17,"carboxylic acid metabolic process","carboxylic acid metabolic process",0.889328828828829,0.493071428571429,0
+"GO:0043436","GO:0043436",11,"GO:0019752",11.2903580710345,0,"oxoacid metabolic process","carboxylic acid metabolic process",0.874387387387387,0.476857142857143,0.874
+"GO:0007007","GO:0007007",8,"GO:0042407",11.2693842492609,9,"inner mitochondrial membrane organization","cristae formation",0.920972972972973,0.661538461538462,0.869
+"GO:0006082","GO:0006082",11,"GO:0019752",11.0744722683918,39,"organic acid metabolic process","carboxylic acid metabolic process",0.854585585585586,0.460428571428571,0.795
+"GO:0019637","GO:0019637",11,"GO:0019752",10.9182948464558,0,"organophosphate metabolic process","carboxylic acid metabolic process",0.863945945945946,0.608285714285714,0.466
+"GO:0055010","GO:0055010",9,"GO:0003007",10.8201856762701,4,"ventricular cardiac muscle tissue morphogenesis","heart morphogenesis",0.917018018018018,0.654205882352941,0.539
+"GO:0006942","GO:0006942",2,"GO:0006937",10.5050611983008,2,"regulation of striated muscle contraction","regulation of muscle contraction",0.910324324324324,0.50375,0.83
+"GO:0003229","GO:0003229",9,"GO:0003007",9.98398134941585,1,"ventricular cardiac muscle tissue development","heart morphogenesis",0.906378378378378,0.649382352941176,0.529
+"GO:0061061","GO:0061061",9,"GO:0003007",9.52854229415033,22,"muscle structure development","heart morphogenesis",0.87445045045045,0.667794117647059,0.304
+"GO:0014883","GO:0014883",1,"GO:0003008",9.52475955812415,0,"transition between fast and slow fiber","system process",0.914603603603604,0.754181818181818,0.331
+"GO:0097553","GO:0097553",12,"GO:0097553",9.3041463555201,0,"calcium ion transmembrane import into cytosol","calcium ion transmembrane import into cytosol",0.888806306306306,0.436642857142857,0
+"GO:0090403","GO:0090403",13,"GO:0090403",9.21220787901472,0,"oxidative stress-induced premature senescence","oxidative stress-induced premature senescence",0.930396396396396,0.634,0
+"GO:0072337","GO:0072337",4,"GO:0034220",9.02430565892605,0,"modified amino acid transport","monoatomic ion transmembrane transport",0.891801801801802,0.53175,0.421
+"GO:0015822","GO:0015822",4,"GO:0034220",8.98732209267288,0,"ornithine transport","monoatomic ion transmembrane transport",0.900135135135135,0.51175,0.321
+"GO:0089709","GO:0089709",4,"GO:0034220",8.98732209267288,2,"L-histidine transmembrane transport","monoatomic ion transmembrane transport",0.890292792792793,0.506678571428571,0.419
+"GO:1903352","GO:1903352",4,"GO:0034220",8.98732209267288,4,"L-ornithine transmembrane transport","monoatomic ion transmembrane transport",0.886720720720721,0.502464285714286,0.451
+"GO:0003009","GO:0003009",2,"GO:0006937",8.84196545059337,24,"skeletal muscle contraction","regulation of muscle contraction",0.903531531531532,0.484083333333333,0.382
+"GO:0045214","GO:0045214",10,"GO:0055001",8.82599961158274,57,"sarcomere organization","muscle cell development",0.908324324324324,0.543111111111111,0.474
+"GO:0098703","GO:0098703",12,"GO:0097553",8.57264712635716,22,"calcium ion import across plasma membrane","calcium ion transmembrane import into cytosol",0.903018018018018,0.481428571428571,0.816
+"GO:0070296","GO:0070296",4,"GO:0034220",8.45443035096949,0,"sarcoplasmic reticulum calcium ion transport","monoatomic ion transmembrane transport",0.920986486486487,0.749428571428571,0.371
+"GO:1902022","GO:1902022",4,"GO:0034220",8.40105636852815,0,"L-lysine transport","monoatomic ion transmembrane transport",0.902558558558559,0.522821428571429,0.311
+"GO:0090400","GO:0090400",13,"GO:0090403",8.17077445137493,0,"stress-induced premature senescence","oxidative stress-induced premature senescence",0.913432432432432,0.585666666666667,0.725
+"GO:0060048","GO:0060048",2,"GO:0006937",8.03787846611533,20,"cardiac muscle contraction","regulation of muscle contraction",0.922265765765766,0.673,0.331
+"GO:0014808","GO:0014808",12,"GO:0097553",8.01950677604428,0,"release of sequestered calcium ion into cytosol by sarcoplasmic reticulum","calcium ion transmembrane import into cytosol",0.887824324324324,0.4105,0.761
+"GO:1903514","GO:1903514",12,"GO:0097553",8.01950677604428,0,"release of sequestered calcium ion into cytosol by endoplasmic reticulum","calcium ion transmembrane import into cytosol",0.88295045045045,0.38,0.785
+"GO:0007517","GO:0007517",9,"GO:0003007",7.94385639889179,44,"muscle organ development","heart morphogenesis",0.872693693693694,0.562735294117647,0.497
+"GO:0015801","GO:0015801",4,"GO:0034220",7.94385639889179,0,"aromatic amino acid transport","monoatomic ion transmembrane transport",0.898774774774775,0.535428571428571,0.366
+"GO:0045117","GO:0045117",4,"GO:0034220",7.94385639889179,0,"azole transmembrane transport","monoatomic ion transmembrane transport",0.87259009009009,0.501642857142857,0.66
+"GO:0002523","GO:0002523",14,"GO:0002523",7.76079202452996,4,"leukocyte migration involved in inflammatory response","leukocyte migration involved in inflammatory response",0.91554954954955,0.706125,0
+"GO:0071312","GO:0071312",15,"GO:0071312",7.64902963488996,0,"cellular response to alkaloid","cellular response to alkaloid",0.937193693693694,0.5842,0
+"GO:0043931","GO:0043931",9,"GO:0003007",7.62917662758784,3,"ossification involved in bone maturation","heart morphogenesis",0.895806306306306,0.694823529411765,0.351
+"GO:0070977","GO:0070977",9,"GO:0003007",7.62917662758784,0,"bone maturation","heart morphogenesis",0.908896396396396,0.680029411764706,0.369
+"GO:0003408","GO:0003408",9,"GO:0003007",7.62917662758784,1,"optic cup formation involved in camera-type eye development","heart morphogenesis",0.900306306306306,0.625647058823529,0.376
+"GO:0050904","GO:0050904",14,"GO:0002523",7.60517635118408,0,"diapedesis","leukocyte migration involved in inflammatory response",0.912171171171171,0.658,0.605
+"GO:0031000","GO:0031000",15,"GO:0071312",7.60517635118408,0,"response to caffeine","cellular response to alkaloid",0.955166666666667,0.6296,0.433
+"GO:0044281","GO:0044281",11,"GO:0019752",7.54496294421243,0,"small molecule metabolic process","carboxylic acid metabolic process",0.873977477477477,0.636785714285714,0.486
+"GO:0060047","GO:0060047",1,"GO:0003008",7.49360157613376,84,"heart contraction","system process",0.912563063063063,0.638181818181818,0.504
+"GO:0030239","GO:0030239",10,"GO:0055001",7.40322243028466,38,"myofibril assembly","muscle cell development",0.908373873873874,0.542888888888889,0.464
+"GO:0071313","GO:0071313",15,"GO:0071312",7.38846724122013,0,"cellular response to caffeine","cellular response to alkaloid",0.948400900900901,0.5174,0.756
+"GO:0055002","GO:0055002",10,"GO:0055001",7.31908670531303,18,"striated muscle cell development","muscle cell development",0.89859009009009,0.444888888888889,0.841
+"GO:0090399","GO:0090399",13,"GO:0090403",7.16171688675146,1,"replicative senescence","oxidative stress-induced premature senescence",0.895936936936937,0.703,0.373
+"GO:0002026","GO:0002026",1,"GO:0003008",7.16171688675146,0,"regulation of the force of heart contraction","system process",0.890846846846847,0.635590909090909,0.346
+"GO:0048799","GO:0048799",9,"GO:0003007",7.16171688675146,0,"animal organ maturation","heart morphogenesis",0.886815315315315,0.609705882352941,0.474
+"GO:0071415","GO:0071415",15,"GO:0071312",7.16171688675146,0,"cellular response to purine-containing compound","cellular response to alkaloid",0.941220720720721,0.5494,0.689
+"GO:0050881","GO:0050881",1,"GO:0003008",7.01862852603436,3,"musculoskeletal movement","system process",0.890414414414414,0.7475,0.428
+"GO:0050879","GO:0050879",1,"GO:0003008",7.01862852603436,0,"multicellular organismal movement","system process",0.86181981981982,0.679363636363636,0.543
+"GO:0031444","GO:0031444",2,"GO:0006937",7.01862852603436,5,"slow-twitch skeletal muscle fiber contraction","regulation of muscle contraction",0.92445045045045,0.528416666666667,0.291
+"GO:0007519","GO:0007519",9,"GO:0003007",6.98651709803665,75,"skeletal muscle tissue development","heart morphogenesis",0.906495495495495,0.661029411764706,0.324
+"GO:0048644","GO:0048644",9,"GO:0003007",6.95072829039643,2,"muscle organ morphogenesis","heart morphogenesis",0.878945945945946,0.552088235294118,0.605
+"GO:0003015","GO:0003015",1,"GO:0003008",6.94972991183743,5,"heart process","system process",0.894725225225225,0.616545454545455,0.657
+"GO:0003208","GO:0003208",9,"GO:0003007",6.9424185195025,6,"cardiac ventricle morphogenesis","heart morphogenesis",0.895968468468468,0.609764705882353,0.757
+"GO:0060537","GO:0060537",9,"GO:0003007",6.86771218956965,6,"muscle tissue development","heart morphogenesis",0.898846846846847,0.699294117647059,0.24
+"GO:1903826","GO:1903826",4,"GO:0034220",6.86771218956965,0,"L-arginine transmembrane transport","monoatomic ion transmembrane transport",0.887189189189189,0.520178571428571,0.465
+"GO:0060415","GO:0060415",9,"GO:0003007",6.49622571995991,10,"muscle tissue morphogenesis","heart morphogenesis",0.888554054054054,0.578029411764706,0.509
+"GO:0097435","GO:0097435",8,"GO:0042407",6.37109314515071,1,"supramolecular fiber organization","cristae formation",0.881981981981982,0.586846153846154,0.366
+"GO:0033275","GO:0033275",14,"GO:0002523",6.26139437509915,0,"actin-myosin filament sliding","leukocyte migration involved in inflammatory response",0.921774774774775,0.74775,0.158
+"GO:0008016","GO:0008016",1,"GO:0003008",6.26139437509915,37,"regulation of heart contraction","system process",0.905671171171171,0.629272727272727,0.372
+"GO:1990822","GO:1990822",4,"GO:0034220",6.26139437509915,0,"basic amino acid transmembrane transport","monoatomic ion transmembrane transport",0.891261261261261,0.508392857142857,0.516
+"GO:1901020","GO:1901020",3,"GO:0034762",6.23159568837148,0,"negative regulation of calcium ion transmembrane transporter activity","regulation of transmembrane transport",0.914761261261261,0.61175,0.398
+"GO:1903522","GO:1903522",1,"GO:0003008",6.22550763856477,0,"regulation of blood circulation","system process",0.889265765765766,0.617818181818182,0.452
+"GO:0060538","GO:0060538",9,"GO:0003007",6.20917084228924,13,"skeletal muscle organ development","heart morphogenesis",0.887986486486486,0.616235294117647,0.428
+"GO:0055008","GO:0055008",9,"GO:0003007",6.20375055998932,8,"cardiac muscle tissue morphogenesis","heart morphogenesis",0.907540540540541,0.616323529411765,0.647
+"GO:0002072","GO:0002072",9,"GO:0003007",6.13439527449543,7,"optic cup morphogenesis involved in camera-type eye development","heart morphogenesis",0.912522522522523,0.652705882352941,0.34
+"GO:0098739","GO:0098739",4,"GO:0034220",6.13065722816695,0,"import across plasma membrane","monoatomic ion transmembrane transport",0.847054054054054,0.654107142857143,0.659
+"GO:0048741","GO:0048741",10,"GO:0055001",6.11094278735327,88,"skeletal muscle fiber development","muscle cell development",0.909202702702703,0.610111111111111,0.532
+"GO:0015697","GO:0015697",4,"GO:0034220",6.08959684464524,3,"quaternary ammonium group transport","monoatomic ion transmembrane transport",0.893486486486486,0.531285714285714,0.385
+"GO:0051146","GO:0051146",10,"GO:0055001",6.08959684464524,7,"striated muscle cell differentiation","muscle cell development",0.887387387387387,0.484666666666667,0.71
+"GO:0051283","GO:0051283",12,"GO:0097553",6.01369100879498,1,"negative regulation of sequestering of calcium ion","calcium ion transmembrane import into cytosol",0.886166666666667,0.467857142857143,0.381
+"GO:0060900","GO:0060900",9,"GO:0003007",5.99434243554861,1,"embryonic camera-type eye formation","heart morphogenesis",0.899599099099099,0.624235294117647,0.402
+"GO:0051208","GO:0051208",12,"GO:0097553",5.9643637708641,0,"sequestering of calcium ion","calcium ion transmembrane import into cytosol",0.892585585585586,0.474642857142857,0.493
+"GO:0051282","GO:0051282",12,"GO:0097553",5.9643637708641,0,"regulation of sequestering of calcium ion","calcium ion transmembrane import into cytosol",0.878144144144144,0.461857142857143,0.42
+"GO:0014721","GO:0014721",2,"GO:0006937",5.84962216279476,0,"twitch skeletal muscle contraction","regulation of muscle contraction",0.9185,0.500166666666667,0.312
+"GO:0003010","GO:0003010",2,"GO:0006937",5.84962216279476,0,"voluntary skeletal muscle contraction","regulation of muscle contraction",0.911977477477477,0.491333333333333,0.342
+"GO:0009887","GO:0009887",9,"GO:0003007",5.84962216279476,61,"animal organ morphogenesis","heart morphogenesis",0.855824324324324,0.482411764705882,0.788
+"GO:0098957","GO:0098957",16,"GO:0098957",5.78126761023976,2,"anterograde axonal transport of mitochondrion","anterograde axonal transport of mitochondrion",0.937945945945946,0.5555,0
+"GO:0046849","GO:0046849",1,"GO:0003008",5.66891800093948,5,"bone remodeling","system process",0.899252252252252,0.7475,0.428
+"GO:1901880","GO:1901880",17,"GO:1901880",5.6024534928486,0,"negative regulation of protein depolymerization","negative regulation of protein depolymerization",0.910612612612613,0.552,0
+"GO:0003013","GO:0003013",1,"GO:0003008",5.58534210619911,0,"circulatory system process","system process",0.872603603603604,0.575954545454545,0.788
+"GO:0043501","GO:0043501",1,"GO:0003008",5.57318144036623,0,"skeletal muscle adaptation","system process",0.909040540540541,0.745181818181818,0.497
+"GO:0060343","GO:0060343",9,"GO:0003007",5.57318144036623,0,"trabecula formation","heart morphogenesis",0.876463963963964,0.562617647058824,0.603
+"GO:0042692","GO:0042692",10,"GO:0055001",5.48820654424705,6,"muscle cell differentiation","muscle cell development",0.872752252252252,0.483888888888889,0.823
+"GO:0014904","GO:0014904",10,"GO:0055001",5.4321389082002,0,"myotube cell development","muscle cell development",0.903504504504504,0.480111111111111,0.804
+"GO:0030199","GO:0030199",8,"GO:0042407",5.20311977631721,33,"collagen fibril organization","cristae formation",0.915945945945946,0.652384615384615,0.222
+"GO:0048016","GO:0048016",7,"GO:0007168",5.18306803972503,1,"inositol phosphate-mediated signaling","receptor guanylyl cyclase signaling pathway",0.897220720720721,0.41275,0.497
+"GO:0003206","GO:0003206",9,"GO:0003007",5.13574192513071,1,"cardiac chamber morphogenesis","heart morphogenesis",0.879918918918919,0.557205882352941,0.86
+"GO:1903170","GO:1903170",3,"GO:0034762",5.12596210695857,0,"negative regulation of calcium ion transmembrane transport","regulation of transmembrane transport",0.905148648648649,0.590625,0.437
+"GO:0030835","GO:0030835",17,"GO:1901880",5.02355752009866,3,"negative regulation of actin filament depolymerization","negative regulation of protein depolymerization",0.927752252252252,0.403625,0.59
+"GO:0014733","GO:0014733",1,"GO:0003008",4.95959175072773,0,"regulation of skeletal muscle adaptation","system process",0.90863963963964,0.749818181818182,0.314
+"GO:0015802","GO:0015802",4,"GO:0034220",4.95442443595639,0,"basic amino acid transport","monoatomic ion transmembrane transport",0.897414414414414,0.524642857142857,0.366
+"GO:0051693","GO:0051693",17,"GO:1901880",4.95372458464035,13,"actin filament capping","negative regulation of protein depolymerization",0.933945945945946,0.4065,0.505
+"GO:0089718","GO:0089718",4,"GO:0034220",4.81483495788603,0,"amino acid import across plasma membrane","monoatomic ion transmembrane transport",0.878351351351351,0.519285714285714,0.511
+"GO:0030834","GO:0030834",17,"GO:1901880",4.81483495788603,0,"regulation of actin filament depolymerization","negative regulation of protein depolymerization",0.924441441441441,0.499875,0.495
+"GO:0048048","GO:0048048",9,"GO:0003007",4.78844619486688,15,"embryonic eye morphogenesis","heart morphogenesis",0.910684684684685,0.641823529411765,0.427
+"GO:0001503","GO:0001503",1,"GO:0003008",4.76396275203129,29,"ossification","system process",0.867531531531532,0.695727272727273,0.543
+"GO:1905517","GO:1905517",14,"GO:0002523",4.74115038703178,5,"macrophage migration","leukocyte migration involved in inflammatory response",0.918828828828829,0.6915,0.565
+"GO:0030049","GO:0030049",14,"GO:0002523",4.61854031274206,5,"muscle filament sliding","leukocyte migration involved in inflammatory response",0.904743243243243,0.795875,0.117
+"GO:0052697","GO:0052697",11,"GO:0019752",4.61854031274206,0,"xenobiotic glucuronidation","carboxylic acid metabolic process",0.90131981981982,0.609714285714286,0.521
+"GO:0008015","GO:0008015",1,"GO:0003008",4.61854031274206,16,"blood circulation","system process",0.893743243243243,0.606636363636364,0.657
+"GO:0043242","GO:0043242",17,"GO:1901880",4.61854031274206,0,"negative regulation of protein-containing complex disassembly","negative regulation of protein depolymerization",0.896833333333333,0.569875,0.817
+"GO:0097638","GO:0097638",4,"GO:0034220",4.61854031274206,4,"L-arginine import across plasma membrane","monoatomic ion transmembrane transport",0.89918018018018,0.560321428571429,0.385
+"GO:1903810","GO:1903810",4,"GO:0034220",4.61854031274206,0,"L-histidine import across plasma membrane","monoatomic ion transmembrane transport",0.896184684684685,0.54075,0.392
+"GO:1905949","GO:1905949",12,"GO:0097553",4.61854031274206,0,"negative regulation of calcium ion import across plasma membrane","calcium ion transmembrane import into cytosol",0.908274774774775,0.525142857142857,0.564
+"GO:0052696","GO:0052696",11,"GO:0019752",4.61854031274206,0,"flavonoid glucuronidation","carboxylic acid metabolic process",0.904612612612613,0.5245,0.611
+"GO:0010927","GO:0010927",10,"GO:0055001",4.60408925554286,0,"cellular component assembly involved in morphogenesis","muscle cell development",0.876918918918919,0.677333333333333,0.321
+"GO:0007006","GO:0007006",8,"GO:0042407",4.57391865745364,2,"mitochondrial membrane organization","cristae formation",0.911621621621622,0.637461538461539,0.784
+"GO:0048771","GO:0048771",1,"GO:0003008",4.47703247470057,2,"tissue remodeling","system process",0.866815315315315,0.679363636363636,0.543
+"GO:0002027","GO:0002027",1,"GO:0003008",4.3989326748983,8,"regulation of heart rate","system process",0.891504504504504,0.642227272727273,0.346
+"GO:0030042","GO:0030042",8,"GO:0042407",4.37144551391803,12,"actin filament depolymerization","cristae formation",0.922945945945946,0.728461538461538,0.172
+"GO:0051480","GO:0051480",12,"GO:0097553",4.35529887796748,27,"regulation of cytosolic calcium ion concentration","calcium ion transmembrane import into cytosol",0.929423423423423,0.534285714285714,0.513
+"GO:0015879","GO:0015879",4,"GO:0034220",4.31673548282812,1,"carnitine transport","monoatomic ion transmembrane transport",0.915189189189189,0.619571428571429,0.312
+"GO:0015838","GO:0015838",4,"GO:0034220",4.31673548282812,1,"amino-acid betaine transport","monoatomic ion transmembrane transport",0.90859009009009,0.586285714285714,0.323
+"GO:0033173","GO:0033173",7,"GO:0007168",4.30312086630241,9,"calcineurin-NFAT signaling cascade","receptor guanylyl cyclase signaling pathway",0.913567567567568,0.4055,0.384
+"GO:0051289","GO:0051289",8,"GO:0042407",4.27459111195838,19,"protein homotetramerization","cristae formation",0.938459459459459,0.757538461538461,0.129
+"GO:0097720","GO:0097720",7,"GO:0007168",4.22733368672899,8,"calcineurin-mediated signaling","receptor guanylyl cyclase signaling pathway",0.904725225225225,0.385,0.438
+"GO:0060317","GO:0060317",9,"GO:0003007",4.21046531264224,0,"cardiac epithelial to mesenchymal transition","heart morphogenesis",0.887734234234234,0.636823529411765,0.728
+"GO:0035989","GO:0035989",9,"GO:0003007",4.1792076189118,6,"tendon development","heart morphogenesis",0.919031531531531,0.763382352941177,0.198
+"GO:1901387","GO:1901387",3,"GO:0034762",4.1792076189118,3,"positive regulation of voltage-gated calcium channel activity","regulation of transmembrane transport",0.923162162162162,0.65675,0.39
+"GO:0098657","GO:0098657",4,"GO:0034220",4.17043369460429,0,"import into cell","monoatomic ion transmembrane transport",0.889891891891892,0.676642857142857,0.451
+"GO:1901879","GO:1901879",8,"GO:0042407",4.13995431976412,0,"regulation of protein depolymerization","cristae formation",0.901702702702703,0.730692307692308,0.16
+"GO:0050905","GO:0050905",1,"GO:0003008",4.12708460559821,3,"neuromuscular process","system process",0.904445945945946,0.708727272727273,0.657
+"GO:0018057","GO:0018057",18,"GO:0018057",4.11977043105993,15,"peptidyl-lysine oxidation","peptidyl-lysine oxidation",0.932581081081081,0.6375,0
+"GO:0043616","GO:0043616",6,"GO:0009060",4.11763531792237,0,"keratinocyte proliferation","aerobic respiration",0.909126126126126,0.8494,0.145
+"GO:0051209","GO:0051209",12,"GO:0097553",4.06438601659504,15,"release of sequestered calcium ion into cytosol","calcium ion transmembrane import into cytosol",0.883774774774775,0.373214285714286,0.793
+"GO:0003333","GO:0003333",4,"GO:0034220",4.06286905406541,21,"amino acid transmembrane transport","monoatomic ion transmembrane transport",0.880617117117117,0.463464285714286,0.55
+"GO:0048596","GO:0048596",9,"GO:0003007",4.02430565892605,11,"embryonic camera-type eye morphogenesis","heart morphogenesis",0.919738738738739,0.663,0.371
+"GO:0051014","GO:0051014",14,"GO:0002523",3.98932807537048,25,"actin filament severing","leukocyte migration involved in inflammatory response",0.880009009009009,0.77875,0.154
+"GO:0070640","GO:0070640",11,"GO:0019752",3.95215767560963,1,"vitamin D3 metabolic process","carboxylic acid metabolic process",0.94563963963964,0.811714285714286,0.207
+"GO:0061430","GO:0061430",9,"GO:0003007",3.95215767560963,0,"bone trabecula morphogenesis","heart morphogenesis",0.90322972972973,0.708441176470588,0.327
+"GO:0061383","GO:0061383",9,"GO:0003007",3.95215767560963,0,"trabecula morphogenesis","heart morphogenesis",0.88227027027027,0.654147058823529,0.401
+"GO:0060346","GO:0060346",9,"GO:0003007",3.95215767560963,0,"bone trabecula formation","heart morphogenesis",0.902927927927928,0.644088235294118,0.475
+"GO:0030198","GO:0030198",8,"GO:0042407",3.95215767560963,109,"extracellular matrix organization","cristae formation",0.910175675675676,0.636461538461538,0.251
+"GO:0043062","GO:0043062",8,"GO:0042407",3.95215767560963,0,"extracellular structure organization","cristae formation",0.884306306306306,0.580153846153846,0.366
+"GO:0052695","GO:0052695",11,"GO:0019752",3.95215767560963,0,"cellular glucuronidation","carboxylic acid metabolic process",0.917653153153153,0.524642857142857,0.654
+"GO:0019585","GO:0019585",11,"GO:0019752",3.95215767560963,0,"glucuronate metabolic process","carboxylic acid metabolic process",0.913355855855856,0.514928571428571,0.703
+"GO:0006063","GO:0006063",11,"GO:0019752",3.95215767560963,0,"uronic acid metabolic process","carboxylic acid metabolic process",0.907873873873874,0.510928571428571,0.772
+"GO:1903401","GO:1903401",4,"GO:0034220",3.95215767560963,0,"L-lysine transmembrane transport","monoatomic ion transmembrane transport",0.88604054054054,0.508785714285714,0.461
+"GO:0051694","GO:0051694",17,"GO:1901880",3.95215767560963,8,"pointed-end actin filament capping","negative regulation of protein depolymerization",0.929405405405405,0.3915,0.538
+"GO:0009888","GO:0009888",9,"GO:0003007",3.89677411173947,5,"tissue development","heart morphogenesis",0.876207207207207,0.644941176470588,0.304
+"GO:0051262","GO:0051262",8,"GO:0042407",3.87561540648321,9,"protein tetramerization","cristae formation",0.928,0.720615384615385,0.163
+"GO:0031076","GO:0031076",9,"GO:0003007",3.87561540648321,12,"embryonic camera-type eye development","heart morphogenesis",0.906824324324324,0.656088235294118,0.361
+"GO:0019722","GO:0019722",7,"GO:0007168",3.82987294367326,22,"calcium-mediated signaling","receptor guanylyl cyclase signaling pathway",0.895864864864865,0.375125,0.497
+"GO:0060314","GO:0060314",12,"GO:0097553",3.81267607449138,1,"regulation of ryanodine-sensitive calcium-release channel activity","calcium ion transmembrane import into cytosol",0.902806306306306,0.469785714285714,0.609
+"GO:0009152","GO:0009152",5,"GO:0006182",3.81267607449138,1,"purine ribonucleotide biosynthetic process","cGMP biosynthetic process",0.92709009009009,0.423666666666667,0.876
+"GO:0033197","GO:0033197",15,"GO:0071312",3.79400443164269,0,"response to vitamin E","cellular response to alkaloid",0.95013963963964,0.791,0.201
+"GO:0050951","GO:0050951",1,"GO:0003008",3.73065761688467,2,"sensory perception of temperature stimulus","system process",0.919144144144144,0.752545454545455,0.573
+"GO:0050650","GO:0050650",18,"GO:0018057",3.73065761688467,16,"chondroitin sulfate proteoglycan biosynthetic process","peptidyl-lysine oxidation",0.936396396396396,0.68375,0.26
+"GO:0050965","GO:0050965",19,"GO:0050965",3.73065761688467,0,"detection of temperature stimulus involved in sensory perception of pain","detection of temperature stimulus involved in sensory perception of pain",0.941635135135135,0.592166666666667,0
+"GO:0050961","GO:0050961",19,"GO:0050965",3.73065761688467,0,"detection of temperature stimulus involved in sensory perception","detection of temperature stimulus involved in sensory perception of pain",0.932815315315315,0.556666666666667,0.855
+"GO:0016048","GO:0016048",19,"GO:0050965",3.73065761688467,2,"detection of temperature stimulus","detection of temperature stimulus involved in sensory perception of pain",0.941572072072072,0.526333333333333,0.625
+"GO:0045123","GO:0045123",14,"GO:0002523",3.69966689006872,0,"cellular extravasation","leukocyte migration involved in inflammatory response",0.906018018018018,0.64,0.645
+"GO:0051494","GO:0051494",17,"GO:1901880",3.57955369734971,0,"negative regulation of cytoskeleton organization","negative regulation of protein depolymerization",0.908779279279279,0.596125,0.386
+"GO:0019896","GO:0019896",16,"GO:0098957",3.57955369734971,4,"axonal transport of mitochondrion","anterograde axonal transport of mitochondrion",0.933621621621622,0.5555,0.889
+"GO:1902475","GO:1902475",4,"GO:0034220",3.57004728716589,2,"L-alpha-amino acid transmembrane transport","monoatomic ion transmembrane transport",0.885112612612613,0.482071428571429,0.553
+"GO:0006575","GO:0006575",11,"GO:0019752",3.53856872165028,1,"cellular modified amino acid metabolic process","carboxylic acid metabolic process",0.865990990990991,0.639857142857143,0.449
+"GO:0001878","GO:0001878",19,"GO:0050965",3.50189667516464,24,"response to yeast","detection of temperature stimulus involved in sensory perception of pain",0.944675675675676,0.844,0.115
+"GO:0018158","GO:0018158",18,"GO:0018057",3.50189667516464,0,"protein oxidation","peptidyl-lysine oxidation",0.920621621621622,0.5985,0.809
+"GO:0070295","GO:0070295",1,"GO:0003008",3.49388149524232,1,"renal water absorption","system process",0.920193693693694,0.827272727272727,0.314
+"GO:0098735","GO:0098735",1,"GO:0003008",3.49388149524232,0,"positive regulation of the force of heart contraction","system process",0.900581081081081,0.6485,0.357
+"GO:0006844","GO:0006844",4,"GO:0034220",3.49388149524232,0,"acyl carnitine transport","monoatomic ion transmembrane transport",0.904635135135135,0.5835,0.357
+"GO:1905665","GO:1905665",12,"GO:0097553",3.49388149524232,0,"positive regulation of calcium ion import across plasma membrane","calcium ion transmembrane import into cytosol",0.912711711711712,0.533357142857143,0.574
+"GO:1990575","GO:1990575",4,"GO:0034220",3.49388149524232,3,"mitochondrial L-ornithine transmembrane transport","monoatomic ion transmembrane transport",0.884157657657658,0.532964285714286,0.461
+"GO:0015819","GO:0015819",4,"GO:0034220",3.49388149524232,0,"lysine transport","monoatomic ion transmembrane transport",0.903211711711712,0.531392857142857,0.315
+"GO:1905664","GO:1905664",12,"GO:0097553",3.49388149524232,0,"regulation of calcium ion import across plasma membrane","calcium ion transmembrane import into cytosol",0.899081081081081,0.4735,0.654
+"GO:0014724","GO:0014724",2,"GO:0006937",3.49388149524232,0,"regulation of twitch skeletal muscle contraction","regulation of muscle contraction",0.919234234234234,0.472333333333333,0.583
+"GO:0019932","GO:0019932",7,"GO:0007168",3.49388149524232,0,"second-messenger-mediated signaling","receptor guanylyl cyclase signaling pathway",0.88431981981982,0.369375,0.575
+"GO:0033326","GO:0033326",1,"GO:0003008",3.46727263741141,0,"cerebrospinal fluid secretion","system process",0.890009009009009,0.805590909090909,0.261
+"GO:2000329","GO:2000329",20,"GO:2000329",3.46727263741141,2,"negative regulation of T-helper 17 cell lineage commitment","negative regulation of T-helper 17 cell lineage commitment",0.94618018018018,0.605,0
+"GO:2000328","GO:2000328",20,"GO:2000329",3.46727263741141,0,"regulation of T-helper 17 cell lineage commitment","negative regulation of T-helper 17 cell lineage commitment",0.927234234234234,0.605,0.79
+"GO:0031449","GO:0031449",2,"GO:0006937",3.46727263741141,0,"regulation of slow-twitch skeletal muscle fiber contraction","regulation of muscle contraction",0.92436036036036,0.494833333333333,0.549
+"GO:0051261","GO:0051261",8,"GO:0042407",3.38463901015927,0,"protein depolymerization","cristae formation",0.921054054054054,0.688384615384615,0.169
+"GO:0070884","GO:0070884",7,"GO:0007168",3.36629426226894,0,"regulation of calcineurin-NFAT signaling cascade","receptor guanylyl cyclase signaling pathway",0.929914414414414,0.480125,0.292
+"GO:0045229","GO:0045229",8,"GO:0042407",3.3063124172766,0,"external encapsulating structure organization","cristae formation",0.884306306306306,0.580153846153846,0.366
+"GO:0106056","GO:0106056",7,"GO:0007168",3.29703826752196,2,"regulation of calcineurin-mediated signaling","receptor guanylyl cyclase signaling pathway",0.921932432432432,0.469375,0.343
+"GO:0051049","GO:0051049",3,"GO:0034762",3.26659556878495,1,"regulation of transport","regulation of transmembrane transport",0.865765765765766,0.525,0.737
+"GO:0001706","GO:0001706",9,"GO:0003007",3.25838886495942,30,"endoderm formation","heart morphogenesis",0.905995495495496,0.691617647058824,0.292
+"GO:0072522","GO:0072522",5,"GO:0006182",3.2097736105774,0,"purine-containing compound biosynthetic process","cGMP biosynthetic process",0.918036036036036,0.521266666666667,0.595
+"GO:0006874","GO:0006874",12,"GO:0097553",3.2097736105774,51,"intracellular calcium ion homeostasis","calcium ion transmembrane import into cytosol",0.927738738738739,0.5055,0.524
+"GO:0032879","GO:0032879",3,"GO:0034762",3.20737623443849,0,"regulation of localization","regulation of transmembrane transport",0.859369369369369,0.622625,0.549
+"GO:0009165","GO:0009165",5,"GO:0006182",3.19624095821058,5,"nucleotide biosynthetic process","cGMP biosynthetic process",0.912373873873874,0.363933333333333,0.65
+"GO:0009582","GO:0009582",19,"GO:0050965",3.16312079901834,0,"detection of abiotic stimulus","detection of temperature stimulus involved in sensory perception of pain",0.920954954954955,0.632,0.426
+"GO:0050654","GO:0050654",18,"GO:0018057",3.16312079901834,1,"chondroitin sulfate proteoglycan metabolic process","peptidyl-lysine oxidation",0.916567567567568,0.61725,0.381
+"GO:0009581","GO:0009581",19,"GO:0050965",3.16312079901834,0,"detection of external stimulus","detection of temperature stimulus involved in sensory perception of pain",0.919918918918919,0.6095,0.426
+"GO:0003205","GO:0003205",9,"GO:0003007",3.16312079901834,4,"cardiac chamber development","heart morphogenesis",0.871828828828829,0.567411764705882,0.697
+"GO:0035987","GO:0035987",9,"GO:0003007",3.13545611104872,6,"endodermal cell differentiation","heart morphogenesis",0.885698198198198,0.731352941176471,0.248
+"GO:1903033","GO:1903033",21,"GO:1903033",3.13545611104872,0,"positive regulation of microtubule plus-end binding","positive regulation of microtubule plus-end binding",0.962666666666667,0.674,0
+"GO:1903031","GO:1903031",21,"GO:1903033",3.13545611104872,0,"regulation of microtubule plus-end binding","positive regulation of microtubule plus-end binding",0.949513513513514,0.674,0.652
+"GO:0009812","GO:0009812",11,"GO:0019752",3.13545611104872,0,"flavonoid metabolic process","carboxylic acid metabolic process",0.899,0.670285714285714,0.357
+"GO:0003151","GO:0003151",9,"GO:0003007",3.13545611104872,6,"outflow tract morphogenesis","heart morphogenesis",0.875211711711712,0.548147058823529,0.913
+"GO:0030837","GO:0030837",17,"GO:1901880",3.10269076454558,15,"negative regulation of actin filament polymerization","negative regulation of protein depolymerization",0.933801801801802,0.50275,0.253
+"GO:0046854","GO:0046854",11,"GO:0019752",3.0724937024097,52,"phosphatidylinositol phosphate biosynthetic process","carboxylic acid metabolic process",0.931463963963964,0.800714285714286,0.202
+"GO:0009260","GO:0009260",5,"GO:0006182",3.04647863787724,0,"ribonucleotide biosynthetic process","cGMP biosynthetic process",0.920175675675676,0.419933333333333,0.745
+"GO:1901293","GO:1901293",5,"GO:0006182",3.04647863787724,0,"nucleoside phosphate biosynthetic process","cGMP biosynthetic process",0.912072072072072,0.3758,0.649
+"GO:0031032","GO:0031032",14,"GO:0002523",3.02041061504253,24,"actomyosin structure organization","leukocyte migration involved in inflammatory response",0.898153153153153,0.83725,0.107

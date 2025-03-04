@@ -1,0 +1,67 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0022857","GO:0022857",1,"GO:0022857",25.5567370125413,248,"transmembrane transporter activity","transmembrane transporter activity",0.767363636363636,0.600066666666667,0
+"GO:0005215","GO:0005215",1,"GO:0022857",23.4482451269834,16,"transporter activity","transmembrane transporter activity",0.761969696969697,0.675133333333333,0.743
+"GO:0005179","GO:0005179",2,"GO:0005179",15.602059991328,139,"hormone activity","hormone activity",0.868424242424242,0.61875,0
+"GO:0048018","GO:0048018",2,"GO:0005179",13.7727562184969,21,"receptor ligand activity","hormone activity",0.852969696969697,0.58675,0.88
+"GO:0005523","GO:0005523",3,"GO:0005523",13.6625407387093,17,"tropomyosin binding","tropomyosin binding",0.856848484848485,0.623785714285714,0
+"GO:0030546","GO:0030546",2,"GO:0005179",13.5413621509744,2,"signaling receptor activator activity","hormone activity",0.873469696969697,0.595,0.576
+"GO:0030545","GO:0030545",2,"GO:0005179",13.2842950380203,2,"signaling receptor regulator activity","hormone activity",0.848636363636364,0.60875,0.474
+"GO:0051427","GO:0051427",3,"GO:0005523",13.0280287236002,7,"hormone receptor binding","tropomyosin binding",0.857893939393939,0.667857142857143,0.387
+"GO:0016491","GO:0016491",4,"GO:0016491",12.8239087409443,641,"oxidoreductase activity","oxidoreductase activity",0.829151515151515,0.641,0
+"GO:0031013","GO:0031013",3,"GO:0005523",10.5747103835532,7,"troponin I binding","tropomyosin binding",0.856848484848485,0.623785714285714,0.639
+"GO:0030172","GO:0030172",3,"GO:0005523",9.8875778208137,7,"troponin C binding","tropomyosin binding",0.856848484848485,0.623785714285714,0.639
+"GO:0005245","GO:0005245",5,"GO:0005245",9.42596873227228,57,"voltage-gated calcium channel activity","voltage-gated calcium channel activity",0.841818181818182,0.486909090909091,0
+"GO:0005262","GO:0005262",5,"GO:0005245",8.70106299384186,91,"calcium channel activity","voltage-gated calcium channel activity",0.821833333333333,0.438090909090909,0.791
+"GO:0022843","GO:0022843",5,"GO:0005245",8.53070408279229,0,"voltage-gated monoatomic cation channel activity","voltage-gated calcium channel activity",0.831257575757576,0.515818181818182,0.819
+"GO:0048763","GO:0048763",5,"GO:0005245",8.52287874528034,4,"calcium-induced calcium release activity","voltage-gated calcium channel activity",0.835757575757576,0.405363636363636,0.542
+"GO:0072349","GO:0072349",1,"GO:0022857",8.48396067924997,0,"modified amino acid transmembrane transporter activity","transmembrane transporter activity",0.830878787878788,0.604533333333333,0.573
+"GO:0061459","GO:0061459",1,"GO:0022857",8.47712125471966,1,"L-arginine transmembrane transporter activity","transmembrane transporter activity",0.833015151515151,0.523666666666667,0.316
+"GO:0015189","GO:0015189",1,"GO:0022857",8.47712125471966,4,"L-lysine transmembrane transporter activity","transmembrane transporter activity",0.817151515151515,0.4862,0.326
+"GO:0005509","GO:0005509",3,"GO:0005523",8.10266234189715,845,"calcium ion binding","tropomyosin binding",0.917651515151515,0.833357142857143,0.173
+"GO:0015020","GO:0015020",6,"GO:0015020",7.96357073437332,62,"glucuronosyltransferase activity","glucuronosyltransferase activity",0.888166666666667,0.479166666666667,0
+"GO:0015085","GO:0015085",5,"GO:0005245",7.63424467469936,1,"calcium ion transmembrane transporter activity","voltage-gated calcium channel activity",0.822848484848485,0.590818181818182,0.567
+"GO:0005219","GO:0005219",5,"GO:0005245",7.42596873227228,9,"ryanodine-sensitive calcium-release channel activity","voltage-gated calcium channel activity",0.835757575757576,0.405363636363636,0.542
+"GO:0005109","GO:0005109",3,"GO:0005523",7.14424389180369,31,"frizzled binding","tropomyosin binding",0.881484848484849,0.717071428571429,0.319
+"GO:0017022","GO:0017022",3,"GO:0005523",7.09017663034909,14,"myosin binding","tropomyosin binding",0.856848484848485,0.623785714285714,0.639
+"GO:0046935","GO:0046935",2,"GO:0005179",6.70996538863748,24,"1-phosphatidylinositol-3-kinase regulator activity","hormone activity",0.922257575757576,0.76725,0.117
+"GO:0015018","GO:0015018",6,"GO:0015020",6.21387981994508,6,"galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase activity","glucuronosyltransferase activity",0.900833333333333,0.537833333333333,0.861
+"GO:0008499","GO:0008499",6,"GO:0015020",6.21387981994508,7,"UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase activity","glucuronosyltransferase activity",0.903530303030303,0.4835,0.528
+"GO:0033192","GO:0033192",7,"GO:0033192",5.84697404501301,8,"calmodulin-dependent protein phosphatase activity","calmodulin-dependent protein phosphatase activity",0.90269696969697,0.5234,0
+"GO:0004723","GO:0004723",7,"GO:0033192",5.84697404501301,0,"calcium-dependent protein serine/threonine phosphatase activity","calmodulin-dependent protein phosphatase activity",0.892378787878788,0.4848,0.866
+"GO:0035014","GO:0035014",2,"GO:0005179",5.65236510963936,4,"phosphatidylinositol 3-kinase regulator activity","hormone activity",0.908227272727273,0.743375,0.146
+"GO:0015227","GO:0015227",1,"GO:0022857",5.65236510963936,2,"acyl carnitine transmembrane transporter activity","transmembrane transporter activity",0.853727272727273,0.6298,0.451
+"GO:0048531","GO:0048531",6,"GO:0015020",5.65236510963936,0,"beta-1,3-galactosyltransferase activity","glucuronosyltransferase activity",0.891848484848485,0.4875,0.493
+"GO:0015651","GO:0015651",1,"GO:0022857",5.56427143043856,3,"quaternary ammonium group transmembrane transporter activity","transmembrane transporter activity",0.834560606060606,0.585466666666667,0.473
+"GO:0008201","GO:0008201",3,"GO:0005523",5.1969413980288,66,"heparin binding","tropomyosin binding",0.888621212121212,0.763714285714286,0.218
+"GO:0099604","GO:0099604",5,"GO:0005245",5.1969413980288,4,"ligand-gated calcium channel activity","voltage-gated calcium channel activity",0.830590909090909,0.389,0.644
+"GO:0015278","GO:0015278",5,"GO:0005245",5.1969413980288,2,"calcium-release channel activity","voltage-gated calcium channel activity",0.833727272727273,0.387363636363636,0.572
+"GO:0005217","GO:0005217",5,"GO:0005245",4.91498921029165,0,"intracellular ligand-gated monoatomic ion channel activity","voltage-gated calcium channel activity",0.831560606060606,0.487181818181818,0.392
+"GO:0005528","GO:0005528",3,"GO:0005523",4.87090530362054,0,"FK506 binding","tropomyosin binding",0.898939393939394,0.778,0.189
+"GO:0005527","GO:0005527",3,"GO:0005523",4.87090530362054,0,"macrolide binding","tropomyosin binding",0.889318181818182,0.758857142857143,0.211
+"GO:0050811","GO:0050811",3,"GO:0005523",4.82390874094432,6,"GABA receptor binding","tropomyosin binding",0.857893939393939,0.667857142857143,0.387
+"GO:0005125","GO:0005125",2,"GO:0005179",4.80830366761374,165,"cytokine activity","hormone activity",0.868424242424242,0.61875,0.751
+"GO:0015174","GO:0015174",1,"GO:0022857",4.65127801399814,3,"basic amino acid transmembrane transporter activity","transmembrane transporter activity",0.819954545454545,0.5024,0.453
+"GO:0071532","GO:0071532",3,"GO:0005523",4.17862359557108,2,"ankyrin repeat binding","tropomyosin binding",0.873166666666667,0.700714285714286,0.387
+"GO:0008420","GO:0008420",7,"GO:0033192",4.17732680606799,13,"RNA polymerase II CTD heptapeptide repeat phosphatase activity","calmodulin-dependent protein phosphatase activity",0.895818181818182,0.5302,0.639
+"GO:0004720","GO:0004720",4,"GO:0016491",4.12979123940271,22,"protein-lysine 6-oxidase activity","oxidoreductase activity",0.881893939393939,0.677571428571428,0.538
+"GO:0015171","GO:0015171",1,"GO:0022857",3.97478321164702,4,"amino acid transmembrane transporter activity","transmembrane transporter activity",0.808590909090909,0.495866666666667,0.474
+"GO:0052732","GO:0052732",7,"GO:0033192",3.97415334281739,0,"phosphoethanolamine phosphatase activity","calmodulin-dependent protein phosphatase activity",0.905378787878788,0.5832,0.439
+"GO:0052731","GO:0052731",7,"GO:0033192",3.97415334281739,0,"phosphocholine phosphatase activity","calmodulin-dependent protein phosphatase activity",0.905378787878788,0.5832,0.439
+"GO:0015101","GO:0015101",1,"GO:0022857",3.97415334281739,2,"organic cation transmembrane transporter activity","transmembrane transporter activity",0.811469696969697,0.539133333333333,0.504
+"GO:0005287","GO:0005287",1,"GO:0022857",3.97415334281739,0,"high-affinity basic amino acid transmembrane transporter activity","transmembrane transporter activity",0.833515151515152,0.531066666666667,0.437
+"GO:0005289","GO:0005289",1,"GO:0022857",3.97415334281739,1,"high-affinity L-arginine transmembrane transporter activity","transmembrane transporter activity",0.831939393939394,0.5246,0.332
+"GO:0005292","GO:0005292",1,"GO:0022857",3.97415334281739,0,"high-affinity lysine transmembrane transporter activity","transmembrane transporter activity",0.834590909090909,0.5244,0.313
+"GO:0000064","GO:0000064",1,"GO:0022857",3.97415334281739,6,"L-ornithine transmembrane transporter activity","transmembrane transporter activity",0.816969696969697,0.504733333333333,0.353
+"GO:0005201","GO:0005201",2,"GO:0005179",3.87960889114242,91,"extracellular matrix structural constituent","hormone activity",0.880924242424242,0.875125,0.106
+"GO:0003755","GO:0003755",4,"GO:0016491",3.84411212703261,63,"peptidyl-prolyl cis-trans isomerase activity","oxidoreductase activity",0.881348484848485,0.711428571428571,0.342
+"GO:0015276","GO:0015276",5,"GO:0005245",3.58309215225198,39,"ligand-gated monoatomic ion channel activity","voltage-gated calcium channel activity",0.819454545454545,0.459363636363636,0.461
+"GO:0070251","GO:0070251",4,"GO:0016491",3.53618421205987,0,"pristanate-CoA ligase activity","oxidoreductase activity",0.918439393939394,0.759285714285714,0.274
+"GO:0050197","GO:0050197",4,"GO:0016491",3.53618421205987,0,"phytanate-CoA ligase activity","oxidoreductase activity",0.918439393939394,0.759285714285714,0.274
+"GO:0016859","GO:0016859",4,"GO:0016491",3.53406291223285,0,"cis-trans isomerase activity","oxidoreductase activity",0.870166666666667,0.703285714285714,0.428
+"GO:0005369","GO:0005369",1,"GO:0022857",3.51392390262741,5,"taurine:sodium symporter activity","transmembrane transporter activity",0.881636363636364,0.7216,0.251
+"GO:0022834","GO:0022834",5,"GO:0005245",3.41890687778479,1,"ligand-gated channel activity","voltage-gated calcium channel activity",0.858863636363636,0.620181818181818,0.314
+"GO:0005539","GO:0005539",3,"GO:0005523",3.41218044778665,5,"glycosaminoglycan binding","tropomyosin binding",0.867893939393939,0.723714285714286,0.267
+"GO:0016641","GO:0016641",4,"GO:0016491",3.38021124171161,14,"oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor","oxidoreductase activity",0.890030303030303,0.685285714285714,0.657
+"GO:0035250","GO:0035250",6,"GO:0015020",3.36882584613571,1,"UDP-galactosyltransferase activity","glucuronosyltransferase activity",0.888348484848485,0.4335,0.653
+"GO:0008378","GO:0008378",6,"GO:0015020",3.19748940375691,1,"galactosyltransferase activity","glucuronosyltransferase activity",0.878227272727273,0.448833333333333,0.59
+"GO:0008092","GO:0008092",3,"GO:0005523",3.04139268515822,30,"cytoskeletal protein binding","tropomyosin binding",0.821348484848485,0.539428571428571,0.812

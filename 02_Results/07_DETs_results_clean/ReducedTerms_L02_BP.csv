@@ -1,0 +1,228 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0071852","GO:0071852",3,"GO:0071852",25.9120030850941,0,"fungal-type cell wall organization or biogenesis","fungal-type cell wall organization or biogenesis",0.867581497797357,0.770655172413793,0
+"GO:0031505","GO:0031505",3,"GO:0071852",25.9120030850941,0,"fungal-type cell wall organization","fungal-type cell wall organization or biogenesis",0.883541850220264,0.702137931034483,0.608
+"GO:0000282","GO:0000282",2,"GO:0000282",25.9120030850941,0,"cellular bud site selection","cellular bud site selection",0.923202643171806,0.6732,0
+"GO:0070966","GO:0070966",1,"GO:0070966",25.9120030850941,2,"nuclear-transcribed mRNA catabolic process, no-go decay","nuclear-transcribed mRNA catabolic process, no-go decay",0.875511013215859,0.464230769230769,0
+"GO:0030913","GO:0030913",4,"GO:0030913",24.9050169642334,1,"paranodal junction assembly","paranodal junction assembly",0.893977973568282,0.62225,0
+"GO:0071555","GO:0071555",3,"GO:0071852",24.1511460898969,0,"cell wall organization","fungal-type cell wall organization or biogenesis",0.852528634361233,0.635965517241379,0.465
+"GO:0034637","GO:0034637",5,"GO:0034637",22.9908490980244,0,"cellular carbohydrate biosynthetic process","cellular carbohydrate biosynthetic process",0.861960352422907,0.530833333333333,0
+"GO:0071554","GO:0071554",3,"GO:0071852",22.7989635717855,0,"cell wall organization or biogenesis","fungal-type cell wall organization or biogenesis",0.82674449339207,0.71048275862069,0.788
+"GO:1901261","GO:1901261",6,"GO:1901261",21.9946503869046,0,"regulation of sorocarp spore cell differentiation","regulation of sorocarp spore cell differentiation",0.871960352422907,0.55225,0
+"GO:0099139","GO:0099139",6,"GO:1901261",21.9946503869046,0,"cheating during chimeric sorocarp development","regulation of sorocarp spore cell differentiation",0.889977973568282,0.541666666666667,0.859
+"GO:0031156","GO:0031156",6,"GO:1901261",21.9946503869046,0,"regulation of sorocarp development","regulation of sorocarp spore cell differentiation",0.880823788546256,0.50025,0.657
+"GO:0044671","GO:0044671",6,"GO:1901261",21.9946503869046,0,"sorocarp spore cell differentiation","regulation of sorocarp spore cell differentiation",0.888942731277533,0.495583333333333,0.735
+"GO:0099135","GO:0099135",6,"GO:1901261",21.9946503869046,0,"chimeric colonial development","regulation of sorocarp spore cell differentiation",0.905237885462555,0.491,0.307
+"GO:0099136","GO:0099136",6,"GO:1901261",21.9946503869046,0,"chimeric non-reproductive fruiting body development","regulation of sorocarp spore cell differentiation",0.921621145374449,0.48725,0.317
+"GO:0099134","GO:0099134",6,"GO:1901261",21.9946503869046,0,"chimeric sorocarp development","regulation of sorocarp spore cell differentiation",0.931678414096916,0.483666666666667,0.341
+"GO:0048837","GO:0048837",6,"GO:1901261",21.9946503869046,0,"sorocarp sorus development","regulation of sorocarp spore cell differentiation",0.911462555066079,0.42075,0.577
+"GO:0031154","GO:0031154",6,"GO:1901261",21.9946503869046,0,"culmination involved in sorocarp development","regulation of sorocarp spore cell differentiation",0.908845814977974,0.407916666666667,0.53
+"GO:0032288","GO:0032288",4,"GO:0030913",21.7909946421142,0,"myelin assembly","paranodal junction assembly",0.884066079295154,0.558416666666667,0.833
+"GO:0043217","GO:0043217",4,"GO:0030913",20.0107703831077,0,"myelin maintenance","paranodal junction assembly",0.888224669603524,0.645583333333333,0.403
+"GO:0099120","GO:0099120",6,"GO:1901261",19.0864207602602,0,"socially cooperative development","regulation of sorocarp spore cell differentiation",0.884876651982379,0.441916666666667,0.389
+"GO:0030587","GO:0030587",6,"GO:1901261",19.0864207602602,0,"sorocarp development","regulation of sorocarp spore cell differentiation",0.913757709251101,0.4155,0.456
+"GO:0006972","GO:0006972",7,"GO:0006972",18.4571395050924,3,"hyperosmotic response","hyperosmotic response",0.942488986784141,0.665333333333333,0
+"GO:0009250","GO:0009250",5,"GO:0034637",18.1984799686925,0,"glucan biosynthetic process","cellular carbohydrate biosynthetic process",0.888938325991189,0.514666666666667,0.638
+"GO:0045217","GO:0045217",3,"GO:0071852",18.1444127072379,1,"cell-cell junction maintenance","fungal-type cell wall organization or biogenesis",0.897590308370044,0.688827586206897,0.165
+"GO:2000809","GO:2000809",8,"GO:2000809",18.0456359051269,0,"positive regulation of synaptic vesicle clustering","positive regulation of synaptic vesicle clustering",0.855590308370044,0.582166666666667,0
+"GO:2000331","GO:2000331",3,"GO:0071852",17.5688422962032,0,"regulation of terminal button organization","fungal-type cell wall organization or biogenesis",0.880982378854626,0.735931034482759,0.126
+"GO:0033692","GO:0033692",5,"GO:0034637",17.5460805884292,0,"cellular polysaccharide biosynthetic process","cellular carbohydrate biosynthetic process",0.878594713656388,0.509555555555556,0.698
+"GO:0097753","GO:0097753",3,"GO:0071852",17.1934152526117,0,"membrane bending","fungal-type cell wall organization or biogenesis",0.871555066079295,0.655862068965517,0.227
+"GO:1904684","GO:1904684",9,"GO:1904684",17.1934152526117,3,"negative regulation of metalloendopeptidase activity","negative regulation of metalloendopeptidase activity",0.863422907488987,0.611219512195122,0
+"GO:1902963","GO:1902963",9,"GO:1904684",17.1934152526117,0,"negative regulation of metalloendopeptidase activity involved in amyloid precursor protein catabolic process","negative regulation of metalloendopeptidase activity",0.865074889867841,0.59380487804878,0.851
+"GO:1902962","GO:1902962",9,"GO:1904684",17.1934152526117,0,"regulation of metalloendopeptidase activity involved in amyloid precursor protein catabolic process","negative regulation of metalloendopeptidase activity",0.871026431718062,0.570170731707317,0.572
+"GO:0007231","GO:0007231",7,"GO:0006972",17.0030835544414,1,"osmosensory signaling pathway","hyperosmotic response",0.898277533039648,0.610666666666667,0.322
+"GO:0099612","GO:0099612",10,"GO:0099612",16.9195375029914,0,"protein localization to axon","protein localization to axon",0.926211453744493,0.726066666666667,0
+"GO:1905049","GO:1905049",9,"GO:1904684",16.7989635717855,0,"negative regulation of metallopeptidase activity","negative regulation of metalloendopeptidase activity",0.854074889867841,0.590073170731707,0.866
+"GO:2000807","GO:2000807",8,"GO:2000809",16.7989635717855,0,"regulation of synaptic vesicle clustering","positive regulation of synaptic vesicle clustering",0.856568281938326,0.573416666666667,0.828
+"GO:0075522","GO:0075522",11,"GO:0075522",16.7716894869189,0,"IRES-dependent viral translational initiation","IRES-dependent viral translational initiation",0.949387665198238,0.462,0
+"GO:0022604","GO:0022604",12,"GO:0022604",16.6610167068894,10,"regulation of cell morphogenesis","regulation of cell morphogenesis",0.898418502202643,0.686538461538462,0
+"GO:0000271","GO:0000271",5,"GO:0034637",16.135709119716,0,"polysaccharide biosynthetic process","cellular carbohydrate biosynthetic process",0.900845814977974,0.578555555555555,0.517
+"GO:0034331","GO:0034331",3,"GO:0071852",16.1267867440374,0,"cell junction maintenance","fungal-type cell wall organization or biogenesis",0.875092511013216,0.627724137931035,0.201
+"GO:0097091","GO:0097091",8,"GO:2000809",16.0652314611903,0,"synaptic vesicle clustering","positive regulation of synaptic vesicle clustering",0.894079295154185,0.583125,0.659
+"GO:1905224","GO:1905224",3,"GO:0071852",15.7507454826772,0,"clathrin-coated pit assembly","fungal-type cell wall organization or biogenesis",0.896942731277533,0.690931034482759,0.162
+"GO:1902803","GO:1902803",8,"GO:2000809",15.7507454826772,0,"regulation of synaptic vesicle transport","positive regulation of synaptic vesicle clustering",0.865607929515419,0.607416666666667,0.616
+"GO:1902961","GO:1902961",9,"GO:1904684",15.7507454826772,0,"positive regulation of aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process","negative regulation of metalloendopeptidase activity",0.86352422907489,0.592195121951219,0.394
+"GO:1902959","GO:1902959",9,"GO:1904684",15.7507454826772,0,"regulation of aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process","negative regulation of metalloendopeptidase activity",0.87204845814978,0.571878048780488,0.484
+"GO:0019081","GO:0019081",11,"GO:0075522",15.5675695042629,0,"viral translation","IRES-dependent viral translational initiation",0.946497797356828,0.431333333333333,0.866
+"GO:1904683","GO:1904683",9,"GO:1904684",15.4269592972079,0,"regulation of metalloendopeptidase activity","negative regulation of metalloendopeptidase activity",0.876308370044053,0.607829268292683,0.643
+"GO:0072553","GO:0072553",3,"GO:0071852",15.1030846444266,0,"terminal button organization","fungal-type cell wall organization or biogenesis",0.876286343612335,0.63148275862069,0.197
+"GO:1905247","GO:1905247",9,"GO:1904684",14.8049129042987,0,"positive regulation of aspartic-type peptidase activity","negative regulation of metalloendopeptidase activity",0.851325991189427,0.586951219512195,0.425
+"GO:1905245","GO:1905245",9,"GO:1904684",14.8049129042987,0,"regulation of aspartic-type peptidase activity","negative regulation of metalloendopeptidase activity",0.86620704845815,0.583634146341463,0.49
+"GO:0070934","GO:0070934",1,"GO:0070966",14.7137919620487,4,"CRD-mediated mRNA stabilization","nuclear-transcribed mRNA catabolic process, no-go decay",0.874083700440529,0.355538461538462,0.541
+"GO:0072659","GO:0072659",10,"GO:0099612",14.4395869582528,70,"protein localization to plasma membrane","protein localization to axon",0.903638766519824,0.5264,0.363
+"GO:0016188","GO:0016188",3,"GO:0071852",14.2599980066117,6,"synaptic vesicle maturation","fungal-type cell wall organization or biogenesis",0.873687224669603,0.724862068965517,0.192
+"GO:1900244","GO:1900244",8,"GO:2000809",14.2599980066117,0,"positive regulation of synaptic vesicle endocytosis","positive regulation of synaptic vesicle clustering",0.8744140969163,0.582666666666667,0.515
+"GO:2000767","GO:2000767",9,"GO:1904684",14.0542360768888,3,"positive regulation of cytoplasmic translation","negative regulation of metalloendopeptidase activity",0.877859030837004,0.698341463414634,0.232
+"GO:1902004","GO:1902004",9,"GO:1904684",14.0030835544414,0,"positive regulation of amyloid-beta formation","negative regulation of metalloendopeptidase activity",0.856493392070485,0.631390243902439,0.268
+"GO:1902993","GO:1902993",9,"GO:1904684",14.0030835544414,0,"positive regulation of amyloid precursor protein catabolic process","negative regulation of metalloendopeptidase activity",0.865629955947137,0.598463414634146,0.302
+"GO:1903423","GO:1903423",8,"GO:2000809",13.4878916378274,0,"positive regulation of synaptic vesicle recycling","positive regulation of synaptic vesicle clustering",0.866757709251101,0.5635,0.622
+"GO:0008366","GO:0008366",4,"GO:0030913",13.4258471468385,0,"axon ensheathment","paranodal junction assembly",0.861819383259912,0.586,0.439
+"GO:0007272","GO:0007272",4,"GO:0030913",13.4258471468385,0,"ensheathment of neurons","paranodal junction assembly",0.835986784140969,0.567583333333333,0.429
+"GO:1900152","GO:1900152",1,"GO:0070966",13.4258471468385,0,"negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay","nuclear-transcribed mRNA catabolic process, no-go decay",0.881211453744493,0.357923076923077,0.597
+"GO:0030866","GO:0030866",3,"GO:0071852",13.3017468168263,23,"cortical actin cytoskeleton organization","fungal-type cell wall organization or biogenesis",0.889471365638766,0.736,0.195
+"GO:0034205","GO:0034205",9,"GO:1904684",13.2725964986594,4,"amyloid-beta formation","negative regulation of metalloendopeptidase activity",0.872801762114537,0.67519512195122,0.194
+"GO:1902992","GO:1902992",9,"GO:1904684",13.0542360768888,0,"negative regulation of amyloid precursor protein catabolic process","negative regulation of metalloendopeptidase activity",0.868986784140969,0.610170731707317,0.443
+"GO:1990778","GO:1990778",10,"GO:0099612",12.9767546157191,0,"protein localization to cell periphery","protein localization to axon",0.887766519823789,0.501933333333333,0.444
+"GO:1903861","GO:1903861",12,"GO:0022604",12.8716139506742,0,"positive regulation of dendrite extension","regulation of cell morphogenesis",0.885819383259912,0.676461538461538,0.367
+"GO:0042552","GO:0042552",4,"GO:0030913",12.8716139506742,39,"myelination","paranodal junction assembly",0.881264317180617,0.604583333333333,0.464
+"GO:0016185","GO:0016185",8,"GO:2000809",12.8529612718149,5,"synaptic vesicle budding from presynaptic endocytic zone membrane","positive regulation of synaptic vesicle clustering",0.89511013215859,0.603416666666667,0.383
+"GO:0016051","GO:0016051",5,"GO:0034637",12.7761552792958,13,"carbohydrate biosynthetic process","cellular carbohydrate biosynthetic process",0.893092511013216,0.602222222222222,0.709
+"GO:0097494","GO:0097494",3,"GO:0071852",12.4382403076176,0,"regulation of vesicle size","fungal-type cell wall organization or biogenesis",0.874052863436123,0.710413793103448,0.19
+"GO:0070142","GO:0070142",8,"GO:2000809",12.2560148437298,0,"synaptic vesicle budding","positive regulation of synaptic vesicle clustering",0.880744493392071,0.631958333333333,0.378
+"GO:2000369","GO:2000369",8,"GO:2000809",12.2560148437298,6,"regulation of clathrin-dependent endocytosis","positive regulation of synaptic vesicle clustering",0.869070484581498,0.615791666666667,0.327
+"GO:1905048","GO:1905048",9,"GO:1904684",12.2560148437298,1,"regulation of metallopeptidase activity","negative regulation of metalloendopeptidase activity",0.865290748898678,0.578560975609756,0.578
+"GO:1900242","GO:1900242",8,"GO:2000809",12.2560148437298,0,"regulation of synaptic vesicle endocytosis","positive regulation of synaptic vesicle clustering",0.866541850220264,0.537541666666667,0.455
+"GO:2000009","GO:2000009",10,"GO:0099612",12.2560148437298,3,"negative regulation of protein localization to cell surface","protein localization to axon",0.872409691629956,0.519866666666667,0.245
+"GO:0034250","GO:0034250",9,"GO:1904684",12.1404222245051,0,"positive regulation of amide metabolic process","negative regulation of metalloendopeptidase activity",0.849418502202643,0.728780487804878,0.245
+"GO:0050435","GO:0050435",9,"GO:1904684",11.9016259136827,3,"amyloid-beta metabolic process","negative regulation of metalloendopeptidase activity",0.87442731277533,0.749,0.173
+"GO:0150093","GO:0150093",8,"GO:2000809",11.8725409403151,0,"amyloid-beta clearance by transcytosis","positive regulation of synaptic vesicle clustering",0.878590308370044,0.693625,0.251
+"GO:1903859","GO:1903859",12,"GO:0022604",11.4914858195708,0,"regulation of dendrite extension","regulation of cell morphogenesis",0.877779735682819,0.676230769230769,0.458
+"GO:0030865","GO:0030865",3,"GO:0071852",11.4535526143897,12,"cortical cytoskeleton organization","fungal-type cell wall organization or biogenesis",0.889563876651982,0.694965517241379,0.2
+"GO:0043954","GO:0043954",3,"GO:0071852",11.3498710406661,0,"cellular component maintenance","fungal-type cell wall organization or biogenesis",0.845581497797357,0.581724137931035,0.267
+"GO:1902003","GO:1902003",9,"GO:1904684",11.3394718053696,0,"regulation of amyloid-beta formation","negative regulation of metalloendopeptidase activity",0.841766519823789,0.59590243902439,0.354
+"GO:0044042","GO:0044042",5,"GO:0034637",11.2409204094419,0,"glucan metabolic process","cellular carbohydrate biosynthetic process",0.893303964757709,0.616777777777778,0.32
+"GO:0006073","GO:0006073",5,"GO:0034637",11.2409204094419,0,"cellular glucan metabolic process","cellular carbohydrate biosynthetic process",0.862920704845815,0.538277777777778,0.441
+"GO:0099174","GO:0099174",3,"GO:0071852",11.1791748134971,0,"regulation of presynapse organization","fungal-type cell wall organization or biogenesis",0.864286343612335,0.710413793103448,0.136
+"GO:0001558","GO:0001558",13,"GO:0001558",11.1085937392114,11,"regulation of cell growth","regulation of cell growth",0.828942731277533,0.723666666666667,0
+"GO:1903421","GO:1903421",8,"GO:2000809",11.0202515795785,0,"regulation of synaptic vesicle recycling","positive regulation of synaptic vesicle clustering",0.865229074889868,0.530291666666667,0.564
+"GO:0044264","GO:0044264",5,"GO:0034637",10.9145740834598,0,"cellular polysaccharide metabolic process","cellular carbohydrate biosynthetic process",0.840140969162996,0.511666666666667,0.512
+"GO:0071470","GO:0071470",7,"GO:0006972",10.7812348048251,1,"cellular response to osmotic stress","hyperosmotic response",0.924511013215859,0.5325,0.438
+"GO:0042987","GO:0042987",9,"GO:1904684",10.7483535784304,2,"amyloid precursor protein catabolic process","negative regulation of metalloendopeptidase activity",0.880325991189427,0.656682926829268,0.22
+"GO:0048261","GO:0048261",8,"GO:2000809",10.7184439749656,0,"negative regulation of receptor-mediated endocytosis","positive regulation of synaptic vesicle clustering",0.868339207048458,0.626041666666667,0.323
+"GO:1902991","GO:1902991",9,"GO:1904684",10.4995099643565,0,"regulation of amyloid precursor protein catabolic process","negative regulation of metalloendopeptidase activity",0.853722466960352,0.560292682926829,0.385
+"GO:2000008","GO:2000008",10,"GO:0099612",10.4995099643565,0,"regulation of protein localization to cell surface","protein localization to axon",0.872726872246696,0.486533333333333,0.286
+"GO:0045056","GO:0045056",8,"GO:2000809",10.3695065116674,4,"transcytosis","positive regulation of synaptic vesicle clustering",0.854154185022026,0.607666666666667,0.316
+"GO:0008360","GO:0008360",12,"GO:0022604",10.2949701706656,65,"regulation of cell shape","regulation of cell morphogenesis",0.892854625550661,0.717076923076923,0.838
+"GO:2000765","GO:2000765",9,"GO:1904684",10.2648038160955,0,"regulation of cytoplasmic translation","negative regulation of metalloendopeptidase activity",0.863850220264317,0.668146341463415,0.31
+"GO:1901216","GO:1901216",14,"GO:1901216",10.1614460465367,0,"positive regulation of neuron death","positive regulation of neuron death",0.878863436123348,0.6042,0
+"GO:1903077","GO:1903077",10,"GO:0099612",9.98985528870769,0,"negative regulation of protein localization to plasma membrane","protein localization to axon",0.894784140969163,0.5194,0.193
+"GO:0018195","GO:0018195",9,"GO:1904684",9.7554275412188,0,"peptidyl-arginine modification","negative regulation of metalloendopeptidase activity",0.872370044052863,0.698951219512195,0.218
+"GO:0042982","GO:0042982",9,"GO:1904684",9.64333109105242,1,"amyloid precursor protein metabolic process","negative regulation of metalloendopeptidase activity",0.863955947136564,0.616926829268293,0.284
+"GO:0005976","GO:0005976",5,"GO:0034637",9.62287231272984,0,"polysaccharide metabolic process","cellular carbohydrate biosynthetic process",0.874647577092511,0.583333333333333,0.378
+"GO:1904376","GO:1904376",10,"GO:0099612",9.60371259066296,0,"negative regulation of protein localization to cell periphery","protein localization to axon",0.870259911894273,0.487333333333333,0.245
+"GO:1900151","GO:1900151",1,"GO:0070966",9.4096237348754,0,"regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay","nuclear-transcribed mRNA catabolic process, no-go decay",0.869251101321586,0.368846153846154,0.723
+"GO:0051703","GO:0051703",6,"GO:1901261",9.33467954177103,0,"biological process involved in intraspecies interaction between organisms","regulation of sorocarp spore cell differentiation",0.87331718061674,0.661916666666667,0.205
+"GO:0006457","GO:0006457",15,"GO:0006457",9.26170970155234,135,"protein folding","protein folding",0.830502202643172,0.7756,0
+"GO:0072657","GO:0072657",10,"GO:0099612",9.0999935674495,6,"protein localization to membrane","protein localization to axon",0.886907488986784,0.488933333333333,0.444
+"GO:0071340","GO:0071340",10,"GO:0099612",9.07737588039709,2,"skeletal muscle acetylcholine-gated channel clustering","protein localization to axon",0.893528634361233,0.654333333333333,0.231
+"GO:0006970","GO:0006970",7,"GO:0006972",8.93904564696442,1,"response to osmotic stress","hyperosmotic response",0.930162995594714,0.620333333333333,0.846
+"GO:0010951","GO:0010951",9,"GO:1904684",8.87417863061554,39,"negative regulation of endopeptidase activity","negative regulation of metalloendopeptidase activity",0.853290748898678,0.585731707317073,0.866
+"GO:0099172","GO:0099172",3,"GO:0071852",8.87417863061554,0,"presynapse organization","fungal-type cell wall organization or biogenesis",0.855277533039648,0.577,0.218
+"GO:0051668","GO:0051668",15,"GO:0006457",8.84035625694374,0,"localization within membrane","protein folding",0.850832599118943,0.7326,0.388
+"GO:0097484","GO:0097484",4,"GO:0030913",8.75127158144764,3,"dendrite extension","paranodal junction assembly",0.897854625550661,0.613583333333333,0.273
+"GO:0034394","GO:0034394",10,"GO:0099612",8.75127158144764,10,"protein localization to cell surface","protein localization to axon",0.889678414096916,0.530866666666667,0.444
+"GO:0007043","GO:0007043",3,"GO:0071852",8.60900396658265,33,"cell-cell junction assembly","fungal-type cell wall organization or biogenesis",0.894955947136564,0.668862068965517,0.157
+"GO:0010466","GO:0010466",9,"GO:1904684",8.5200763211988,46,"negative regulation of peptidase activity","negative regulation of metalloendopeptidase activity",0.850546255506608,0.577487804878049,0.829
+"GO:0016049","GO:0016049",13,"GO:0001558",8.4764446602878,0,"cell growth","regulation of cell growth",0.838343612334802,0.696666666666667,0.519
+"GO:1905476","GO:1905476",10,"GO:0099612",8.45124111322579,0,"negative regulation of protein localization to membrane","protein localization to axon",0.86957268722467,0.476933333333333,0.245
+"GO:0010950","GO:0010950",9,"GO:1904684",8.40226263522903,3,"positive regulation of endopeptidase activity","negative regulation of metalloendopeptidase activity",0.849995594713656,0.579585365853658,0.481
+"GO:0034969","GO:0034969",9,"GO:1904684",8.38182510107228,2,"histone arginine methylation","negative regulation of metalloendopeptidase activity",0.884453744493392,0.756365853658537,0.161
+"GO:0048268","GO:0048268",3,"GO:0071852",8.35163178789771,18,"clathrin coat assembly","fungal-type cell wall organization or biogenesis",0.907995594713656,0.735965517241379,0.165
+"GO:0040008","GO:0040008",13,"GO:0001558",8.2050553324771,27,"regulation of growth","regulation of cell growth",0.868964757709251,0.686833333333333,0.577
+"GO:0034330","GO:0034330",3,"GO:0071852",8.2050553324771,0,"cell junction organization","fungal-type cell wall organization or biogenesis",0.836929515418502,0.525241379310345,0.267
+"GO:0034063","GO:0034063",3,"GO:0071852",8.20107665494496,13,"stress granule assembly","fungal-type cell wall organization or biogenesis",0.893643171806167,0.690413793103448,0.174
+"GO:0034971","GO:0034971",9,"GO:1904684",8.1971979176304,1,"histone H3-R17 methylation","negative regulation of metalloendopeptidase activity",0.884343612334802,0.762048780487805,0.145
+"GO:0040007","GO:0040007",13,"GO:0001558",8.09650523960368,0,"growth","regulation of cell growth",0.877894273127753,0.700166666666667,0.306
+"GO:0055072","GO:0055072",16,"GO:0055072",7.89587358479358,26,"iron ion homeostasis","iron ion homeostasis",0.96411013215859,1,0
+"GO:0097242","GO:0097242",17,"GO:0097242",7.75828560675412,0,"amyloid-beta clearance","amyloid-beta clearance",0.906559471365639,0.862333333333333,0
+"GO:0018216","GO:0018216",9,"GO:1904684",7.75828560675412,12,"peptidyl-arginine methylation","negative regulation of metalloendopeptidase activity",0.880361233480176,0.720853658536585,0.2
+"GO:0045806","GO:0045806",8,"GO:2000809",7.75828560675412,3,"negative regulation of endocytosis","positive regulation of synaptic vesicle clustering",0.851026431718062,0.603541666666667,0.366
+"GO:0010952","GO:0010952",9,"GO:1904684",7.75828560675412,17,"positive regulation of peptidase activity","negative regulation of metalloendopeptidase activity",0.846942731277533,0.570024390243902,0.482
+"GO:0044262","GO:0044262",5,"GO:0034637",7.691058174476,1,"cellular carbohydrate metabolic process","cellular carbohydrate biosynthetic process",0.818898678414097,0.531055555555556,0.703
+"GO:0035459","GO:0035459",8,"GO:2000809",7.58044276551809,2,"vesicle cargo loading","positive regulation of synaptic vesicle clustering",0.857013215859031,0.594333333333333,0.336
+"GO:0010499","GO:0010499",9,"GO:1904684",7.50735705520472,4,"proteasomal ubiquitin-independent protein catabolic process","negative regulation of metalloendopeptidase activity",0.882211453744493,0.722878048780488,0.236
+"GO:0001941","GO:0001941",3,"GO:0071852",7.47051754175798,0,"postsynaptic membrane organization","fungal-type cell wall organization or biogenesis",0.881925110132159,0.665275862068965,0.177
+"GO:0048489","GO:0048489",8,"GO:2000809",7.1419267560775,7,"synaptic vesicle transport","positive regulation of synaptic vesicle clustering",0.895312775330396,0.625875,0.447
+"GO:0050772","GO:0050772",12,"GO:0022604",7.07905966061386,17,"positive regulation of axonogenesis","regulation of cell morphogenesis",0.908942731277533,0.722384615384615,0.245
+"GO:1903076","GO:1903076",10,"GO:0099612",7.07216447358474,3,"regulation of protein localization to plasma membrane","protein localization to axon",0.890185022026432,0.4784,0.235
+"GO:0097479","GO:0097479",15,"GO:0006457",6.81074540233363,0,"synaptic vesicle localization","protein folding",0.89247577092511,0.7828,0.298
+"GO:0006021","GO:0006021",5,"GO:0034637",6.67560122341218,3,"inositol biosynthetic process","cellular carbohydrate biosynthetic process",0.899942731277533,0.644333333333333,0.699
+"GO:0072583","GO:0072583",8,"GO:2000809",6.66254501749379,25,"clathrin-dependent endocytosis","positive regulation of synaptic vesicle clustering",0.890881057268722,0.651458333333333,0.23
+"GO:0045216","GO:0045216",3,"GO:0071852",6.66254501749379,13,"cell-cell junction organization","fungal-type cell wall organization or biogenesis",0.864942731277533,0.599310344827586,0.227
+"GO:0061564","GO:0061564",4,"GO:0030913",6.53600223665425,16,"axon development","paranodal junction assembly",0.893859030837004,0.6495,0.252
+"GO:0062197","GO:0062197",7,"GO:0006972",6.5252831838963,0,"cellular response to chemical stress","hyperosmotic response",0.905691629955947,0.604666666666667,0.266
+"GO:0045861","GO:0045861",9,"GO:1904684",6.50200193825595,0,"negative regulation of proteolysis","negative regulation of metalloendopeptidase activity",0.834687224669604,0.561975609756098,0.733
+"GO:0097581","GO:0097581",3,"GO:0071852",6.45672371331158,6,"lamellipodium organization","fungal-type cell wall organization or biogenesis",0.888837004405286,0.709448275862069,0.2
+"GO:0048488","GO:0048488",8,"GO:2000809",6.17326595388661,26,"synaptic vesicle endocytosis","positive regulation of synaptic vesicle clustering",0.894700440528634,0.553708333333333,0.407
+"GO:0140238","GO:0140238",8,"GO:2000809",6.17326595388661,0,"presynaptic endocytosis","positive regulation of synaptic vesicle clustering",0.87736563876652,0.538833333333333,0.424
+"GO:0019080","GO:0019080",11,"GO:0075522",6.11604322686703,0,"viral gene expression","IRES-dependent viral translational initiation",0.942920704845815,0.470666666666667,0.748
+"GO:0030032","GO:0030032",3,"GO:0071852",6.0484065332281,13,"lamellipodium assembly","fungal-type cell wall organization or biogenesis",0.913546255506608,0.754862068965517,0.139
+"GO:0070997","GO:0070997",14,"GO:1901216",5.84721110358949,1,"neuron death","positive regulation of neuron death",0.867916299559471,0.7068,0.49
+"GO:1901214","GO:1901214",14,"GO:1901216",5.82378715551055,6,"regulation of neuron death","positive regulation of neuron death",0.865854625550661,0.6082,0.765
+"GO:0048742","GO:0048742",12,"GO:0022604",5.75609176946233,8,"regulation of skeletal muscle fiber development","regulation of cell morphogenesis",0.916784140969163,0.807384615384615,0.197
+"GO:0000288","GO:0000288",1,"GO:0070966",5.737769111044,6,"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay","nuclear-transcribed mRNA catabolic process, no-go decay",0.87488986784141,0.453384615384615,0.882
+"GO:0044091","GO:0044091",3,"GO:0071852",5.57147455481647,0,"membrane biogenesis","fungal-type cell wall organization or biogenesis",0.869788546255507,0.689724137931034,0.267
+"GO:0034329","GO:0034329",3,"GO:0071852",5.46360554734165,0,"cell junction assembly","fungal-type cell wall organization or biogenesis",0.874361233480176,0.609,0.186
+"GO:0036465","GO:0036465",8,"GO:2000809",5.32028848899724,6,"synaptic vesicle recycling","positive regulation of synaptic vesicle clustering",0.876180616740088,0.527625,0.493
+"GO:0000281","GO:0000281",2,"GO:0000282",5.31539456051512,38,"mitotic cytokinesis","cellular bud site selection",0.913295154185022,0.6354,0.813
+"GO:0070979","GO:0070979",9,"GO:1904684",5.28165278074412,10,"protein K11-linked ubiquitination","negative regulation of metalloendopeptidase activity",0.894898678414097,0.775219512195122,0.14
+"GO:1904375","GO:1904375",10,"GO:0099612",5.23170386477331,0,"regulation of protein localization to cell periphery","protein localization to axon",0.870621145374449,0.454666666666667,0.286
+"GO:0033363","GO:0033363",3,"GO:0071852",4.96559858984676,0,"secretory granule organization","fungal-type cell wall organization or biogenesis",0.885964757709251,0.699896551724138,0.186
+"GO:0031145","GO:0031145",9,"GO:1904684",4.8518158791108,14,"anaphase-promoting complex-dependent catabolic process","negative regulation of metalloendopeptidase activity",0.895339207048458,0.758878048780488,0.192
+"GO:0002181","GO:0002181",9,"GO:1904684",4.65360692970601,22,"cytoplasmic translation","negative regulation of metalloendopeptidase activity",0.876665198237885,0.709146341463415,0.224
+"GO:0019227","GO:0019227",13,"GO:0001558",4.61586741116118,0,"neuronal action potential propagation","regulation of cell growth",0.915405286343612,0.821666666666667,0.141
+"GO:0098870","GO:0098870",13,"GO:0001558",4.61586741116118,0,"action potential propagation","regulation of cell growth",0.938797356828194,0.809,0.115
+"GO:0048255","GO:0048255",1,"GO:0070966",4.61586741116118,16,"mRNA stabilization","nuclear-transcribed mRNA catabolic process, no-go decay",0.878814977973568,0.353153846153846,0.535
+"GO:0003184","GO:0003184",17,"GO:0097242",4.59310292755329,0,"pulmonary valve morphogenesis","amyloid-beta clearance",0.933726872246696,0.677,0.185
+"GO:0048259","GO:0048259",8,"GO:2000809",4.59310292755329,3,"regulation of receptor-mediated endocytosis","positive regulation of synaptic vesicle clustering",0.853713656387665,0.5835,0.362
+"GO:0071709","GO:0071709",3,"GO:0071852",4.50979668195423,2,"membrane assembly","fungal-type cell wall organization or biogenesis",0.884859030837004,0.658275862068965,0.169
+"GO:0032042","GO:0032042",9,"GO:1904684",4.48020480916111,0,"mitochondrial DNA metabolic process","negative regulation of metalloendopeptidase activity",0.861563876651982,0.789804878048781,0.18
+"GO:0045807","GO:0045807",8,"GO:2000809",4.41583544241831,5,"positive regulation of endocytosis","positive regulation of synaptic vesicle clustering",0.845920704845815,0.593291666666667,0.528
+"GO:1904707","GO:1904707",18,"GO:1904707",4.34516574564848,0,"positive regulation of vascular associated smooth muscle cell proliferation","positive regulation of vascular associated smooth muscle cell proliferation",0.903894273127753,0.568333333333333,0
+"GO:0050904","GO:0050904",15,"GO:0006457",4.32581109321453,0,"diapedesis","protein folding",0.91495154185022,0.7512,0.233
+"GO:0043489","GO:0043489",1,"GO:0070966",4.25634076830943,2,"RNA stabilization","nuclear-transcribed mRNA catabolic process, no-go decay",0.868013215859031,0.373461538461539,0.557
+"GO:1902101","GO:1902101",19,"GO:1902101",4.1646160933262,0,"positive regulation of metaphase/anaphase transition of cell cycle","positive regulation of metaphase/anaphase transition of cell cycle",0.904436123348018,0.60025,0
+"GO:1905820","GO:1905820",19,"GO:1902101",4.1646160933262,0,"positive regulation of chromosome separation","positive regulation of metaphase/anaphase transition of cell cycle",0.892859030837004,0.58125,0.521
+"GO:0045842","GO:0045842",19,"GO:1902101",4.1646160933262,5,"positive regulation of mitotic metaphase/anaphase transition","positive regulation of metaphase/anaphase transition of cell cycle",0.937281938325991,0.5755,0.604
+"GO:1901970","GO:1901970",19,"GO:1902101",4.1646160933262,0,"positive regulation of mitotic sister chromatid separation","positive regulation of metaphase/anaphase transition of cell cycle",0.90847577092511,0.5415,0.474
+"GO:0016311","GO:0016311",2,"GO:0000282",4.08717213498381,133,"dephosphorylation","cellular bud site selection",0.887995594713656,0.8502,0.102
+"GO:1902373","GO:1902373",1,"GO:0070966",4.08717213498381,0,"negative regulation of mRNA catabolic process","nuclear-transcribed mRNA catabolic process, no-go decay",0.877656387665198,0.333692307692308,0.598
+"GO:1904393","GO:1904393",10,"GO:0099612",4.0170544965062,0,"regulation of skeletal muscle acetylcholine-gated channel clustering","protein localization to axon",0.884321585903084,0.577466666666667,0.191
+"GO:0050925","GO:0050925",20,"GO:0050925",3.99918851055792,0,"negative regulation of negative chemotaxis","negative regulation of negative chemotaxis",0.944577092511013,0.838666666666667,0
+"GO:2000826","GO:2000826",12,"GO:0022604",3.99918851055792,0,"regulation of heart morphogenesis","regulation of cell morphogenesis",0.917022026431718,0.670230769230769,0.463
+"GO:0035481","GO:0035481",12,"GO:0022604",3.99918851055792,0,"positive regulation of Notch signaling pathway involved in heart induction","regulation of cell morphogenesis",0.912726872246696,0.663384615384615,0.211
+"GO:0035480","GO:0035480",12,"GO:0022604",3.99918851055792,0,"regulation of Notch signaling pathway involved in heart induction","regulation of cell morphogenesis",0.905246696035242,0.638,0.248
+"GO:0003129","GO:0003129",12,"GO:0022604",3.99918851055792,0,"heart induction","regulation of cell morphogenesis",0.92957268722467,0.634307692307692,0.291
+"GO:0003137","GO:0003137",12,"GO:0022604",3.99918851055792,0,"Notch signaling pathway involved in heart induction","regulation of cell morphogenesis",0.90579295154185,0.624384615384615,0.26
+"GO:0052548","GO:0052548",9,"GO:1904684",3.94353777939514,1,"regulation of endopeptidase activity","negative regulation of metalloendopeptidase activity",0.864088105726872,0.57190243902439,0.578
+"GO:1904705","GO:1904705",18,"GO:1904707",3.91953750299137,0,"regulation of vascular associated smooth muscle cell proliferation","positive regulation of vascular associated smooth muscle cell proliferation",0.893779735682819,0.528333333333333,0.775
+"GO:0006470","GO:0006470",9,"GO:1904684",3.873549066144,164,"protein dephosphorylation","negative regulation of metalloendopeptidase activity",0.873942731277533,0.707780487804878,0.241
+"GO:0002523","GO:0002523",15,"GO:0006457",3.85357662634241,4,"leukocyte migration involved in inflammatory response","protein folding",0.917920704845815,0.7666,0.203
+"GO:0048812","GO:0048812",4,"GO:0030913",3.75895841011394,42,"neuron projection morphogenesis","paranodal junction assembly",0.900290748898678,0.577416666666667,0.291
+"GO:0048639","GO:0048639",12,"GO:0022604",3.74420483711005,2,"positive regulation of developmental growth","regulation of cell morphogenesis",0.908674008810573,0.759769230769231,0.295
+"GO:0061640","GO:0061640",2,"GO:0000282",3.71428801519448,29,"cytoskeleton-dependent cytokinesis","cellular bud site selection",0.901775330396476,0.6664,0.599
+"GO:1990874","GO:1990874",18,"GO:1904707",3.67234043300665,0,"vascular associated smooth muscle cell proliferation","positive regulation of vascular associated smooth muscle cell proliferation",0.912581497797357,0.613333333333333,0.52
+"GO:0045727","GO:0045727",9,"GO:1904684",3.63446763072112,19,"positive regulation of translation","negative regulation of metalloendopeptidase activity",0.876621145374449,0.694024390243903,0.255
+"GO:1902369","GO:1902369",1,"GO:0070966",3.61187692842838,1,"negative regulation of RNA catabolic process","nuclear-transcribed mRNA catabolic process, no-go decay",0.870533039647577,0.373538461538461,0.602
+"GO:0120039","GO:0120039",4,"GO:0030913",3.60219916512263,0,"plasma membrane bounded cell projection morphogenesis","paranodal junction assembly",0.882568281938326,0.596166666666667,0.331
+"GO:0048858","GO:0048858",4,"GO:0030913",3.59282744737793,4,"cell projection morphogenesis","paranodal junction assembly",0.873030837004405,0.576916666666667,0.373
+"GO:0003177","GO:0003177",17,"GO:0097242",3.56202615137494,0,"pulmonary valve development","amyloid-beta clearance",0.934933920704846,0.662666666666667,0.228
+"GO:0010666","GO:0010666",14,"GO:1901216",3.52596229972178,0,"positive regulation of cardiac muscle cell apoptotic process","positive regulation of neuron death",0.932718061674009,0.6714,0.345
+"GO:0010663","GO:0010663",14,"GO:1901216",3.52596229972178,0,"positive regulation of striated muscle cell apoptotic process","positive regulation of neuron death",0.925885462555066,0.657,0.379
+"GO:0005979","GO:0005979",5,"GO:0034637",3.51139832934405,11,"regulation of glycogen biosynthetic process","cellular carbohydrate biosynthetic process",0.895973568281938,0.621166666666667,0.376
+"GO:0010962","GO:0010962",5,"GO:0034637",3.51139832934405,0,"regulation of glucan biosynthetic process","cellular carbohydrate biosynthetic process",0.876079295154185,0.591333333333333,0.451
+"GO:0032990","GO:0032990",4,"GO:0030913",3.45324709592339,0,"cell part morphogenesis","paranodal junction assembly",0.853920704845815,0.580833333333333,0.445
+"GO:0046628","GO:0046628",21,"GO:0046628",3.41174742850526,0,"positive regulation of insulin receptor signaling pathway","positive regulation of insulin receptor signaling pathway",0.920704845814978,0.638666666666667,0
+"GO:0006020","GO:0006020",5,"GO:0034637",3.41174742850526,6,"inositol metabolic process","cellular carbohydrate biosynthetic process",0.865740088105727,0.630166666666667,0.513
+"GO:0045862","GO:0045862",9,"GO:1904684",3.39477461383648,1,"positive regulation of proteolysis","negative regulation of metalloendopeptidase activity",0.829960352422908,0.549365853658537,0.485
+"GO:0061157","GO:0061157",1,"GO:0070966",3.39477461383648,8,"mRNA destabilization","nuclear-transcribed mRNA catabolic process, no-go decay",0.889960352422907,0.497615384615385,0.419
+"GO:1902170","GO:1902170",7,"GO:0006972",3.39002817881202,0,"cellular response to reactive nitrogen species","hyperosmotic response",0.917801762114537,0.7615,0.136
+"GO:0019417","GO:0019417",2,"GO:0000282",3.35732923311658,1,"sulfur oxidation","cellular bud site selection",0.871383259911894,0.8368,0.12
+"GO:0046173","GO:0046173",22,"GO:0046173",3.35732923311658,0,"polyol biosynthetic process","polyol biosynthetic process",0.93820704845815,0.810333333333333,0
+"GO:0031623","GO:0031623",8,"GO:2000809",3.35732923311658,11,"receptor internalization","positive regulation of synaptic vesicle clustering",0.862550660792952,0.717291666666667,0.198
+"GO:0052547","GO:0052547",9,"GO:1904684",3.31238607607142,0,"regulation of peptidase activity","negative regulation of metalloendopeptidase activity",0.85609691629956,0.547439024390244,0.581
+"GO:0046855","GO:0046855",22,"GO:0046173",3.30889732998144,10,"inositol phosphate dephosphorylation","polyol biosynthetic process",0.9055859030837,0.638,0.259
+"GO:0050779","GO:0050779",1,"GO:0070966",3.27913966546804,2,"RNA destabilization","nuclear-transcribed mRNA catabolic process, no-go decay",0.868665198237885,0.404615384615385,0.541
+"GO:0050769","GO:0050769",12,"GO:0022604",3.21660131143775,17,"positive regulation of neurogenesis","regulation of cell morphogenesis",0.899497797356828,0.711230769230769,0.202
+"GO:0070875","GO:0070875",5,"GO:0034637",3.21660131143775,0,"positive regulation of glycogen metabolic process","cellular carbohydrate biosynthetic process",0.879616740088106,0.692222222222222,0.218
+"GO:1900078","GO:1900078",21,"GO:0046628",3.21660131143775,0,"positive regulation of cellular response to insulin stimulus","positive regulation of insulin receptor signaling pathway",0.890361233480176,0.675,0.733
+"GO:0045725","GO:0045725",5,"GO:0034637",3.21660131143775,0,"positive regulation of glycogen biosynthetic process","cellular carbohydrate biosynthetic process",0.897295154185022,0.660722222222222,0.326
+"GO:2000234","GO:2000234",1,"GO:0070966",3.17719624751504,1,"positive regulation of rRNA processing","nuclear-transcribed mRNA catabolic process, no-go decay",0.872647577092511,0.601307692307692,0.351
+"GO:0043507","GO:0043507",21,"GO:0046628",3.14335584547063,1,"positive regulation of JUN kinase activity","positive regulation of insulin receptor signaling pathway",0.89111013215859,0.802333333333333,0.351
+"GO:1903909","GO:1903909",10,"GO:0099612",3.14335584547063,0,"regulation of receptor clustering","protein localization to axon",0.880154185022026,0.4918,0.257
+"GO:0046838","GO:0046838",5,"GO:0034637",3.11055443997695,0,"phosphorylated carbohydrate dephosphorylation","cellular carbohydrate biosynthetic process",0.862154185022026,0.642888888888889,0.527
+"GO:0006264","GO:0006264",5,"GO:0034637",3.05616199792486,8,"mitochondrial DNA replication","cellular carbohydrate biosynthetic process",0.894828193832599,0.721,0.419
+"GO:0060336","GO:0060336",20,"GO:0050925",3.05616199792486,2,"negative regulation of type II interferon-mediated signaling pathway","negative regulation of negative chemotaxis",0.942872246696035,0.688333333333333,0.2
+"GO:0060331","GO:0060331",20,"GO:0050925",3.05616199792486,0,"negative regulation of response to type II interferon","negative regulation of negative chemotaxis",0.955559471365639,0.660333333333333,0.284
+"GO:0061014","GO:0061014",1,"GO:0070966",3.05616199792486,1,"positive regulation of mRNA catabolic process","nuclear-transcribed mRNA catabolic process, no-go decay",0.874057268722467,0.373461538461538,0.619
+"GO:0071545","GO:0071545",22,"GO:0046173",3.00372175364799,0,"inositol phosphate catabolic process","polyol biosynthetic process",0.918083700440529,0.621,0.31

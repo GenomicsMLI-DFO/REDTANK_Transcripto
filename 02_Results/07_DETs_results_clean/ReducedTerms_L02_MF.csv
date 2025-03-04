@@ -1,0 +1,44 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0008093","GO:0008093",1,"GO:0008093",25.8794754232441,10,"cytoskeletal anchor activity","cytoskeletal anchor activity",0.861372093023256,0.65975,0
+"GO:0005034","GO:0005034",1,"GO:0008093",21.5484822042027,0,"osmosensor activity","cytoskeletal anchor activity",0.885372093023256,0.8105,0.133
+"GO:0051082","GO:0051082",2,"GO:0051082",20.7245734632584,99,"unfolded protein binding","unfolded protein binding",0.784255813953488,0.589933333333333,0
+"GO:0140299","GO:0140299",1,"GO:0008093",18.4815354145721,0,"small molecule sensor activity","cytoskeletal anchor activity",0.799325581395349,0.705625,0.246
+"GO:0008138","GO:0008138",3,"GO:0008138",16.7800907911082,63,"protein tyrosine/serine/threonine phosphatase activity","protein tyrosine/serine/threonine phosphatase activity",0.76953488372093,0.449416666666667,0
+"GO:0035613","GO:0035613",2,"GO:0051082",14.6831807781001,1,"RNA stem-loop binding","unfolded protein binding",0.899325581395349,0.842666666666667,0.213
+"GO:0043495","GO:0043495",1,"GO:0008093",14.4113090111774,8,"protein-membrane adaptor activity","cytoskeletal anchor activity",0.861372093023256,0.65975,0.605
+"GO:0032050","GO:0032050",2,"GO:0051082",13.9286934459143,7,"clathrin heavy chain binding","unfolded protein binding",0.81906976744186,0.647933333333333,0.491
+"GO:0005545","GO:0005545",2,"GO:0051082",12.1473370556554,13,"1-phosphatidylinositol binding","unfolded protein binding",0.893418604651163,0.8336,0.227
+"GO:0004722","GO:0004722",3,"GO:0008138",10.7900750120148,79,"protein serine/threonine phosphatase activity","protein tyrosine/serine/threonine phosphatase activity",0.76953488372093,0.449416666666667,0.751
+"GO:0048156","GO:0048156",2,"GO:0051082",10.3509928004458,1,"tau protein binding","unfolded protein binding",0.82653488372093,0.669333333333333,0.491
+"GO:0050750","GO:0050750",2,"GO:0051082",9.94642221287472,6,"low-density lipoprotein particle receptor binding","unfolded protein binding",0.83553488372093,0.667666666666667,0.417
+"GO:0070325","GO:0070325",2,"GO:0051082",9.8472907398727,2,"lipoprotein particle receptor binding","unfolded protein binding",0.805767441860465,0.6098,0.491
+"GO:0004725","GO:0004725",3,"GO:0008138",9.74359670057179,138,"protein tyrosine phosphatase activity","protein tyrosine/serine/threonine phosphatase activity",0.76953488372093,0.449416666666667,0.751
+"GO:0030674","GO:0030674",1,"GO:0008093",9.71882113436927,28,"protein-macromolecule adaptor activity","cytoskeletal anchor activity",0.822860465116279,0.595125,0.788
+"GO:0005200","GO:0005200",1,"GO:0008093",8.19629968609132,70,"structural constituent of cytoskeleton","cytoskeletal anchor activity",0.85406976744186,0.762875,0.176
+"GO:0035642","GO:0035642",4,"GO:0035642",8.07420879235584,1,"histone H3R17 methyltransferase activity","histone H3R17 methyltransferase activity",0.85106976744186,0.495714285714286,0
+"GO:0031403","GO:0031403",5,"GO:0031403",7.52999879850867,0,"lithium ion binding","lithium ion binding",0.907186046511628,1,0
+"GO:0052833","GO:0052833",3,"GO:0008138",7.52999879850867,4,"inositol monophosphate 4-phosphatase activity","protein tyrosine/serine/threonine phosphatase activity",0.806976744186046,0.481916666666667,0.393
+"GO:0052832","GO:0052832",3,"GO:0008138",7.52999879850867,3,"inositol monophosphate 3-phosphatase activity","protein tyrosine/serine/threonine phosphatase activity",0.806976744186046,0.481916666666667,0.393
+"GO:0008934","GO:0008934",3,"GO:0008138",7.52999879850867,5,"inositol monophosphate 1-phosphatase activity","protein tyrosine/serine/threonine phosphatase activity",0.806976744186046,0.481916666666667,0.393
+"GO:0008469","GO:0008469",4,"GO:0035642",7.52999879850867,2,"histone arginine N-methyltransferase activity","histone H3R17 methyltransferase activity",0.843186046511628,0.467142857142857,0.904
+"GO:0052834","GO:0052834",3,"GO:0008138",7.52999879850867,3,"inositol monophosphate phosphatase activity","protein tyrosine/serine/threonine phosphatase activity",0.782883720930233,0.40975,0.456
+"GO:0060090","GO:0060090",1,"GO:0008093",7.46133202848378,71,"molecular adaptor activity","cytoskeletal anchor activity",0.780093023255814,0.60225,0.598
+"GO:0106137","GO:0106137",2,"GO:0051082",6.75933556951757,0,"IkappaB kinase complex binding","unfolded protein binding",0.841348837209302,0.7536,0.329
+"GO:0005133","GO:0005133",2,"GO:0051082",6.75933556951757,2,"type II interferon receptor binding","unfolded protein binding",0.84246511627907,0.687533333333333,0.417
+"GO:0033549","GO:0033549",3,"GO:0008138",6.53268793701945,6,"MAP kinase phosphatase activity","protein tyrosine/serine/threonine phosphatase activity",0.76953488372093,0.449416666666667,0.751
+"GO:0070577","GO:0070577",2,"GO:0051082",5.98831437420289,18,"lysine-acetylated histone binding","unfolded protein binding",0.845767441860465,0.695733333333333,0.401
+"GO:0140033","GO:0140033",2,"GO:0051082",5.98831437420289,0,"acetylation-dependent protein binding","unfolded protein binding",0.816558139534884,0.640733333333333,0.491
+"GO:0000149","GO:0000149",2,"GO:0051082",5.95618205016387,70,"SNARE binding","unfolded protein binding",0.784255813953488,0.589933333333333,0.605
+"GO:0016791","GO:0016791",3,"GO:0008138",5.68445624005038,179,"phosphatase activity","protein tyrosine/serine/threonine phosphatase activity",0.751186046511628,0.348916666666667,0.685
+"GO:0004721","GO:0004721",3,"GO:0008138",5.54848220420268,142,"phosphoprotein phosphatase activity","protein tyrosine/serine/threonine phosphatase activity",0.734860465116279,0.369333333333333,0.88
+"GO:0016273","GO:0016273",4,"GO:0035642",5.43650844475875,3,"arginine N-methyltransferase activity","histone H3R17 methyltransferase activity",0.852558139534884,0.503571428571429,0.623
+"GO:0016274","GO:0016274",4,"GO:0035642",5.43650844475875,11,"protein-arginine N-methyltransferase activity","histone H3R17 methyltransferase activity",0.824255813953488,0.427285714285714,0.79
+"GO:0005199","GO:0005199",1,"GO:0008093",5.43544269089409,0,"structural constituent of cell wall","cytoskeletal anchor activity",0.85406976744186,0.762875,0.176
+"GO:0004482","GO:0004482",4,"GO:0035642",5.43544269089409,3,"mRNA (guanine-N7-)-methyltransferase activity","histone H3R17 methyltransferase activity",0.880186046511628,0.646285714285714,0.392
+"GO:0038100","GO:0038100",2,"GO:0051082",5.43544269089409,0,"nodal binding","unfolded protein binding",0.784255813953488,0.589933333333333,0.605
+"GO:0004706","GO:0004706",4,"GO:0035642",5.27424538512664,6,"JUN kinase kinase kinase activity","histone H3R17 methyltransferase activity",0.900883720930233,0.865428571428571,0.148
+"GO:0035242","GO:0035242",4,"GO:0035642",5.27424538512664,6,"protein-arginine omega-N asymmetric methyltransferase activity","histone H3R17 methyltransferase activity",0.838906976744186,0.478285714285714,0.673
+"GO:0030276","GO:0030276",2,"GO:0051082",4.70338416418842,44,"clathrin binding","unfolded protein binding",0.776790697674419,0.568533333333333,0.605
+"GO:0042578","GO:0042578",3,"GO:0008138",4.06319947071442,6,"phosphoric ester hydrolase activity","protein tyrosine/serine/threonine phosphatase activity",0.75746511627907,0.418916666666667,0.605
+"GO:0070697","GO:0070697",2,"GO:0051082",3.43400890127254,0,"activin receptor binding","unfolded protein binding",0.862372093023256,0.7264,0.368
+"GO:0052745","GO:0052745",3,"GO:0008138",3.14319807079025,4,"inositol phosphate phosphatase activity","protein tyrosine/serine/threonine phosphatase activity",0.769720930232558,0.383833333333333,0.549

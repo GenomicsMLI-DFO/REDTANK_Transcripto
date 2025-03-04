@@ -1,0 +1,62 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0048002","GO:0048002",1,"GO:0048002",7.67369691725021,0,"antigen processing and presentation of peptide antigen","antigen processing and presentation of peptide antigen",0.843754098360656,0.4035,0
+"GO:0019882","GO:0019882",1,"GO:0048002",7.43848420607587,34,"antigen processing and presentation","antigen processing and presentation of peptide antigen",0.823229508196721,0.424375,0.788
+"GO:0002474","GO:0002474",1,"GO:0048002",6.7867364305588,3,"antigen processing and presentation of peptide antigen via MHC class I","antigen processing and presentation of peptide antigen",0.871147540983607,0.500625,0.812
+"GO:0140467","GO:0140467",2,"GO:0140467",6.58224979994365,2,"integrated stress response signaling","integrated stress response signaling",0.88527868852459,0.759,0
+"GO:0050896","GO:0050896",2,"GO:0140467",5.86078356060735,125,"response to stimulus","integrated stress response signaling",0.794360655737705,0.599571428571429,0.43
+"GO:0010616","GO:0010616",3,"GO:0010616",5.70657814364486,0,"negative regulation of cardiac muscle adaptation","negative regulation of cardiac muscle adaptation",0.866573770491803,0.619363636363636,0
+"GO:0010612","GO:0010612",3,"GO:0010616",5.44416133896756,0,"regulation of cardiac muscle adaptation","negative regulation of cardiac muscle adaptation",0.854901639344262,0.594909090909091,0.81
+"GO:0014745","GO:0014745",3,"GO:0010616",5.30378563217841,0,"negative regulation of muscle adaptation","negative regulation of cardiac muscle adaptation",0.853344262295082,0.624545454545455,0.839
+"GO:0031343","GO:0031343",4,"GO:0031343",5.0453079871999,0,"positive regulation of cell killing","positive regulation of cell killing",0.86527868852459,0.680111111111111,0
+"GO:0014887","GO:0014887",3,"GO:0010616",5.0453079871999,0,"cardiac muscle adaptation","negative regulation of cardiac muscle adaptation",0.849360655737705,0.574090909090909,0.533
+"GO:0045669","GO:0045669",4,"GO:0031343",4.74311832600868,4,"positive regulation of osteoblast differentiation","positive regulation of cell killing",0.880967213114754,0.747,0.373
+"GO:0048286","GO:0048286",5,"GO:0048286",4.59527030993616,0,"lung alveolus development","lung alveolus development",0.885754098360656,0.56475,0
+"GO:0048839","GO:0048839",5,"GO:0048286",4.57678690424215,43,"inner ear development","lung alveolus development",0.87483606557377,0.54975,0.498
+"GO:0031341","GO:0031341",4,"GO:0031343",4.42188494425641,0,"regulation of cell killing","positive regulation of cell killing",0.842655737704918,0.637222222222222,0.771
+"GO:0060426","GO:0060426",5,"GO:0048286",4.39115032728024,1,"lung vasculature development","lung alveolus development",0.911,0.6035,0.741
+"GO:0043583","GO:0043583",5,"GO:0048286",4.32606202688957,5,"ear development","lung alveolus development",0.886852459016393,0.5495,0.502
+"GO:0045444","GO:0045444",4,"GO:0031343",4.22177509611192,5,"fat cell differentiation","positive regulation of cell killing",0.877950819672131,0.770888888888889,0.164
+"GO:0002476","GO:0002476",1,"GO:0048002",4.15657050085896,0,"antigen processing and presentation of endogenous peptide antigen via MHC class Ib","antigen processing and presentation of peptide antigen",0.893409836065574,0.51475,0.528
+"GO:0002428","GO:0002428",1,"GO:0048002",4.15657050085896,0,"antigen processing and presentation of peptide antigen via MHC class Ib","antigen processing and presentation of peptide antigen",0.873032786885246,0.4685,0.717
+"GO:0003300","GO:0003300",3,"GO:0010616",4.06490354326328,0,"cardiac muscle hypertrophy","negative regulation of cardiac muscle adaptation",0.887065573770492,0.637181818181818,0.168
+"GO:0014897","GO:0014897",3,"GO:0010616",3.94476368953675,0,"striated muscle hypertrophy","negative regulation of cardiac muscle adaptation",0.872131147540984,0.592727272727273,0.2
+"GO:0014896","GO:0014896",3,"GO:0010616",3.91920958506436,0,"muscle hypertrophy","negative regulation of cardiac muscle adaptation",0.854573770491803,0.553272727272727,0.248
+"GO:0002475","GO:0002475",1,"GO:0048002",3.89712205510152,0,"antigen processing and presentation via MHC class Ib","antigen processing and presentation of peptide antigen",0.853655737704918,0.479,0.605
+"GO:0060051","GO:0060051",7,"GO:0060051",3.77060693025826,0,"negative regulation of protein glycosylation","negative regulation of protein glycosylation",0.940016393442623,0.785,0
+"GO:0048769","GO:0048769",6,"GO:0048769",3.77060693025826,9,"sarcomerogenesis","sarcomerogenesis",0.882,0.401142857142857,0
+"GO:0002483","GO:0002483",1,"GO:0048002",3.74872220352667,0,"antigen processing and presentation of endogenous peptide antigen","antigen processing and presentation of peptide antigen",0.873032786885246,0.4685,0.717
+"GO:0050793","GO:0050793",4,"GO:0031343",3.72572591725422,4,"regulation of developmental process","positive regulation of cell killing",0.833426229508197,0.743222222222222,0.294
+"GO:0019883","GO:0019883",1,"GO:0048002",3.72572591725422,0,"antigen processing and presentation of endogenous antigen","antigen processing and presentation of peptide antigen",0.853655737704918,0.479,0.605
+"GO:0030240","GO:0030240",6,"GO:0048769",3.72572591725422,8,"skeletal muscle thin filament assembly","sarcomerogenesis",0.881229508196721,0.407428571428571,0.832
+"GO:0030241","GO:0030241",6,"GO:0048769",3.72572591725422,7,"skeletal muscle myosin thick filament assembly","sarcomerogenesis",0.882245901639344,0.376285714285714,0.77
+"GO:0071688","GO:0071688",6,"GO:0048769",3.72572591725422,4,"striated muscle myosin thick filament assembly","sarcomerogenesis",0.881803278688525,0.372,0.822
+"GO:0009605","GO:0009605",2,"GO:0140467",3.65057311840307,0,"response to external stimulus","integrated stress response signaling",0.841688524590164,0.627285714285714,0.306
+"GO:0031034","GO:0031034",6,"GO:0048769",3.60393915028577,0,"myosin filament assembly","sarcomerogenesis",0.899180327868852,0.544714285714286,0.41
+"GO:0032501","GO:0032501",3,"GO:0010616",3.58322101424756,0,"multicellular organismal process","negative regulation of cardiac muscle adaptation",0.787688524590164,0.629090909090909,0.212
+"GO:0002244","GO:0002244",4,"GO:0031343",3.58303585351915,59,"hematopoietic progenitor cell differentiation","positive regulation of cell killing",0.86844262295082,0.816666666666667,0.123
+"GO:0051239","GO:0051239",3,"GO:0010616",3.57079654055296,0,"regulation of multicellular organismal process","negative regulation of cardiac muscle adaptation",0.811704918032787,0.688454545454545,0.378
+"GO:0035995","GO:0035995",2,"GO:0140467",3.56550589383246,1,"detection of muscle stretch","integrated stress response signaling",0.91955737704918,0.691571428571429,0.111
+"GO:0014866","GO:0014866",6,"GO:0048769",3.56550589383246,15,"skeletal myofibril assembly","sarcomerogenesis",0.878803278688525,0.382428571428571,0.902
+"GO:0045763","GO:0045763",7,"GO:0060051",3.50215328594525,0,"negative regulation of cellular amino acid metabolic process","negative regulation of protein glycosylation",0.904262295081967,0.5786,0.313
+"GO:2000212","GO:2000212",7,"GO:0060051",3.50215328594525,0,"negative regulation of glutamate metabolic process","negative regulation of protein glycosylation",0.91027868852459,0.57,0.256
+"GO:0001906","GO:0001906",4,"GO:0031343",3.50106619030403,0,"cell killing","positive regulation of cell killing",0.84027868852459,0.723666666666667,0.484
+"GO:0050714","GO:0050714",8,"GO:0050714",3.50106619030403,1,"positive regulation of protein secretion","positive regulation of protein secretion",0.940590163934426,0.7165,0
+"GO:0002456","GO:0002456",9,"GO:0002456",3.47987689123409,0,"T cell mediated immunity","T cell mediated immunity",0.921901639344262,1,0
+"GO:0060124","GO:0060124",8,"GO:0050714",3.47987689123409,1,"positive regulation of growth hormone secretion","positive regulation of protein secretion",0.94244262295082,0.7165,0.567
+"GO:0031033","GO:0031033",6,"GO:0048769",3.41708606137464,1,"myosin filament organization","sarcomerogenesis",0.884655737704918,0.568857142857143,0.456
+"GO:0050678","GO:0050678",4,"GO:0031343",3.31012581020943,1,"regulation of epithelial cell proliferation","positive regulation of cell killing",0.882311475409836,0.754333333333333,0.355
+"GO:0010737","GO:0010737",4,"GO:0031343",3.29464225273854,6,"protein kinase A signaling","positive regulation of cell killing",0.868852459016393,0.772666666666667,0.315
+"GO:0071474","GO:0071474",2,"GO:0140467",3.28030453632889,0,"cellular hyperosmotic response","integrated stress response signaling",0.926196721311475,0.814714285714286,0.401
+"GO:0003012","GO:0003012",3,"GO:0010616",3.22559029911244,0,"muscle system process","negative regulation of cardiac muscle adaptation",0.832081967213115,0.514818181818182,0.319
+"GO:1905719","GO:1905719",10,"GO:1905719",3.11438890634319,1,"protein localization to perinuclear region of cytoplasm","protein localization to perinuclear region of cytoplasm",0.92572131147541,0.914333333333333,0
+"GO:0014888","GO:0014888",3,"GO:0010616",3.04131903165379,0,"striated muscle adaptation","negative regulation of cardiac muscle adaptation",0.832704918032787,0.552636363636364,0.48
+"GO:0032720","GO:0032720",11,"GO:0032720",3.02711498237388,1,"negative regulation of tumor necrosis factor production","negative regulation of tumor necrosis factor production",0.915918032786885,0.803,0
+"GO:0043056","GO:0043056",10,"GO:1905719",3.02711498237388,0,"forward locomotion","protein localization to perinuclear region of cytoplasm",0.901540983606557,0.700666666666667,0.11
+"GO:0033058","GO:0033058",10,"GO:1905719",3.02711498237388,1,"directional locomotion","protein localization to perinuclear region of cytoplasm",0.875918032786885,0.688333333333333,0.147
+"GO:2000211","GO:2000211",7,"GO:0060051",3.02711498237388,0,"regulation of glutamate metabolic process","negative regulation of protein glycosylation",0.911016393442623,0.6322,0.186
+"GO:0051606","GO:0051606",2,"GO:0140467",3.02394493558437,2,"detection of stimulus","integrated stress response signaling",0.841688524590164,0.627285714285714,0.306
+"GO:0007175","GO:0007175",7,"GO:0060051",3.02249969471019,6,"negative regulation of epidermal growth factor-activated receptor activity","negative regulation of protein glycosylation",0.934770491803279,0.817,0.32
+"GO:0032966","GO:0032966",11,"GO:0032720",3.02249969471019,0,"negative regulation of collagen biosynthetic process","negative regulation of tumor necrosis factor production",0.912770491803279,0.679,0.196
+"GO:0050982","GO:0050982",2,"GO:0140467",3.02249969471019,5,"detection of mechanical stimulus","integrated stress response signaling",0.908377049180328,0.664857142857143,0.133
+"GO:0010713","GO:0010713",11,"GO:0032720",3.02249969471019,0,"negative regulation of collagen metabolic process","negative regulation of tumor necrosis factor production",0.879590163934426,0.61125,0.296
+"GO:0062014","GO:0062014",11,"GO:0032720",3.00038890323532,0,"negative regulation of small molecule metabolic process","negative regulation of tumor necrosis factor production",0.876639344262295,0.68725,0.296

@@ -1,0 +1,9 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0005109","GO:0005109",1,"GO:0005109",17.4789456437845,31,"frizzled binding","frizzled binding",0.711625,0.586,0
+"GO:0005125","GO:0005125",2,"GO:0005125",16.1562565875317,165,"cytokine activity","cytokine activity",0.6075,0.5175,0
+"GO:0001664","GO:0001664",1,"GO:0005109",9.62179596970154,49,"G protein-coupled receptor binding","frizzled binding",0.674375,0.561333333333333,0.825
+"GO:0048018","GO:0048018",2,"GO:0005125",8.46918580649538,21,"receptor ligand activity","cytokine activity",0.57775,0.497,0.88
+"GO:0030546","GO:0030546",2,"GO:0005125",8.44115708289514,2,"signaling receptor activator activity","cytokine activity",0.69475,0.5015,0.576
+"GO:0030545","GO:0030545",2,"GO:0005125",8.41624973130759,2,"signaling receptor regulator activity","cytokine activity",0.70475,0.559,0.474
+"GO:0004478","GO:0004478",3,"GO:0004478",3.15458300364213,8,"methionine adenosyltransferase activity","methionine adenosyltransferase activity",0.918375,1,0
+"GO:0043548","GO:0043548",1,"GO:0005109",3.07124579782335,10,"phosphatidylinositol 3-kinase binding","frizzled binding",0.742625,0.697333333333333,0.417

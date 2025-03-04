@@ -1,0 +1,278 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0043648","GO:0043648",1,"GO:0043648",24.7989307688487,0,"dicarboxylic acid metabolic process","dicarboxylic acid metabolic process",0.90585559566787,0.6675,0
+"GO:1990227","GO:1990227",2,"GO:1990227",20.7020207558406,0,"paranodal junction maintenance","paranodal junction maintenance",0.926137184115523,0.73851724137931,0
+"GO:0003012","GO:0003012",3,"GO:0003012",20.4801720062243,0,"muscle system process","muscle system process",0.878725631768953,0.530545454545455,0
+"GO:0071205","GO:0071205",4,"GO:0071205",18.5211306139032,2,"protein localization to juxtaparanode region of axon","protein localization to juxtaparanode region of axon",0.904480144404332,0.544071428571429,0
+"GO:0070966","GO:0070966",5,"GO:0070966",18.1457182550734,2,"nuclear-transcribed mRNA catabolic process, no-go decay","nuclear-transcribed mRNA catabolic process, no-go decay",0.910519855595668,0.712571428571429,0
+"GO:0002175","GO:0002175",4,"GO:0071205",18.0434794085602,0,"protein localization to paranode region of axon","protein localization to juxtaparanode region of axon",0.904480144404332,0.544071428571429,0.788
+"GO:0030447","GO:0030447",9,"GO:0030447",17.9450588045269,0,"filamentous growth","filamentous growth",0.910151624548736,0.9012,0
+"GO:0001402","GO:0001402",7,"GO:0001402",17.9450588045269,0,"signal transduction involved in filamentous growth","signal transduction involved in filamentous growth",0.877072202166065,0.668625,0
+"GO:0006937","GO:0006937",6,"GO:0006937",17.9450588045269,16,"regulation of muscle contraction","regulation of muscle contraction",0.894007220216607,0.586882352941176,0
+"GO:0007232","GO:0007232",7,"GO:0001402",17.9450588045269,0,"osmosensory signaling pathway via Sho1 osmosensor","signal transduction involved in filamentous growth",0.912202166064982,0.53225,0.475
+"GO:0006074","GO:0006074",8,"GO:0006074",17.9450588045269,0,"(1->3)-beta-D-glucan metabolic process","(1->3)-beta-D-glucan metabolic process",0.900902527075812,0.491266666666667,0
+"GO:0051273","GO:0051273",8,"GO:0006074",17.9450588045269,0,"beta-glucan metabolic process","(1->3)-beta-D-glucan metabolic process",0.893642599277978,0.463733333333333,0.899
+"GO:0006075","GO:0006075",8,"GO:0006074",17.9450588045269,0,"(1->3)-beta-D-glucan biosynthetic process","(1->3)-beta-D-glucan metabolic process",0.917057761732852,0.4614,0.665
+"GO:0051274","GO:0051274",8,"GO:0006074",17.9450588045269,0,"beta-glucan biosynthetic process","(1->3)-beta-D-glucan metabolic process",0.913072202166065,0.445733333333333,0.581
+"GO:0000282","GO:0000282",10,"GO:0000282",16.728349694563,0,"cellular bud site selection","cellular bud site selection",0.936263537906137,1,0
+"GO:0071852","GO:0071852",2,"GO:1990227",16.728349694563,0,"fungal-type cell wall organization or biogenesis","paranodal junction maintenance",0.878108303249097,0.760862068965517,0.159
+"GO:0031505","GO:0031505",2,"GO:1990227",16.728349694563,0,"fungal-type cell wall organization","paranodal junction maintenance",0.902310469314079,0.708034482758621,0.208
+"GO:0044057","GO:0044057",6,"GO:0006937",16.2945354292624,0,"regulation of system process","regulation of muscle contraction",0.853725631768953,0.506882352941176,0.677
+"GO:0030866","GO:0030866",2,"GO:1990227",15.5233971602696,23,"cortical actin cytoskeleton organization","paranodal junction maintenance",0.900830324909747,0.696827586206897,0.184
+"GO:0071555","GO:0071555",2,"GO:1990227",14.923869505457,0,"cell wall organization","paranodal junction maintenance",0.875790613718411,0.643931034482759,0.283
+"GO:0006182","GO:0006182",11,"GO:0006182",14.8386034736126,29,"cGMP biosynthetic process","cGMP biosynthetic process",0.930480144404332,0.524533333333333,0
+"GO:0007586","GO:0007586",3,"GO:0003012",14.7581366978196,4,"digestion","muscle system process",0.876234657039711,0.642818181818182,0.428
+"GO:0003008","GO:0003008",3,"GO:0003012",14.7484781570796,0,"system process","muscle system process",0.854281588447653,0.519727272727273,0.788
+"GO:0022600","GO:0022600",3,"GO:0003012",14.6672586495814,0,"digestive system process","muscle system process",0.889812274368231,0.631363636363636,0.532
+"GO:1901261","GO:1901261",12,"GO:1901261",14.3304096858909,0,"regulation of sorocarp spore cell differentiation","regulation of sorocarp spore cell differentiation",0.89270036101083,0.55225,0
+"GO:0099139","GO:0099139",12,"GO:1901261",14.3304096858909,0,"cheating during chimeric sorocarp development","regulation of sorocarp spore cell differentiation",0.907620938628159,0.541666666666667,0.859
+"GO:0044058","GO:0044058",6,"GO:0006937",14.3304096858909,0,"regulation of digestive system process","regulation of muscle contraction",0.883436823104693,0.519117647058823,0.488
+"GO:0031156","GO:0031156",12,"GO:1901261",14.3304096858909,0,"regulation of sorocarp development","regulation of sorocarp spore cell differentiation",0.891678700361011,0.50025,0.657
+"GO:0044671","GO:0044671",12,"GO:1901261",14.3304096858909,0,"sorocarp spore cell differentiation","regulation of sorocarp spore cell differentiation",0.902685920577617,0.495583333333333,0.735
+"GO:0099135","GO:0099135",12,"GO:1901261",14.3304096858909,0,"chimeric colonial development","regulation of sorocarp spore cell differentiation",0.909884476534296,0.491,0.307
+"GO:0099136","GO:0099136",12,"GO:1901261",14.3304096858909,0,"chimeric non-reproductive fruiting body development","regulation of sorocarp spore cell differentiation",0.926317689530686,0.48725,0.317
+"GO:0099134","GO:0099134",12,"GO:1901261",14.3304096858909,0,"chimeric sorocarp development","regulation of sorocarp spore cell differentiation",0.936451263537906,0.483666666666667,0.341
+"GO:0048837","GO:0048837",12,"GO:1901261",14.3304096858909,0,"sorocarp sorus development","regulation of sorocarp spore cell differentiation",0.917007220216607,0.42075,0.577
+"GO:0031154","GO:0031154",12,"GO:1901261",14.3304096858909,0,"culmination involved in sorocarp development","regulation of sorocarp spore cell differentiation",0.914462093862816,0.407916666666667,0.53
+"GO:0007168","GO:0007168",7,"GO:0001402",14.2180600765907,16,"receptor guanylyl cyclase signaling pathway","signal transduction involved in filamentous growth",0.898819494584838,0.7105,0.601
+"GO:0071554","GO:0071554",2,"GO:1990227",13.753173278288,0,"cell wall organization or biogenesis","paranodal junction maintenance",0.839963898916968,0.700551724137931,0.225
+"GO:0046068","GO:0046068",11,"GO:0006182",13.5118152877197,0,"cGMP metabolic process","cGMP biosynthetic process",0.910718411552347,0.4858,0.66
+"GO:0015879","GO:0015879",13,"GO:0015879",13.4960487683231,1,"carnitine transport","carnitine transport",0.919913357400722,0.531333333333333,0
+"GO:0015838","GO:0015838",13,"GO:0015879",13.4960487683231,1,"amino-acid betaine transport","carnitine transport",0.915324909747292,0.505904761904762,0.906
+"GO:0072337","GO:0072337",13,"GO:0015879",13.334043970546,0,"modified amino acid transport","carnitine transport",0.902440433212996,0.509047619047619,0.706
+"GO:0006941","GO:0006941",3,"GO:0003012",12.9723819317382,1,"striated muscle contraction","muscle system process",0.910617328519856,0.546454545454546,0.689
+"GO:0030913","GO:0030913",14,"GO:0030913",12.8781120148963,1,"paranodal junction assembly","paranodal junction assembly",0.916790613718412,0.646142857142857,0
+"GO:0050904","GO:0050904",15,"GO:0050904",12.8583679567006,0,"diapedesis","diapedesis",0.912357400722022,0.593333333333333,0
+"GO:0030865","GO:0030865",2,"GO:1990227",12.4423834453349,12,"cortical cytoskeleton organization","paranodal junction maintenance",0.908184115523466,0.685137931034483,0.21
+"GO:0002523","GO:0002523",15,"GO:0050904",12.2302945330077,4,"leukocyte migration involved in inflammatory response","diapedesis",0.916696750902527,0.651666666666667,0.605
+"GO:0009190","GO:0009190",11,"GO:0006182",12.0784718486789,27,"cyclic nucleotide biosynthetic process","cGMP biosynthetic process",0.91141155234657,0.4348,0.673
+"GO:0034637","GO:0034637",8,"GO:0006074",11.982008148765,0,"cellular carbohydrate biosynthetic process","(1->3)-beta-D-glucan metabolic process",0.879527075812274,0.504266666666667,0.39
+"GO:0099120","GO:0099120",12,"GO:1901261",11.5683080949248,0,"socially cooperative development","regulation of sorocarp spore cell differentiation",0.890014440433213,0.441916666666667,0.389
+"GO:0030587","GO:0030587",12,"GO:1901261",11.5683080949248,0,"sorocarp development","regulation of sorocarp spore cell differentiation",0.919079422382671,0.4155,0.456
+"GO:0050892","GO:0050892",6,"GO:0006937",11.4631386669255,2,"intestinal absorption","regulation of muscle contraction",0.882072202166065,0.725588235294118,0.188
+"GO:1902992","GO:1902992",16,"GO:1902992",11.3304096858909,0,"negative regulation of amyloid precursor protein catabolic process","negative regulation of amyloid precursor protein catabolic process",0.904346570397112,0.60252,0
+"GO:1904778","GO:1904778",4,"GO:0071205",10.8865451824332,0,"positive regulation of protein localization to cell cortex","protein localization to juxtaparanode region of axon",0.899602888086643,0.505785714285714,0.36
+"GO:0006942","GO:0006942",6,"GO:0006937",10.6201166514575,2,"regulation of striated muscle contraction","regulation of muscle contraction",0.906108303249098,0.644529411764706,0.83
+"GO:0015697","GO:0015697",13,"GO:0015879",10.6192796990268,3,"quaternary ammonium group transport","carnitine transport",0.903342960288809,0.475285714285714,0.787
+"GO:0032288","GO:0032288",14,"GO:0030913",10.5770820192323,0,"myelin assembly","paranodal junction assembly",0.905996389891697,0.613857142857143,0.833
+"GO:0006811","GO:0006811",17,"GO:0006811",10.4221800592466,617,"monoatomic ion transport","monoatomic ion transport",0.881490974729242,0.650846153846154,0
+"GO:1904478","GO:1904478",6,"GO:0006937",10.3329568749048,0,"regulation of intestinal absorption","regulation of muscle contraction",0.875956678700361,0.633235294117647,0.333
+"GO:2000809","GO:2000809",17,"GO:0006811",10.194381977117,0,"positive regulation of synaptic vesicle clustering","monoatomic ion transport",0.872534296028881,0.643692307692308,0.225
+"GO:0031032","GO:0031032",2,"GO:1990227",10.1865660286395,24,"actomyosin structure organization","paranodal junction maintenance",0.893859205776173,0.679862068965517,0.2
+"GO:1902991","GO:1902991",16,"GO:1902992",10.1791420105603,0,"regulation of amyloid precursor protein catabolic process","negative regulation of amyloid precursor protein catabolic process",0.890238267148014,0.55024,0.812
+"GO:0043269","GO:0043269",18,"GO:0043269",9.83736704720626,7,"regulation of monoatomic ion transport","regulation of monoatomic ion transport",0.875104693140794,0.614727272727273,0
+"GO:0075522","GO:0075522",9,"GO:0030447",9.76741371740263,0,"IRES-dependent viral translational initiation","filamentous growth",0.950545126353791,0.7396,0.119
+"GO:2000331","GO:2000331",2,"GO:1990227",9.75317327828802,0,"regulation of terminal button organization","paranodal junction maintenance",0.905126353790614,0.765275862068965,0.2
+"GO:0034205","GO:0034205",16,"GO:1902992",9.57708201923234,4,"amyloid-beta formation","negative regulation of amyloid precursor protein catabolic process",0.894436823104693,0.65372,0.429
+"GO:0042982","GO:0042982",16,"GO:1902992",9.57708201923234,1,"amyloid precursor protein metabolic process","negative regulation of amyloid precursor protein catabolic process",0.88601083032491,0.57304,0.526
+"GO:0006972","GO:0006972",7,"GO:0001402",9.53452966854687,3,"hyperosmotic response","signal transduction involved in filamentous growth",0.940191335740072,0.712125,0.129
+"GO:0014883","GO:0014883",6,"GO:0006937",9.53452966854687,0,"transition between fast and slow fiber","regulation of muscle contraction",0.911400722021661,0.636705882352941,0.471
+"GO:1900244","GO:1900244",18,"GO:0043269",9.53452966854687,0,"positive regulation of synaptic vesicle endocytosis","regulation of monoatomic ion transport",0.898075812274368,0.615909090909091,0.285
+"GO:0009060","GO:0009060",19,"GO:0009060",9.43820750468075,11,"aerobic respiration","aerobic respiration",0.912465703971119,0.552333333333333,0
+"GO:0070296","GO:0070296",13,"GO:0015879",9.40099076017666,0,"sarcoplasmic reticulum calcium ion transport","carnitine transport",0.928259927797834,0.766714285714286,0.248
+"GO:0097753","GO:0097753",2,"GO:1990227",9.39144544227043,0,"membrane bending","paranodal junction maintenance",0.895945848375451,0.661310344827586,0.267
+"GO:1904684","GO:1904684",16,"GO:1902992",9.39144544227043,3,"negative regulation of metalloendopeptidase activity","negative regulation of amyloid precursor protein catabolic process",0.90772202166065,0.644,0.443
+"GO:1902963","GO:1902963",16,"GO:1902992",9.39144544227043,0,"negative regulation of metalloendopeptidase activity involved in amyloid precursor protein catabolic process","negative regulation of amyloid precursor protein catabolic process",0.90856678700361,0.6108,0.685
+"GO:1902962","GO:1902962",16,"GO:1902992",9.39144544227043,0,"regulation of metalloendopeptidase activity involved in amyloid precursor protein catabolic process","negative regulation of amyloid precursor protein catabolic process",0.907613718411552,0.5626,0.62
+"GO:0009117","GO:0009117",11,"GO:0006182",9.39144544227043,14,"nucleotide metabolic process","cGMP biosynthetic process",0.885090252707581,0.384,0.472
+"GO:0050435","GO:0050435",16,"GO:1902992",9.36098559850507,3,"amyloid-beta metabolic process","negative regulation of amyloid precursor protein catabolic process",0.888187725631769,0.73588,0.205
+"GO:0055086","GO:0055086",11,"GO:0006182",9.33323897590981,0,"nucleobase-containing small molecule metabolic process","cGMP biosynthetic process",0.864787003610108,0.451133333333333,0.427
+"GO:0042987","GO:0042987",16,"GO:1902992",9.2020048935198,2,"amyloid precursor protein catabolic process","negative regulation of amyloid precursor protein catabolic process",0.899097472924188,0.60604,0.565
+"GO:0006753","GO:0006753",11,"GO:0006182",9.19595550956995,2,"nucleoside phosphate metabolic process","cGMP biosynthetic process",0.878599277978339,0.374266666666667,0.492
+"GO:0014808","GO:0014808",20,"GO:0014808",9.07902685767703,0,"release of sequestered calcium ion into cytosol by sarcoplasmic reticulum","release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",0.891454873646209,0.379636363636364,0
+"GO:1903514","GO:1903514",20,"GO:0014808",9.07902685767703,0,"release of sequestered calcium ion into cytosol by endoplasmic reticulum","release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",0.885736462093863,0.361272727272727,0.92
+"GO:1900242","GO:1900242",18,"GO:0043269",9.05156317778579,0,"regulation of synaptic vesicle endocytosis","regulation of monoatomic ion transport",0.888028880866426,0.568545454545455,0.351
+"GO:1905049","GO:1905049",16,"GO:1902992",9.04651644528571,0,"negative regulation of metallopeptidase activity","negative regulation of amyloid precursor protein catabolic process",0.901602888086643,0.63076,0.48
+"GO:2000807","GO:2000807",17,"GO:0006811",9.04651644528571,0,"regulation of synaptic vesicle clustering","monoatomic ion transport",0.86929963898917,0.612461538461538,0.25
+"GO:1902003","GO:1902003",5,"GO:0070966",8.99461758396776,0,"regulation of amyloid-beta formation","nuclear-transcribed mRNA catabolic process, no-go decay",0.882592057761733,0.641571428571429,0.244
+"GO:0072697","GO:0072697",4,"GO:0071205",8.77623858235671,0,"protein localization to cell cortex","protein localization to juxtaparanode region of axon",0.907509025270758,0.521285714285714,0.601
+"GO:1904776","GO:1904776",4,"GO:0071205",8.77623858235671,0,"regulation of protein localization to cell cortex","protein localization to juxtaparanode region of axon",0.89485559566787,0.446214285714286,0.418
+"GO:1903423","GO:1903423",18,"GO:0043269",8.74341344099886,0,"positive regulation of synaptic vesicle recycling","regulation of monoatomic ion transport",0.87301083032491,0.591636363636364,0.447
+"GO:0043217","GO:0043217",2,"GO:1990227",8.68137398586299,0,"myelin maintenance","paranodal junction maintenance",0.907043321299639,0.783379310344828,0.16
+"GO:0034762","GO:0034762",18,"GO:0043269",8.65626326527996,0,"regulation of transmembrane transport","regulation of monoatomic ion transport",0.832740072202166,0.557545454545455,0.595
+"GO:0019081","GO:0019081",9,"GO:0030447",8.60670448583914,0,"viral translation","filamentous growth",0.947877256317689,0.7334,0.129
+"GO:0016188","GO:0016188",2,"GO:1990227",8.58662733713857,6,"synaptic vesicle maturation","paranodal junction maintenance",0.892425992779783,0.733655172413793,0.202
+"GO:0060048","GO:0060048",21,"GO:0060048",8.54556496778627,20,"cardiac muscle contraction","cardiac muscle contraction",0.922833935018051,0.5871875,0
+"GO:0097091","GO:0097091",17,"GO:0006811",8.35987817466174,0,"synaptic vesicle clustering","monoatomic ion transport",0.900660649819495,0.594076923076923,0.31
+"GO:0072521","GO:0072521",16,"GO:1902992",8.23258632978727,0,"purine-containing compound metabolic process","negative regulation of amyloid precursor protein catabolic process",0.87284476534296,0.72992,0.217
+"GO:0007231","GO:0007231",7,"GO:0001402",8.2169305714497,1,"osmosensory signaling pathway","signal transduction involved in filamentous growth",0.907415162454874,0.524875,0.484
+"GO:0009250","GO:0009250",8,"GO:0006074",8.20212591748099,0,"glucan biosynthetic process","(1->3)-beta-D-glucan metabolic process",0.908851985559567,0.442466666666667,0.529
+"GO:0003009","GO:0003009",3,"GO:0003012",8.14506222098803,24,"skeletal muscle contraction","muscle system process",0.913924187725632,0.476727272727273,0.523
+"GO:0006163","GO:0006163",11,"GO:0006182",8.0884173744831,5,"purine nucleotide metabolic process","cGMP biosynthetic process",0.888216606498195,0.403733333333333,0.558
+"GO:1905224","GO:1905224",2,"GO:1990227",8.06487443690066,0,"clathrin-coated pit assembly","paranodal junction maintenance",0.922180505415162,0.757965517241379,0.177
+"GO:1902803","GO:1902803",17,"GO:0006811",8.06487443690066,0,"regulation of synaptic vesicle transport","monoatomic ion transport",0.87185559566787,0.639,0.267
+"GO:1902961","GO:1902961",16,"GO:1902992",8.06487443690066,0,"positive regulation of aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process","negative regulation of amyloid precursor protein catabolic process",0.910805054151625,0.63692,0.44
+"GO:1902959","GO:1902959",16,"GO:1902992",8.06487443690066,0,"regulation of aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process","negative regulation of amyloid precursor protein catabolic process",0.909202166064982,0.57068,0.611
+"GO:0099612","GO:0099612",4,"GO:0071205",8.01433176191431,0,"protein localization to axon","protein localization to juxtaparanode region of axon",0.920220216606498,0.690142857142857,0.63
+"GO:0055085","GO:0055085",17,"GO:0006811",8.00720671127578,611,"transmembrane transport","monoatomic ion transport",0.816039711191336,0.584923076923077,0.584
+"GO:1904375","GO:1904375",4,"GO:0071205",7.95402787351618,0,"regulation of protein localization to cell periphery","protein localization to juxtaparanode region of axon",0.882151624548736,0.401928571428571,0.468
+"GO:0090257","GO:0090257",6,"GO:0006937",7.8661031074233,1,"regulation of muscle system process","regulation of muscle contraction",0.87598916967509,0.518294117647059,0.82
+"GO:1904683","GO:1904683",16,"GO:1902992",7.76540773470503,0,"regulation of metalloendopeptidase activity","negative regulation of amyloid precursor protein catabolic process",0.910368231046931,0.61108,0.409
+"GO:0045217","GO:0045217",2,"GO:1990227",7.71538471739862,1,"cell-cell junction maintenance","paranodal junction maintenance",0.918888086642599,0.714965517241379,0.878
+"GO:0045056","GO:0045056",17,"GO:0006811",7.71538471739862,4,"transcytosis","monoatomic ion transport",0.853859205776173,0.604153846153846,0.5
+"GO:0033692","GO:0033692",8,"GO:0006074",7.58101231286077,0,"cellular polysaccharide biosynthetic process","(1->3)-beta-D-glucan metabolic process",0.901794223826715,0.4574,0.453
+"GO:1903421","GO:1903421",18,"GO:0043269",7.56560220154891,0,"regulation of synaptic vesicle recycling","regulation of monoatomic ion transport",0.867581227436823,0.556363636363636,0.535
+"GO:0072553","GO:0072553",2,"GO:1990227",7.48403242703752,0,"terminal button organization","paranodal junction maintenance",0.903942238267148,0.677310344827586,0.327
+"GO:0034765","GO:0034765",18,"GO:0043269",7.22744669013486,164,"regulation of monoatomic ion transmembrane transport","regulation of monoatomic ion transport",0.860631768953069,0.596,0.697
+"GO:1905247","GO:1905247",16,"GO:1902992",7.21829413452245,0,"positive regulation of aspartic-type peptidase activity","negative regulation of amyloid precursor protein catabolic process",0.902707581227437,0.65024,0.329
+"GO:1905245","GO:1905245",16,"GO:1902992",7.21829413452245,0,"regulation of aspartic-type peptidase activity","negative regulation of amyloid precursor protein catabolic process",0.903176895306859,0.59584,0.456
+"GO:0006457","GO:0006457",2,"GO:1990227",7.21390411681951,135,"protein folding","paranodal junction maintenance",0.843043321299639,0.729965517241379,0.225
+"GO:0006021","GO:0006021",8,"GO:0006074",7.08667116208199,3,"inositol biosynthetic process","(1->3)-beta-D-glucan metabolic process",0.915083032490975,0.631466666666667,0.242
+"GO:0015980","GO:0015980",19,"GO:0009060",7.01916052504528,0,"energy derivation by oxidation of organic compounds","aerobic respiration",0.878003610108303,0.492,0.732
+"GO:0042407","GO:0042407",2,"GO:1990227",7.00305075150462,14,"cristae formation","paranodal junction maintenance",0.923675090252708,0.732655172413793,0.158
+"GO:1901899","GO:1901899",6,"GO:0006937",6.92307916041284,0,"positive regulation of relaxation of cardiac muscle","regulation of muscle contraction",0.910519855595668,0.655588235294118,0.462
+"GO:1901079","GO:1901079",6,"GO:0006937",6.92307916041284,0,"positive regulation of relaxation of muscle","regulation of muscle contraction",0.88998916967509,0.593470588235294,0.561
+"GO:0055010","GO:0055010",22,"GO:0055010",6.82889399222614,4,"ventricular cardiac muscle tissue morphogenesis","ventricular cardiac muscle tissue morphogenesis",0.948768953068592,0.5601,0
+"GO:0000271","GO:0000271",8,"GO:0006074",6.82889399222614,0,"polysaccharide biosynthetic process","(1->3)-beta-D-glucan metabolic process",0.915956678700361,0.5232,0.355
+"GO:0052652","GO:0052652",11,"GO:0006182",6.82889399222614,0,"cyclic purine nucleotide metabolic process","cGMP biosynthetic process",0.917552346570397,0.470866666666667,0.811
+"GO:0045333","GO:0045333",19,"GO:0009060",6.77436257735796,8,"cellular respiration","aerobic respiration",0.897967509025271,0.509333333333333,0.844
+"GO:0009187","GO:0009187",11,"GO:0006182",6.65969644111836,0,"cyclic nucleotide metabolic process","cGMP biosynthetic process",0.89214440433213,0.423933333333333,0.47
+"GO:1905517","GO:1905517",15,"GO:0050904",6.62359414852659,5,"macrophage migration","diapedesis",0.918830324909747,0.638,0.631
+"GO:1902004","GO:1902004",5,"GO:0070966",6.49023333223218,0,"positive regulation of amyloid-beta formation","nuclear-transcribed mRNA catabolic process, no-go decay",0.899480144404332,0.651,0.194
+"GO:1902993","GO:1902993",16,"GO:1902992",6.49023333223218,0,"positive regulation of amyloid precursor protein catabolic process","negative regulation of amyloid precursor protein catabolic process",0.903335740072202,0.60844,0.664
+"GO:0015695","GO:0015695",13,"GO:0015879",6.49023333223218,2,"organic cation transport","carnitine transport",0.907209386281588,0.508809523809524,0.672
+"GO:1902603","GO:1902603",13,"GO:0015879",6.34547343232683,2,"carnitine transmembrane transport","carnitine transport",0.897021660649819,0.507428571428571,0.734
+"GO:1904377","GO:1904377",4,"GO:0071205",6.32072241848782,0,"positive regulation of protein localization to cell periphery","protein localization to juxtaparanode region of axon",0.884425992779783,0.465357142857143,0.41
+"GO:0016185","GO:0016185",17,"GO:0006811",6.27925716344357,5,"synaptic vesicle budding from presynaptic endocytic zone membrane","monoatomic ion transport",0.91197833935018,0.674692307692308,0.208
+"GO:0042908","GO:0042908",17,"GO:0006811",6.27925716344357,4,"xenobiotic transport","monoatomic ion transport",0.896707581227437,0.669307692307692,0.639
+"GO:0010882","GO:0010882",21,"GO:0060048",6.27925716344357,3,"regulation of cardiac muscle contraction by calcium ion signaling","cardiac muscle contraction",0.897848375451264,0.57925,0.526
+"GO:1903352","GO:1903352",13,"GO:0015879",6.24200129254093,4,"L-ornithine transmembrane transport","carnitine transport",0.906675090252708,0.534809523809524,0.298
+"GO:0089709","GO:0089709",13,"GO:0015879",6.24200129254093,2,"L-histidine transmembrane transport","carnitine transport",0.909324909747292,0.522285714285714,0.304
+"GO:0015822","GO:0015822",13,"GO:0015879",6.24200129254093,0,"ornithine transport","carnitine transport",0.918274368231047,0.518523809523809,0.442
+"GO:0014721","GO:0014721",3,"GO:0003012",6.24200129254093,0,"twitch skeletal muscle contraction","muscle system process",0.928967509025271,0.497363636363636,0.481
+"GO:0003010","GO:0003010",3,"GO:0003012",6.24200129254093,0,"voluntary skeletal muscle contraction","muscle system process",0.922346570397112,0.483272727272727,0.499
+"GO:1990778","GO:1990778",4,"GO:0071205",6.20432555657855,0,"protein localization to cell periphery","protein localization to juxtaparanode region of axon",0.895537906137184,0.472642857142857,0.691
+"GO:0070934","GO:0070934",5,"GO:0070966",6.20093913965514,4,"CRD-mediated mRNA stabilization","nuclear-transcribed mRNA catabolic process, no-go decay",0.91898916967509,0.650428571428571,0.541
+"GO:0060047","GO:0060047",21,"GO:0060048",6.13884741570113,84,"heart contraction","cardiac muscle contraction",0.913198555956679,0.491875,0.71
+"GO:0003229","GO:0003229",22,"GO:0055010",6.04384482253374,1,"ventricular cardiac muscle tissue development","ventricular cardiac muscle tissue morphogenesis",0.939194945848375,0.6206,0.577
+"GO:0034331","GO:0034331",2,"GO:1990227",5.96328362463313,0,"cell junction maintenance","paranodal junction maintenance",0.90101083032491,0.65848275862069,0.712
+"GO:0030029","GO:0030029",2,"GO:1990227",5.93148599733766,0,"actin filament-based process","paranodal junction maintenance",0.838046931407942,0.700137931034483,0.225
+"GO:0034220","GO:0034220",17,"GO:0006811",5.87228247123559,103,"monoatomic ion transmembrane transport","monoatomic ion transport",0.845689530685921,0.650153846153846,0.691
+"GO:0007007","GO:0007007",2,"GO:1990227",5.84717830065267,9,"inner mitochondrial membrane organization","paranodal junction maintenance",0.915252707581227,0.705275862068966,0.188
+"GO:0060456","GO:0060456",6,"GO:0006937",5.82375435257373,0,"positive regulation of digestive system process","regulation of muscle contraction",0.885956678700361,0.548823529411765,0.412
+"GO:0003015","GO:0003015",21,"GO:0060048",5.75605896652551,5,"heart process","cardiac muscle contraction",0.899425992779783,0.5716875,0.526
+"GO:0050881","GO:0050881",3,"GO:0003012",5.74058415098,3,"musculoskeletal movement","muscle system process",0.904169675090253,0.574,0.329
+"GO:0050879","GO:0050879",3,"GO:0003012",5.74058415098,0,"multicellular organismal movement","muscle system process",0.877902527075812,0.563,0.428
+"GO:0070142","GO:0070142",17,"GO:0006811",5.7260210322444,0,"synaptic vesicle budding","monoatomic ion transport",0.89385559566787,0.635384615384615,0.263
+"GO:0097553","GO:0097553",20,"GO:0014808",5.7260210322444,0,"calcium ion transmembrane import into cytosol","release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",0.897750902527076,0.460818181818182,0.761
+"GO:1902022","GO:1902022",13,"GO:0015879",5.69102537153917,0,"L-lysine transport","carnitine transport",0.920599277978339,0.532761904761905,0.429
+"GO:0060314","GO:0060314",20,"GO:0014808",5.67607165863352,1,"regulation of ryanodine-sensitive calcium-release channel activity","release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",0.905812274368231,0.465454545454545,0.646
+"GO:0098703","GO:0098703",20,"GO:0014808",5.59964784713108,22,"calcium ion import across plasma membrane","release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",0.914530685920578,0.548181818181818,0.598
+"GO:0016051","GO:0016051",8,"GO:0006074",5.5881474453825,13,"carbohydrate biosynthetic process","(1->3)-beta-D-glucan metabolic process",0.902783393501805,0.565866666666667,0.315
+"GO:0071340","GO:0071340",2,"GO:1990227",5.47484317271921,2,"skeletal muscle acetylcholine-gated channel clustering","paranodal junction maintenance",0.915465703971119,0.795793103448276,0.184
+"GO:0044042","GO:0044042",8,"GO:0006074",5.47484317271921,0,"glucan metabolic process","(1->3)-beta-D-glucan metabolic process",0.90643321299639,0.537466666666667,0.609
+"GO:0006073","GO:0006073",8,"GO:0006074",5.47484317271921,0,"cellular glucan metabolic process","(1->3)-beta-D-glucan metabolic process",0.88526714801444,0.446066666666667,0.841
+"GO:0008016","GO:0008016",21,"GO:0060048",5.4275417876187,37,"regulation of heart contraction","cardiac muscle contraction",0.892772563176895,0.3748125,0.493
+"GO:0051703","GO:0051703",12,"GO:1901261",5.41171462556843,0,"biological process involved in intraspecies interaction between organisms","regulation of sorocarp spore cell differentiation",0.868880866425993,0.661916666666667,0.205
+"GO:0030036","GO:0030036",2,"GO:1990227",5.39662595477421,130,"actin cytoskeleton organization","paranodal junction maintenance",0.875151624548737,0.635103448275862,0.244
+"GO:0150093","GO:0150093",17,"GO:0006811",5.39325830994597,0,"amyloid-beta clearance by transcytosis","monoatomic ion transport",0.867324909747292,0.683923076923077,0.378
+"GO:0010927","GO:0010927",14,"GO:0030913",5.39325830994597,0,"cellular component assembly involved in morphogenesis","paranodal junction assembly",0.891194945848375,0.593142857142857,0.693
+"GO:0001941","GO:0001941",2,"GO:1990227",5.27091238391595,0,"postsynaptic membrane organization","paranodal junction maintenance",0.907888086642599,0.680965517241379,0.3
+"GO:0010881","GO:0010881",20,"GO:0014808",5.24866622307872,1,"regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion","release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",0.892324909747292,0.512181818181818,0.64
+"GO:0060729","GO:0060729",6,"GO:0006937",5.23887044318573,11,"intestinal epithelial structure maintenance","regulation of muscle contraction",0.920909747292419,0.679058823529412,0.178
+"GO:0060731","GO:0060731",6,"GO:0006937",5.23887044318573,0,"positive regulation of intestinal epithelial structure maintenance","regulation of muscle contraction",0.909003610108303,0.593823529411765,0.292
+"GO:1903861","GO:1903861",23,"GO:1903861",5.23887044318573,0,"positive regulation of dendrite extension","positive regulation of dendrite extension",0.918819494584838,0.5938,0
+"GO:0070715","GO:0070715",13,"GO:0015879",5.23887044318573,0,"sodium-dependent organic cation transport","carnitine transport",0.917924187725632,0.580952380952381,0.55
+"GO:0015801","GO:0015801",13,"GO:0015879",5.23887044318573,0,"aromatic amino acid transport","carnitine transport",0.914393501805054,0.564380952380952,0.411
+"GO:0060730","GO:0060730",6,"GO:0006937",5.23887044318573,0,"regulation of intestinal epithelial structure maintenance","regulation of muscle contraction",0.893353790613718,0.563588235294118,0.349
+"GO:1900749","GO:1900749",13,"GO:0015879",5.23887044318573,0,"(R)-carnitine transport","carnitine transport",0.924256317689531,0.561095238095238,0.894
+"GO:1902270","GO:1902270",13,"GO:0015879",5.23887044318573,0,"(R)-carnitine transmembrane transport","carnitine transport",0.90557761732852,0.544666666666667,0.665
+"GO:0086064","GO:0086064",21,"GO:0060048",5.23887044318573,0,"cell communication by electrical coupling involved in cardiac conduction","cardiac muscle contraction",0.880126353790614,0.5135,0.329
+"GO:0045117","GO:0045117",13,"GO:0015879",5.23887044318573,0,"azole transmembrane transport","carnitine transport",0.884729241877256,0.511047619047619,0.462
+"GO:0097494","GO:0097494",2,"GO:1990227",5.16959669265407,0,"regulation of vesicle size","paranodal junction maintenance",0.893635379061372,0.726344827586207,0.232
+"GO:1900152","GO:1900152",5,"GO:0070966",5.14456451407301,0,"negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay","nuclear-transcribed mRNA catabolic process, no-go decay",0.927209386281588,0.650571428571429,0.597
+"GO:0044264","GO:0044264",8,"GO:0006074",5.14254820828384,0,"cellular polysaccharide metabolic process","(1->3)-beta-D-glucan metabolic process",0.868252707581227,0.441533333333333,0.766
+"GO:0002027","GO:0002027",21,"GO:0060048",5.14056310462675,8,"regulation of heart rate","cardiac muscle contraction",0.878389891696751,0.436875,0.414
+"GO:0034971","GO:0034971",16,"GO:1902992",5.11087717900177,1,"histone H3-R17 methylation","negative regulation of amyloid precursor protein catabolic process",0.910898916967509,0.73364,0.192
+"GO:2000767","GO:2000767",5,"GO:0070966",5.11087717900177,3,"positive regulation of cytoplasmic translation","nuclear-transcribed mRNA catabolic process, no-go decay",0.921859205776173,0.648857142857143,0.193
+"GO:0009177","GO:0009177",11,"GO:0006182",5.11087717900177,0,"pyrimidine deoxyribonucleoside monophosphate biosynthetic process","cGMP biosynthetic process",0.923812274368231,0.547733333333333,0.384
+"GO:0006231","GO:0006231",11,"GO:0006182",5.11087717900177,3,"dTMP biosynthetic process","cGMP biosynthetic process",0.934945848375451,0.532333333333333,0.402
+"GO:0031444","GO:0031444",3,"GO:0003012",5.11087717900177,5,"slow-twitch skeletal muscle fiber contraction","muscle system process",0.934386281588448,0.521818181818182,0.467
+"GO:0089718","GO:0089718",13,"GO:0015879",5.07539257302194,0,"amino acid import across plasma membrane","carnitine transport",0.895003610108303,0.569380952380952,0.28
+"GO:0030042","GO:0030042",2,"GO:1990227",5.04746989129303,12,"actin filament depolymerization","paranodal junction maintenance",0.932296028880866,0.768586206896552,0.128
+"GO:0048261","GO:0048261",18,"GO:0043269",5.04746989129303,0,"negative regulation of receptor-mediated endocytosis","regulation of monoatomic ion transport",0.888231046931408,0.640181818181818,0.352
+"GO:0003007","GO:0003007",22,"GO:0055010",5.04746989129303,77,"heart morphogenesis","ventricular cardiac muscle tissue morphogenesis",0.92326714801444,0.522,0.539
+"GO:2000369","GO:2000369",18,"GO:0043269",5.02424005057456,6,"regulation of clathrin-dependent endocytosis","regulation of monoatomic ion transport",0.890194945848375,0.643727272727273,0.381
+"GO:1905048","GO:1905048",16,"GO:1902992",5.02424005057456,1,"regulation of metallopeptidase activity","negative regulation of amyloid precursor protein catabolic process",0.902425992779783,0.58752,0.456
+"GO:1903077","GO:1903077",4,"GO:0071205",5.02424005057456,0,"negative regulation of protein localization to plasma membrane","protein localization to juxtaparanode region of axon",0.909227436823105,0.539357142857143,0.319
+"GO:2000009","GO:2000009",4,"GO:0071205",5.02424005057456,3,"negative regulation of protein localization to cell surface","protein localization to juxtaparanode region of axon",0.887342960288809,0.508928571428571,0.41
+"GO:0030277","GO:0030277",6,"GO:0006937",4.91950470005454,1,"maintenance of gastrointestinal epithelium","regulation of muscle contraction",0.913812274368231,0.663470588235294,0.2
+"GO:0002026","GO:0002026",21,"GO:0060048",4.91950470005454,0,"regulation of the force of heart contraction","cardiac muscle contraction",0.878823104693141,0.444375,0.414
+"GO:0045123","GO:0045123",15,"GO:0050904",4.85474579657211,0,"cellular extravasation","diapedesis",0.906357400722022,0.573833333333333,0.895
+"GO:0018195","GO:0018195",16,"GO:1902992",4.73198397921808,0,"peptidyl-arginine modification","negative regulation of amyloid precursor protein catabolic process",0.898115523465704,0.67384,0.254
+"GO:1904376","GO:1904376",4,"GO:0071205",4.62500557154952,0,"negative regulation of protein localization to cell periphery","protein localization to juxtaparanode region of axon",0.883927797833935,0.441357142857143,0.41
+"GO:0045229","GO:0045229",2,"GO:1990227",4.61526166027595,0,"external encapsulating structure organization","paranodal junction maintenance",0.875436823104693,0.606448275862069,0.353
+"GO:0033275","GO:0033275",15,"GO:0050904",4.59667757529572,0,"actin-myosin filament sliding","diapedesis",0.920682310469314,0.770833333333333,0.179
+"GO:0009609","GO:0009609",9,"GO:0030447",4.59667757529572,0,"response to symbiotic bacterium","filamentous growth",0.95056678700361,0.7614,0.11
+"GO:0006539","GO:0006539",1,"GO:0043648",4.57708201923234,0,"glutamate catabolic process via 2-oxoglutarate","dicarboxylic acid metabolic process",0.93543321299639,0.79375,0.418
+"GO:0022604","GO:0022604",23,"GO:1903861",4.55851077968589,10,"regulation of cell morphogenesis","positive regulation of dendrite extension",0.910176895306859,0.6184,0.367
+"GO:0043931","GO:0043931",22,"GO:0055010",4.47189948025829,3,"ossification involved in bone maturation","ventricular cardiac muscle tissue morphogenesis",0.921823104693141,0.6426,0.195
+"GO:0070977","GO:0070977",22,"GO:0055010",4.47189948025829,0,"bone maturation","ventricular cardiac muscle tissue morphogenesis",0.936043321299639,0.6249,0.202
+"GO:0048741","GO:0048741",14,"GO:0030913",4.45007027400117,88,"skeletal muscle fiber development","paranodal junction assembly",0.93702166064982,0.712857142857143,0.151
+"GO:0009221","GO:0009221",11,"GO:0006182",4.3027042183398,0,"pyrimidine deoxyribonucleotide biosynthetic process","cGMP biosynthetic process",0.926920577617328,0.498466666666667,0.498
+"GO:1903522","GO:1903522",21,"GO:0060048",4.28858061781029,0,"regulation of blood circulation","cardiac muscle contraction",0.878137184115523,0.4498125,0.358
+"GO:0071313","GO:0071313",24,"GO:0071313",4.2221766427855,0,"cellular response to caffeine","cellular response to caffeine",0.951086642599278,0.454,0
+"GO:0005976","GO:0005976",8,"GO:0006074",4.21971988406881,0,"polysaccharide metabolic process","(1->3)-beta-D-glucan metabolic process",0.891851985559567,0.515466666666667,0.577
+"GO:0019637","GO:0019637",19,"GO:0009060",4.21729971255301,0,"organophosphate metabolic process","aerobic respiration",0.852140794223827,0.645166666666667,0.324
+"GO:0031000","GO:0031000",24,"GO:0071313",4.21491528021437,0,"response to caffeine","cellular response to caffeine",0.960205776173285,0.62325,0.604
+"GO:0034969","GO:0034969",16,"GO:1902992",4.17716344457821,2,"histone arginine methylation","negative regulation of amyloid precursor protein catabolic process",0.911458483754513,0.7308,0.191
+"GO:0045214","GO:0045214",14,"GO:0030913",4.17716344457821,57,"sarcomere organization","paranodal junction assembly",0.925812274368231,0.616714285714286,0.412
+"GO:1903826","GO:1903826",13,"GO:0015879",4.17716344457821,0,"L-arginine transmembrane transport","carnitine transport",0.905490974729242,0.541761904761905,0.285
+"GO:0009263","GO:0009263",11,"GO:0006182",4.17716344457821,6,"deoxyribonucleotide biosynthetic process","cGMP biosynthetic process",0.910252707581227,0.4504,0.606
+"GO:0099174","GO:0099174",2,"GO:1990227",4.1413534496709,0,"regulation of presynapse organization","paranodal junction maintenance",0.892086642599278,0.742655172413793,0.239
+"GO:0071470","GO:0071470",7,"GO:0001402",4.11247352563764,1,"cellular response to osmotic stress","signal transduction involved in filamentous growth",0.929613718411552,0.618375,0.207
+"GO:0003013","GO:0003013",21,"GO:0060048",4.11247352563764,0,"circulatory system process","cardiac muscle contraction",0.881093862815884,0.6011875,0.447
+"GO:1903859","GO:1903859",23,"GO:1903861",4.11247352563764,0,"regulation of dendrite extension","positive regulation of dendrite extension",0.909743682310469,0.56,0.863
+"GO:0010499","GO:0010499",16,"GO:1902992",4.08416649732944,4,"proteasomal ubiquitin-independent protein catabolic process","negative regulation of amyloid precursor protein catabolic process",0.911812274368231,0.72844,0.249
+"GO:0006091","GO:0006091",19,"GO:0009060",4.08416649732944,1,"generation of precursor metabolites and energy","aerobic respiration",0.84972202166065,0.499333333333333,0.65
+"GO:0009608","GO:0009608",9,"GO:0030447",4.06374859185823,0,"response to symbiont","filamentous growth",0.936953068592058,0.7392,0.136
+"GO:0010666","GO:0010666",25,"GO:0010666",4.06374859185823,0,"positive regulation of cardiac muscle cell apoptotic process","positive regulation of cardiac muscle cell apoptotic process",0.94473285198556,0.58,0
+"GO:0010663","GO:0010663",25,"GO:0010666",4.06374859185823,0,"positive regulation of striated muscle cell apoptotic process","positive regulation of cardiac muscle cell apoptotic process",0.939187725631769,0.58,0.84
+"GO:0048644","GO:0048644",22,"GO:0055010",4.06374859185823,2,"muscle organ morphogenesis","ventricular cardiac muscle tissue morphogenesis",0.922859205776173,0.5428,0.519
+"GO:0071312","GO:0071312",24,"GO:0071313",4.06374859185823,0,"cellular response to alkaloid","cellular response to caffeine",0.939758122743682,0.5305,0.756
+"GO:0051480","GO:0051480",20,"GO:0014808",4.03948001713129,27,"regulation of cytosolic calcium ion concentration","release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",0.935274368231047,0.558,0.474
+"GO:0051283","GO:0051283",20,"GO:0014808",4.03948001713129,1,"negative regulation of sequestering of calcium ion","release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",0.878014440433213,0.443,0.705
+"GO:0048799","GO:0048799",22,"GO:0055010",4.01687895092819,0,"animal organ maturation","ventricular cardiac muscle tissue morphogenesis",0.920884476534296,0.5754,0.267
+"GO:0071415","GO:0071415",24,"GO:0071313",4.01687895092819,0,"cellular response to purine-containing compound","cellular response to caffeine",0.944075812274368,0.50425,0.824
+"GO:0006575","GO:0006575",16,"GO:1902992",3.99390737206475,1,"cellular modified amino acid metabolic process","negative regulation of amyloid precursor protein catabolic process",0.843765342960289,0.65732,0.267
+"GO:0051208","GO:0051208",20,"GO:0014808",3.97410675995359,0,"sequestering of calcium ion","release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",0.890870036101083,0.465181818181818,0.595
+"GO:0051282","GO:0051282",20,"GO:0014808",3.97410675995359,0,"regulation of sequestering of calcium ion","release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",0.866559566787004,0.446,0.657
+"GO:0055001","GO:0055001",14,"GO:0030913",3.89296113593524,42,"muscle cell development","paranodal junction assembly",0.904638989169675,0.629,0.216
+"GO:0060415","GO:0060415",22,"GO:0055010",3.85856990717242,10,"muscle tissue morphogenesis","ventricular cardiac muscle tissue morphogenesis",0.929440433212996,0.5575,0.61
+"GO:1903524","GO:1903524",21,"GO:0060048",3.81297102612897,0,"positive regulation of blood circulation","cardiac muscle contraction",0.882054151624549,0.504875,0.313
+"GO:0010460","GO:0010460",21,"GO:0060048",3.81297102612897,3,"positive regulation of heart rate","cardiac muscle contraction",0.89958844765343,0.4949375,0.357
+"GO:0098870","GO:0098870",26,"GO:0098870",3.77591640542658,0,"action potential propagation","action potential propagation",0.935361010830325,0.7445,0
+"GO:0019227","GO:0019227",26,"GO:0098870",3.77591640542658,0,"neuronal action potential propagation","action potential propagation",0.899332129963899,0.7445,0.511
+"GO:1901844","GO:1901844",21,"GO:0060048",3.77591640542658,0,"regulation of cell communication by electrical coupling involved in cardiac conduction","cardiac muscle contraction",0.888631768953069,0.5658125,0.275
+"GO:0055008","GO:0055008",22,"GO:0055010",3.77591640542658,8,"cardiac muscle tissue morphogenesis","ventricular cardiac muscle tissue morphogenesis",0.943902527075812,0.535,0.808
+"GO:0046073","GO:0046073",11,"GO:0006182",3.75053318212181,0,"dTMP metabolic process","cGMP biosynthetic process",0.916902527075812,0.507533333333333,0.302
+"GO:0043501","GO:0043501",6,"GO:0006937",3.73933005111373,0,"skeletal muscle adaptation","regulation of muscle contraction",0.916653429602888,0.757235294117647,0.266
+"GO:0046854","GO:0046854",19,"GO:0009060",3.70436197165554,52,"phosphatidylinositol phosphate biosynthetic process","aerobic respiration",0.923657039711191,0.788166666666667,0.136
+"GO:0014904","GO:0014904",14,"GO:0030913",3.67399203224039,0,"myotube cell development","paranodal junction assembly",0.923090252707581,0.643714285714286,0.172
+"GO:0043954","GO:0043954",2,"GO:1990227",3.67399203224039,0,"cellular component maintenance","paranodal junction maintenance",0.874624548736462,0.598689655172414,0.552
+"GO:0014733","GO:0014733",6,"GO:0006937",3.66672869895813,0,"regulation of skeletal muscle adaptation","regulation of muscle contraction",0.904790613718412,0.621588235294118,0.496
+"GO:0086065","GO:0086065",21,"GO:0060048",3.66672869895813,0,"cell communication involved in cardiac conduction","cardiac muscle contraction",0.863104693140794,0.4815625,0.363
+"GO:0018216","GO:0018216",16,"GO:1902992",3.63949305503007,12,"peptidyl-arginine methylation","negative regulation of amyloid precursor protein catabolic process",0.903906137184115,0.6944,0.222
+"GO:1990822","GO:1990822",13,"GO:0015879",3.63949305503007,0,"basic amino acid transmembrane transport","carnitine transport",0.909501805054152,0.566809523809524,0.286
+"GO:1905476","GO:1905476",4,"GO:0071205",3.53646416832407,0,"negative regulation of protein localization to membrane","protein localization to juxtaparanode region of axon",0.887021660649819,0.507571428571429,0.41
+"GO:0055117","GO:0055117",21,"GO:0060048",3.49396029070991,7,"regulation of cardiac muscle contraction","cardiac muscle contraction",0.91170036101083,0.5121875,0.657
+"GO:0030049","GO:0030049",15,"GO:0050904",3.47681836421669,5,"muscle filament sliding","diapedesis",0.907003610108303,0.804,0.13
+"GO:0009219","GO:0009219",11,"GO:0006182",3.47681836421669,0,"pyrimidine deoxyribonucleotide metabolic process","cGMP biosynthetic process",0.905209386281588,0.4574,0.377
+"GO:1901020","GO:1901020",18,"GO:0043269",3.38832179198563,0,"negative regulation of calcium ion transmembrane transporter activity","regulation of monoatomic ion transport",0.919317689530686,0.733727272727273,0.335
+"GO:2000008","GO:2000008",4,"GO:0071205",3.33404397054604,0,"regulation of protein localization to cell surface","protein localization to juxtaparanode region of axon",0.885895306859206,0.476,0.468
+"GO:0070979","GO:0070979",16,"GO:1902992",3.26160096636916,10,"protein K11-linked ubiquitination","negative regulation of amyloid precursor protein catabolic process",0.914707581227437,0.75596,0.215
+"GO:1905949","GO:1905949",18,"GO:0043269",3.26160096636916,0,"negative regulation of calcium ion import across plasma membrane","regulation of monoatomic ion transport",0.914079422382671,0.755090909090909,0.26
+"GO:0052697","GO:0052697",1,"GO:0043648",3.26160096636916,0,"xenobiotic glucuronidation","dicarboxylic acid metabolic process",0.905519855595668,0.70125,0.422
+"GO:0052696","GO:0052696",1,"GO:0043648",3.26160096636916,0,"flavonoid glucuronidation","dicarboxylic acid metabolic process",0.908848375451264,0.682,0.49
+"GO:0097638","GO:0097638",13,"GO:0015879",3.26160096636916,4,"L-arginine import across plasma membrane","carnitine transport",0.916480144404332,0.589809523809524,0.226
+"GO:1903810","GO:1903810",13,"GO:0015879",3.26160096636916,0,"L-histidine import across plasma membrane","carnitine transport",0.914028880866426,0.559666666666667,0.257
+"GO:0006970","GO:0006970",7,"GO:0001402",3.19392094259189,1,"response to osmotic stress","signal transduction involved in filamentous growth",0.927007220216607,0.667125,0.154
+"GO:0008360","GO:0008360",23,"GO:1903861",3.19392094259189,65,"regulation of cell shape","positive regulation of dendrite extension",0.89913357400722,0.649,0.311
+"GO:0045823","GO:0045823",21,"GO:0060048",3.19392094259189,4,"positive regulation of heart contraction","cardiac muscle contraction",0.898592057761733,0.4440625,0.423
+"GO:0098957","GO:0098957",17,"GO:0006811",3.16495327009249,2,"anterograde axonal transport of mitochondrion","monoatomic ion transport",0.93685559566787,0.788923076923077,0.224
+"GO:0010880","GO:0010880",20,"GO:0014808",3.16495327009249,1,"regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum","release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",0.900599277978339,0.413,0.828
+"GO:0050772","GO:0050772",23,"GO:1903861",3.13977131866103,17,"positive regulation of axonogenesis","positive regulation of dendrite extension",0.932801444043321,0.7132,0.49
+"GO:0019722","GO:0019722",7,"GO:0001402",3.13977131866103,22,"calcium-mediated signaling","signal transduction involved in filamentous growth",0.896718411552347,0.688625,0.601
+"GO:0003208","GO:0003208",22,"GO:0055010",3.13977131866103,6,"cardiac ventricle morphogenesis","ventricular cardiac muscle tissue morphogenesis",0.931494584837545,0.5861,0.682
+"GO:2000765","GO:2000765",5,"GO:0070966",3.11332472607066,0,"regulation of cytoplasmic translation","nuclear-transcribed mRNA catabolic process, no-go decay",0.906685920577617,0.641285714285714,0.243
+"GO:0006020","GO:0006020",8,"GO:0006074",3.08857217558326,6,"inositol metabolic process","(1->3)-beta-D-glucan metabolic process",0.88342238267148,0.620133333333333,0.409
+"GO:0051261","GO:0051261",2,"GO:1990227",3.06531927885746,0,"protein depolymerization","paranodal junction maintenance",0.927075812274368,0.766758620689655,0.163

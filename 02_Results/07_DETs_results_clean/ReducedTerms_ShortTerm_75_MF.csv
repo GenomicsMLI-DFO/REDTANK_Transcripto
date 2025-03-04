@@ -1,0 +1,12 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0043621","GO:0043621",1,"GO:0043621",3.68306562644047,2,"protein self-association","protein self-association",0.843545454545455,0.7574,0
+"GO:0003700","GO:0003700",1,"GO:0043621",3.68306562644047,646,"DNA-binding transcription factor activity","protein self-association",0.823363636363636,0.7512,0.176
+"GO:0016231","GO:0016231",2,"GO:0016231",3.68306562644047,2,"beta-N-acetylglucosaminidase activity","beta-N-acetylglucosaminidase activity",0.808454545454545,0.710666666666667,0
+"GO:0102571","GO:0102571",2,"GO:0016231",3.68306562644047,0,"[protein]-3-O-(N-acetyl-D-glucosaminyl)-L-serine/L-threonine O-N-acetyl-alpha-D-glucosaminase activity","beta-N-acetylglucosaminidase activity",0.756545454545455,0.63,0.476
+"GO:0102167","GO:0102167",2,"GO:0016231",3.68306562644047,0,"[protein]-3-O-(N-acetyl-D-glucosaminyl)-L-serine O-N-acetyl-alpha-D-glucosaminase activity","beta-N-acetylglucosaminidase activity",0.756545454545455,0.63,0.476
+"GO:0102166","GO:0102166",2,"GO:0016231",3.68306562644047,0,"[protein]-3-O-(N-acetyl-D-glucosaminyl)-L-threonine O-N-acetyl-alpha-D-glucosaminase activity","beta-N-acetylglucosaminidase activity",0.756545454545455,0.63,0.476
+"GO:0000981","GO:0000981",1,"GO:0043621",3.66376047124508,1322,"DNA-binding transcription factor activity, RNA polymerase II-specific","protein self-association",0.850454545454545,0.7726,0.135
+"GO:0051015","GO:0051015",1,"GO:0043621",3.66376047124508,284,"actin filament binding","protein self-association",0.858818181818182,0.7698,0.411
+"GO:0031433","GO:0031433",1,"GO:0043621",3.33627814021581,5,"telethonin binding","protein self-association",0.851181818181818,0.7498,0.491
+"GO:0052740","GO:0052740",2,"GO:0016231",3.18606740014011,0,"1-acyl-2-lysophosphatidylserine acylhydrolase activity","beta-N-acetylglucosaminidase activity",0.824818181818182,0.742,0.154
+"GO:0052739","GO:0052739",2,"GO:0016231",3.18606740014011,0,"phosphatidylserine 1-acylhydrolase activity","beta-N-acetylglucosaminidase activity",0.824818181818182,0.742,0.154

@@ -1,0 +1,3 @@
+"","go","cluster","parent","parentSimScore","score","size","term","parentTerm"
+"GO:0048269","GO:0048269",1,"GO:0048269",1,2.83243456785467,5,"methionine adenosyltransferase complex","methionine adenosyltransferase complex"
+"GO:0009986","GO:0009986",1,"GO:0048269",0.141,2.73552455484662,137,"cell surface","methionine adenosyltransferase complex"

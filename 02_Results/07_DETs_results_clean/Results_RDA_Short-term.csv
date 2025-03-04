@@ -1,0 +1,4 @@
+"Effect","Df","Variance","F","Pr..F.","R2","adjusted_R2","Factor"
+"Sampling",1,254.570461836904,1.88263633141219,0.008,0.0500436206207435,0.0249283208814302,"Temperature as continous variable"
+"Acclimation",1,299.66385110243,2.2161174915013,0.005,0.058908107288302,0.034346837965711,"Temperature as continous variable"
+"Sampling:Accimation",1,254.440103583015,1.88167228718215,0.02,0.0500179947136544,0.024901093355148,"Temperature as continous variable"
