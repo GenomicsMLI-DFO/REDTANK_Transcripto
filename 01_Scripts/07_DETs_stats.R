@@ -306,6 +306,23 @@ res.long.df <- data.frame(Effect = c("Acclim_10vs3_months", "Acclimation"),
 #           row.names = F)
 # 
 
+
+## full RDA  and plot
+
+## with or withou sex effect
+
+rda.1 <- capscale(count.dist ~ metaData$Temperature_acclim + metaData$Delta_acclim)
+RsquareAdj(rda.1)
+anova.cca(rda.1, by = "margin")
+
+rda.2 <- capscale(count.dist ~ metaData$Temperature_acclim + metaData$Delta_acclim + substring(metaData$Sex_genet, 1, 1))
+RsquareAdj(rda.2)
+anova.cca(rda.2, by = "margin")
+
+RsquareAdj(capscale(count.dist ~ metaData$acclim + Condition(metaData$Delta_acclim + substring(metaData$Sex_genet, 1, 1))))
+RsquareAdj(capscale(count.dist ~ metaData$Delta_acclim + Condition(metaData$acclim + substring(metaData$Sex_genet, 1, 1))))
+RsquareAdj(capscale(count.dist ~ substring(metaData$Sex_genet, 1, 1) + Condition(metaData$acclim + metaData$Delta_acclim)))
+
 # PCA plot
 
 ## Principal Component Analyis - PCA ----
@@ -335,6 +352,33 @@ pca.long.plot <- ggplot(pca.df.long, aes(PC1, PC2,
   theme(plot.margin = margin(.5, .5, .5, .5, "cm")) 
 
 pca.long.plot
+
+# RDA Ordination
+
+rda.df.long <- data.frame(scores(rda.1, display = "sites"),
+                          acclim = metaData$acclim)
+
+percentVar <- round(summary(rda.1)$cont$importance[2,1:2] * 100, 2)
+
+rda.long.plot <- ggplot(rda.df.long, aes(CAP1, CAP2, 
+                                         color = acclim)) +
+  geom_hline(yintercept = 0, linetype = "dashed", col = "grey") +
+  geom_vline(xintercept = 0, linetype = "dashed", col = "grey") +
+  geom_point(size = 4) +
+  xlab(paste0("RDA1: ", percentVar[1], "% variance")) +
+  ylab(paste0("RDA2: ", percentVar[2], "% variance")) +
+  scale_color_manual(name = "Long-term\ntemperature (°C)",
+                     values = c("#0571B0", "#92C5DE", "#F4A582", "#CA0020")) +
+  theme_bw() +
+  theme(
+    axis.text = element_text(color = "black"),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.line = element_blank()
+  ) +
+  theme(plot.margin = margin(.5, .5, .5, .5, "cm")) 
+
+rda.long.plot
 
 
 ## Result for all - wald test
@@ -371,10 +415,10 @@ summary(res.a.up2.sig)
 DET.acclim <- rbind(res.a.down %>% data.frame %>% mutate(Compare = "acclim_2.5_vs_5"),
                     res.a.up %>% data.frame %>% mutate(Compare = "acclim_7.5_vs_5"),
                     res.a.up2 %>%  data.frame %>% mutate(Compare = "acclim_10_vs_5"))
-
-write.csv(DET.acclim,
-          file.path(here(), "02_Results", new_dir,
-                    "DETs_long_term.csv"))
+# 
+# write.csv(DET.acclim,
+#           file.path(here(), "02_Results", new_dir,
+#                     "DETs_long_term.csv"))
 
 ## Venn plot
 s1 <- list("5.0°C to 2.5°C" = row.names(res.a.down.sig),
@@ -384,7 +428,7 @@ s1 <- list("5.0°C to 2.5°C" = row.names(res.a.down.sig),
 
 venn.plot.long.euler <- plot(euler(s1, shape = "circle"),
                              quantities = list(T, cex = .75),
-                             legend = list(T, cex = 0.75, side = "bottom"),
+                             legend = list(T, cex = 0.75, side = "right"),
                              fill = c("#0571B0", "#F4A582", "#CA0020"),
                              alpha = 0.75, edges = F) %>%
   ggplotify::as.ggplot(.) +
@@ -439,9 +483,9 @@ cluster.acclim.plot
 
 ### Export results long-term ---------------------------------------------------
 
-figure.long.up <- ggarrange(pca.long.plot, venn.plot.long.euler,
+figure.long.up <- ggarrange(rda.long.plot, venn.plot.long.euler,
                             ncol = 2, labels = c("A.", "B."),
-                            widths = c(1.5,1))
+                            widths = c(1.3,1))
 figure.long <- ggarrange(figure.long.up, cluster.acclim.plot,
                          nrow = 2, labels = c("", "C.")) +
   theme(plot.margin = margin(.2, .2, .2, .2, "cm"), 
@@ -452,6 +496,14 @@ figure.long
 # ggsave(file.path(here::here(), "02_Results", new_dir, "Fig_LongTerm.png"),
 #        figure.long,
 #        width = 6, height = 4.5, scale = 1.5)
+
+ggsave(file.path(here::here(), "02_Results", new_dir, "Fig_LongTerm_new_RDA.png"),
+       figure.long,
+       width = 6.5, height = 4.5, scale = 1.8)
+
+ggsave(file.path(here::here(), "02_Results", new_dir, "Fig2_LongTerm_new_RDA.pdf"),
+       figure.long,
+       width = 16.5, height = 11.5, units = "cm", scale = 1.8)
 
 # write.csv(df.longterm,
 #           file.path(here::here(), "02_Results", new_dir, "Longterm_Gene_cluster.csv"))
@@ -514,7 +566,42 @@ res.short.c <- data.frame(Effect = c("Sampling", "Acclimation", "Sampling:Accima
 #                           Factor = rep("Temperature as factor", 3))
 
 
+# using sex or not
 
+rda.s.1 <- capscale(count.dist ~ Temperature_sampling * Temperature_acclim, metaData)
+  
+rda.s.2 <- capscale(count.dist ~ metaData$Temperature_acclim + metaData$Temperature_sampling + 
+                      metaData$Temperature_acclim:metaData$Temperature_sampling + 
+                      substring(metaData$Sex_genet, 1, 1))
+anova.cca(rda.s.2, by = "margin")
+
+capscale(count.dist ~ metaData$Temperature_acclim +
+           Condition(metaData$Temperature_sampling + 
+                      metaData$Temperature_acclim:metaData$Temperature_sampling + 
+                      substring(metaData$Sex_genet, 1, 1))) %>%
+# RsquareAdj()
+  anova.cca
+
+capscale(count.dist ~ metaData$Temperature_sampling +
+           Condition(metaData$Temperature_acclim + 
+                       metaData$Temperature_acclim:metaData$Temperature_sampling + 
+                       substring(metaData$Sex_genet, 1, 1))) %>%
+# RsquareAdj()
+  anova.cca()
+
+capscale(count.dist ~ metaData$Temperature_acclim:metaData$Temperature_sampling + 
+           Condition(metaData$Temperature_acclim + 
+                       metaData$Temperature_sampling +
+                       substring(metaData$Sex_genet, 1, 1))) %>%
+  # RsquareAdj()
+  anova.cca()
+
+capscale(count.dist ~ substring(metaData$Sex_genet, 1, 1) +
+           Condition(metaData$Temperature_acclim + 
+                       metaData$Temperature_sampling +
+                       metaData$Temperature_acclim:metaData$Temperature_sampling)) %>%
+  # RsquareAdj()
+  anova.cca()
 
 # PCA plot
 
@@ -549,6 +636,43 @@ pca.short.plot <- ggplot(pca.df.short, aes(PC1, PC2,
   theme(plot.margin = margin(.5, .5, .5, .5, "cm")) 
 
 pca.short.plot
+
+
+## RDA plot
+
+## Principal Component Analyis - PCA ----
+rda.short <- capscale(count.dist ~ Temperature_sampling * Temperature_acclim, metaData)
+
+rda.df.short <- data.frame(scores(rda.short, display = "sites"),
+                           acclim = metaData$Temperature_acclim,
+                           sampling = metaData$Temperature_sampling)
+
+percentVar <- round(summary(rda.short)$cont$importance[2,1:2] * 100, 2)
+
+rda.short.plot <- ggplot(rda.df.short, aes(CAP1, CAP2, 
+                                           color = factor(sampling),
+                                           shape = factor(acclim))) +
+  geom_hline(yintercept = 0, linetype = "dashed", col = "grey") +
+  geom_vline(xintercept = 0, linetype = "dashed", col = "grey") +
+  geom_point(size = 4) +
+  xlab(paste0("RDA1: ", percentVar[1], "% variance")) +
+  ylab(paste0("RDA2: ", percentVar[2], "% variance")) +
+  scale_color_manual(name = "Short-term\ntemperature (°C)",
+                     values = c("#0571B0", "#92C5DE", "#F4A582", "#CA0020")) +
+  scale_shape_manual(name = "Long-term\ntemperature (°C)",
+                     values = c(8, 17)) +
+  theme_bw() +
+  theme(
+    axis.text = element_text(color = "black"),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.line = element_blank()
+  ) +
+  theme(plot.margin = margin(.5, .5, .5, .5, "cm")) 
+
+rda.short.plot
+
+
 
 ## Result for all - wald test
 
@@ -600,7 +724,7 @@ s1 <- list("5.0°C to 2.5°C" = row.names(res.s5.down.sig),
 
 venn.plot.short.euler <- plot(euler(s1, shape = "circle"),
                              quantities = list(T, cex = 0.75),
-                             legend = list(T, cex = 0.75, side = "bottom"),
+                             legend = list(T, cex = 0.75, side = "right"),
                              fill = c("#0571B0", "#F4A582", "blue4", "#CA0020"),
                              alpha = 0.5, edges = F) 
 venn.plot.short.euler  
@@ -639,10 +763,10 @@ cluster.short.plot <- ggplot(df.shortterm, aes(x = sampling, y = value, color = 
   geom_violin(alpha = 0.5, position = position_dodge(.5)) +
   geom_smooth(aes(group = acclim),
               linetype="dashed", method = "gam", formula = y ~ poly(x, 2)) +
-  scale_fill_manual("Acclimation\ntemperature",
+  scale_fill_manual("Long-term (acclimation)\ntemperature",
                     values = c("#0571B0", "#F4A582"),
                     labels = c("5°C", "7.5°C" )) +
-  scale_color_manual("Acclimation\ntemperature",
+  scale_color_manual("Long-term (acclimation)\ntemperature",
                      values = c("#0571B0", "#F4A582"),
                      labels = c("5°C", "7.5°C" )) +
   xlab("Sampling temperature (°C)") +
@@ -652,7 +776,7 @@ cluster.short.plot <- ggplot(df.shortterm, aes(x = sampling, y = value, color = 
   theme(strip.background = element_blank(),
         strip.text = element_text(hjust = 0)) +
   theme(plot.margin = margin(.5, .5, .5, .5, "cm"),
-        legend.position = c(1, 0), legend.justification = c(1, 0),
+        legend.position = c(1, 0.05), legend.justification = c(1, 0),
         legend.title = element_text(size = 10),
         legend.text = element_text(size = 10))
 
@@ -660,9 +784,9 @@ cluster.short.plot
 
 ### Export results short-term ---------------------------------------------------
 
-figure.short.up <- ggarrange(pca.short.plot, venn.plot.short.euler,
+figure.short.up <- ggarrange(rda.short.plot, venn.plot.short.euler,
                              ncol = 2, labels = c("A.", "B."),
-                             widths = c(1.5,1))
+                             widths = c(1.3,1))
 figure.short <- ggarrange(figure.short.up, cluster.short.plot,
                           nrow = 2, labels = c("", "C.")) +
   theme(plot.margin = margin(.2, .2, .2, .2, "cm"), 
@@ -677,7 +801,13 @@ figure.short
 # write.csv(df.shortterm,
 #           file.path(here::here(), "02_Results", new_dir, "Shortterm_Gene_cluster.csv"))
 
+ggsave(file.path(here::here(), "02_Results", new_dir, "Fig_ShortTerm_new_RDA.png"),
+       figure.short,
+       width = 6.5, height = 4.5, scale = 1.8)
 
+ggsave(file.path(here::here(), "02_Results", new_dir, "Fig3_ShortTerm_new_RDA.pdf"),
+       figure.short,
+       width = 16.5, height = 11.5, units = "cm", scale = 1.8)
 
 # Diff long vs short -----------------------------------------------------------
 
@@ -761,7 +891,7 @@ tmp <- ifelse(all.genes %in% long.excl, 1, 0)
 geneList <- tmp
 
 # geneList needs names that match those for GO terms,
-names(geneList) <- unlist(all.genes, function(x)x[1])
+names(geneList) <- sapply(all.genes, function(x)x[1])
 
 ontology <- c("BP", "CC", "MF")
 
