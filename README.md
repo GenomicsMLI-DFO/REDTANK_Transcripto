@@ -6,8 +6,9 @@
 **Group:** Laboratory of genomics  
 **Location:** Maurice Lamontagne Institute  
 **Affiliated publication:** Leung C, Guitard J, Senay C, Bourret A,
-Chabot D and Parent GJ (In prep). Past environments modulate response to
-fluctuating temperatures in a marine fish species.  
+Chabot D and Parent GJ. Past environments modulate response to
+fluctuating temperatures in a marine fish species, *Sebastes
+fasciatus*.  
 **Contact:** e-mail: <christelle.leung@dfo-mpo.gc.ca>
 
 - [Objective](#objective)
@@ -29,33 +30,33 @@ plasticity
 
 ## Summary
 
-The rise in ocean temperatures predicted due to the global warming will
-impact the survival and structure of various marine organisms, in
-particular ectothermic organisms. Phenotypic plasticity enables species
-to cope with environmental changes, providing a vital buffer for
-evolutionary changes. Yet, the dynamics and the molecular mechanisms
-underpinning these plastic responses remain largely unexplored. Here, we
-assessed the impact of acclimation environment on organisms capacity for
-thermal plasticity. We conducted a genome-wide transcriptomic analysis
-on the Acadian redfish, *Sebastes fasciatus*, exposed to four
-temperatures (2.5, 5.0, 7.5 and 10.0 ℃) over a long-term period (up to
-10 months) followed by an acute temperature change (24 hours),
-simulating natural fluctuation condition the species could encounter.
-Our results showed a dynamic transcriptional response to temperature
-involving various genes functions. The rapid response to temperature
-shifts, coupled with the sustained expression of specific genes over an
-extended period highlighted the species’ capacity for plastic response
-to temperature changes. We also detected a significant effect of the
-interaction between the long and short terms temperature exposure on
+Predicted ocean warming will impact the survival and structure of
+various marine organisms, in particular ectotherms. Phenotypic
+plasticity enables species to cope with environmental changes, providing
+a vital buffer for evolutionary adaptations. Yet, the dynamics and
+molecular mechanisms underpinning these plastic responses remain largely
+unexplored. Here, we assessed the impact of temperature acclimation on
+organisms’ capacity for thermal plasticity. We conducted a genome-wide
+transcriptomic analysis on the Acadian redfish, *Sebastes fasciatus*,
+exposed to four temperatures (2.5, 5.0, 7.5 and 10.0 ℃) over a long-term
+period (up to 10 months) followed on some individuals by a short-term
+temperature change (+2.5 °C or -2.5 °C for 24 hours), simulating natural
+temperature variation the species could encounter. Our results showed a
+dynamic transcriptional response to temperature involving various gene
+functions. The rapid response to temperature shifts, coupled with the
+sustained expression of specific genes over an extended period
+highlighted the species’ capacity for plasticity in response to
+temperature changes. We also detected a significant effect of the
+interaction between the long- and short-term temperature exposures on
 gene expression, highlighting the influence of the past environment on
-response to acute temperature changes. Specifically, fish acclimated to
-higher temperatures demonstrated an increased stress-related response to
-environmental fluctuations, as evidenced by both the shape of their
-reaction norms and the implication of stress-related gene functions.
-This result suggests that temperature conditions predicted for the near
-future in the Northwest Atlantic will trigger less adaptive plasticity
-to environmental fluctuations, highlighting the species’ vulnerability
-to ocean warming.
+the response to short-term temperature changes. Specifically, fish
+acclimated to higher temperatures demonstrated an increased
+stress-related response to environmental fluctuations, as evidenced by
+both the shape of their reaction norms and the involvement of
+stress-related gene functions. This result suggests that temperature
+conditions predicted for the near future in the Northwest Atlantic will
+trigger reduced adaptive plasticity to environmental fluctuations,
+highlighting the species’ vulnerability to ocean warming.
 
 ## Status
 
