@@ -8,7 +8,7 @@
 **Affiliated publication:** Leung C, Guitard J, Senay C, Bourret A,
 Chabot D and Parent GJ (In prep). Past environments modulate response to
 fluctuating temperatures in a marine fish species.  
-**Contact:** e-mail: <christelle.leung@dfo-mpo.gc.ca>
+**Contact:** e-mail: <christelle.leung@uqtr.ca>
 
 - [Objective](#objective)
 
