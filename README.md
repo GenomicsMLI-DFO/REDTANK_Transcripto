@@ -1,15 +1,13 @@
 *S. faciatus* RNA-seq analysis
-================
 
 **Main author:** Christelle Leung  
 **Affiliation:** Fisheries and Oceans Canada (DFO)  
 **Group:** Laboratory of genomics  
 **Location:** Maurice Lamontagne Institute  
 **Affiliated publication:** Leung C, Guitard J, Senay C, Bourret A,
-Chabot D and Parent GJ. Past environments modulate response to
-fluctuating temperatures in a marine fish species, *Sebastes
-fasciatus*.  
-**Contact:** e-mail: <christelle.leung@dfo-mpo.gc.ca>
+Chabot D and Parent GJ (In prep). Past environments modulate response to
+fluctuating temperatures in a marine fish species.  
+**Contact:** e-mail: <christelle.leung@uqtr.ca>
 
 - [Objective](#objective)
 
