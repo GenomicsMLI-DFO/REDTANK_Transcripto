@@ -5,8 +5,7 @@
 **Group:** Laboratory of genomics  
 **Location:** Maurice Lamontagne Institute  
 **Affiliated publication:** Leung C, Guitard J, Senay C, Bourret A,
-Chabot D and Parent GJ (In prep). Past environments modulate response to
-fluctuating temperatures in a marine fish species.  
+Chabot D and Parent GJ (2025): Past environments modulate response to fluctuating temperatures in a marine fish species, *Sebastes fasciatus*. Journal of Experimental Biology. 
 **Contact:** e-mail: <christelle.leung@uqtr.ca>
 
 - [Objective](#objective)
@@ -58,7 +57,7 @@ highlighting the species’ vulnerability to ocean warming.
 
 ## Status
 
-Ongoing
+Accepted for publication
 
 ## Contents
 
